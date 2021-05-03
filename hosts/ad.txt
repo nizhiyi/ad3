@@ -5,14 +5,14 @@ s.bdstatic.com
 hectorstatic.baidu.com
 nv00.cdn.bcebos.com
 mss0.bdstatic.com
-https://m.cnbeta.com/static/api/js/share.js@m.cnbeta.com
-https://m.cnbeta.com/js/lib/jquery.js@m.cnbeta.com
+m.cnbeta.com/static/api/js/share.js@m.cnbeta.com
+m.cnbeta.com/js/lib/jquery.js@m.cnbeta.com
 sb.scorecardresearch.com
 cdn.taboola.com.cn
 vidstat.taboola.com
 cdn.taboola.com
 pos.baidu.com
-https://m.cnbeta.com/js/hzh.js@m.cnbeta.com
+m.cnbeta.com/js/hzh.js@m.cnbeta.com
 djl.duomai.com
 cpro.baidustatic.com
 www.googletagmanager.com
