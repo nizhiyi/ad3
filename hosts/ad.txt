@@ -1,3 +1,4 @@
+m.sogou.com/web/sogouhao/script
 www.gstatic.com
 tpc.googlesyndication.com
 mms-static.cdn.bcebos.com
