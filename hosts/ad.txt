@@ -4,9 +4,9 @@ njxzwh.com
 shouji.360.cn/download/abadownload.js
 m.onlinedown.net/js/headAd.js
 pp.uc.cn
-union.360.cn
-51.la
-cnzz.com
+union.360.cn$3p
+51.la$3p
+cnzz.com$3p
 dataoke.com
 m.sogou.com/web/sogouhao/script
 gstatic.com
@@ -18,7 +18,7 @@ m.cnbeta.com/js/lib/jquery.js
 scorecardresearch.com
 taboola.com.cn
 taboola.com
-pos.baidu.com
+pos.baidu.com$3p
 m.cnbeta.com/js/hzh.js
 duomai.com
 baidustatic.com
