@@ -12,7 +12,6 @@ m.sogou.com/web/sogouhao/script
 gstatic.com
 hectorstatic.baidu.com
 bcebos.com
-bdstatic.com
 m.cnbeta.com/static/api/js/share.js
 m.cnbeta.com/js/lib/jquery.js
 scorecardresearch.com
@@ -21,7 +20,6 @@ taboola.com
 pos.baidu.com$3p
 m.cnbeta.com/js/hzh.js
 duomai.com
-baidustatic.com
 googletagmanager.com
 google-analytics.com
 googletagservices.com
