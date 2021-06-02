@@ -17,8 +17,6 @@ m.sogou.com/web/sogouhao/script
 gstatic.com
 hectorstatic.baidu.com
 bcebos.com
-m.cnbeta.com/static/api/js/share.js
-m.cnbeta.com/js/lib/jquery.js
 scorecardresearch.com
 taboola.com.cn
 taboola.com
