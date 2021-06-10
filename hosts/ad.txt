@@ -30,6 +30,8 @@ adservice.google.com
 googlesyndication.com
 googleadservices.com
 hm.baidu.com
+doubleclick.net
 /js/wap2-jm-ab.js
 /js/wap2-jm-aoyou.js
 /js/huimi-p88.js
+/js/wap2-jm-tozizi.js
