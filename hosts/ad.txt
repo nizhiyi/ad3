@@ -15,7 +15,6 @@ union.360.cn$3p
 cnzz.com$3p
 dataoke.com
 m.sogou.com/web/sogouhao/script
-bcebos.com
 scorecardresearch.com
 taboola.com.cn
 taboola.com
@@ -23,7 +22,9 @@ m.cnbeta.com/js/hzh.js
 ##.cbimage-fixed@cnbeta.com
 duomai.com
 gstatic.com
-hm.baidu.com
+bcebos.com
+hm.baidu.com$3p
+pos.baidu.com$3p
 hectorstatic.baidu.com
 cpro.baidustatic.com
 push.zhanzhang.baidu.com
