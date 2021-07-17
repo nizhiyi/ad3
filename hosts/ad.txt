@@ -9,9 +9,8 @@ ewtyewj.com
 njxzwh.com
 /js/headAd.js
 /download/abadownload.js
-union.360.cn$3p
-51.la$3p
-cnzz.com$3p
+51.la
+cnzz.com
 dataoke.com
 scorecardresearch.com
 taboola.com.cn
@@ -19,8 +18,7 @@ taboola.com
 /js/hzh.js
 duomai.com
 gstatic.com
-hm.baidu.com$3p
-pos.baidu.com$3p
+hm.baidu.com
 hectorstatic.baidu.com
 cpro.baidustatic.com
 push.zhanzhang.baidu.com
