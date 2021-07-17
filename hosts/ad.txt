@@ -21,7 +21,6 @@ taboola.com
 ##.cbimage-fixed@cnbeta.com
 duomai.com
 gstatic.com
-bcebos.com
 hm.baidu.com$3p
 pos.baidu.com$3p
 hectorstatic.baidu.com
