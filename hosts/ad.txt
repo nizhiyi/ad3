@@ -1,6 +1,5 @@
 cnlongshou.com
 shunshiwlkj.com
-##.show_app_dl@medsci.cn
 /js/fsjghgwyegh_f.js
 /js/fdjdjghrut_tt.js
 ynyyx168.com
@@ -18,7 +17,6 @@ scorecardresearch.com
 taboola.com.cn
 taboola.com
 /js/hzh.js
-##.cbimage-fixed@cnbeta.com
 duomai.com
 gstatic.com
 hm.baidu.com$3p
