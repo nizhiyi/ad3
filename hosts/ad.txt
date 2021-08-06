@@ -38,3 +38,4 @@ googleadservices.com
 /js/wap2-jm-tozizi.js
 /js/wap2-jm-zkk.js
 /js/huimi-p88-2-f5.js
+/js/huimi-p88-zkk.js
