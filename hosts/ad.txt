@@ -6,6 +6,7 @@
 /js/huimi-p88-2-f5.js
 /js/huimi-p88-zkk.js
 /js/wap2-jm-ms.js
+/js/wap2-jm-daka.js
 ##.cbv:not(#cb_share)@cnbeta.com
 ##.cbimage-fixed@cnbeta.com
 ##.cooperation@cnbeta.com
