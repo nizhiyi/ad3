@@ -1,13 +1,5 @@
-/js/wap2-jm-ab.js
-/js/wap2-jm-aoyou.js
-/js/huimi-p88.js
-/js/wap2-jm-tozizi.js
-/js/wap2-jm-zkk.js
-/js/huimi-p88-2-f5.js
-/js/huimi-p88-zkk.js
-/js/wap2-jm-ms.js
-/js/wap2-jm-daka.js
-/js/huimi-p88-2-f7.js
+--js/wap2-jm
+--js/huimi-p88
 ##.cbv:not(#cb_share)@cnbeta.com
 ##.cbimage-fixed@cnbeta.com
 ##.cooperation@cnbeta.com
