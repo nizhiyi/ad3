@@ -3,3 +3,5 @@
 ##.cbv:not(#cb_share)@cnbeta.com
 ##.cbimage-fixed@cnbeta.com
 ##.cooperation@cnbeta.com
+bdstatic.com
+ada.baidu.com
