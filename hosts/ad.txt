@@ -5,3 +5,4 @@
 ##.cooperation@cnbeta.com
 ada.baidu.com
 download.uc.cn/download
+bdstatic.com/static/landing-share
