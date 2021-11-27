@@ -6,3 +6,5 @@
 ada.baidu.com
 download.uc.cn/download
 bdstatic.com/static/landing-share
+news.ssp.qq.com
+gtimg.com/pingjs
