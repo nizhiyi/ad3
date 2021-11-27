@@ -4,5 +4,4 @@
 ##.cbimage-fixed@cnbeta.com
 ##.cooperation@cnbeta.com
 ada.baidu.com
-baijiahao.baidu.com
 download.uc.cn/download
