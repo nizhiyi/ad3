@@ -12,6 +12,7 @@ bdimg.com/static/m-question-new@zhidao.baidu.com
 yylady.cn
 /163/frontend/libs@163.com
 --wiseSearchHasAd@baidu.com
+bdstatic.com/se/static/js/modules/invoke/popup
 
 
 
