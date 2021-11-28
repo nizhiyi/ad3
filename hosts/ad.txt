@@ -13,6 +13,7 @@ yylady.cn
 /163/frontend/libs@163.com
 --wiseSearchHasAd@baidu.com
 bdstatic.com/se/static/js/modules/invoke/popup
-
+hm.baidu.com
+www.google-analytics.com
 
 
