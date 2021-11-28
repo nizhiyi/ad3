@@ -1,16 +1,15 @@
+! 飞极速
 --js/wap2-jm
 --js/huimi-p88
+! cnBeta
 ##.cbv:not(#cb_share)@cnbeta.com
 ##.cbimage-fixed@cnbeta.com
 ##.cooperation@cnbeta.com
+! 百度
 ada.baidu.com
-download.uc.cn/download
 bdstatic.com/static/landing-share
-news.ssp.qq.com
 gtimg.com/pingjs
 bdimg.com/static/m-question-new@zhidao.baidu.com
-yylady.cn
-/163/frontend/libs@163.com
 --wiseSearchHasAd@baidu.com
 bdstatic.com/se/static/js/modules/invoke/popup
 hm.baidu.com
@@ -31,6 +30,7 @@ hao123union.baidu.com$3p
 spcode.baidu.com
 top.baidu.com$3p
 ubmcvideo.baidustatic.com
+! google
 google-analytics.com
 adservice.google.com
 googleadservices.com
@@ -39,3 +39,8 @@ googletagmanager.com
 googleads.g.doubleclick.net
 cdn.taboola.com
 scorecardresearch.com
+! 其它
+yylady.cn
+/163/frontend/libs@163.com
+news.ssp.qq.com
+download.uc.cn/download
