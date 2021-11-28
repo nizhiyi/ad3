@@ -1,11 +1,8 @@
-! 飞极速
 --js/wap2-jm
 --js/huimi-p88
-! cnBeta
 ##.cbv:not(#cb_share)@cnbeta.com
 ##.cbimage-fixed@cnbeta.com
 ##.cooperation@cnbeta.com
-! 百度
 ada.baidu.com
 bdstatic.com/static/landing-share
 gtimg.com/pingjs
@@ -30,7 +27,6 @@ hao123union.baidu.com$3p
 spcode.baidu.com
 top.baidu.com$3p
 ubmcvideo.baidustatic.com
-! google
 google-analytics.com
 adservice.google.com
 googleadservices.com
@@ -39,7 +35,6 @@ googletagmanager.com
 googleads.g.doubleclick.net
 cdn.taboola.com
 scorecardresearch.com
-! 其它
 yylady.cn
 /163/frontend/libs@163.com
 news.ssp.qq.com
