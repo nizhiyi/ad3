@@ -36,5 +36,6 @@ adservice.google.com
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
-
-
+googleads.g.doubleclick.net
+cdn.taboola.com
+scorecardresearch.com
