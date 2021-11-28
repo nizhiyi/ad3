@@ -32,9 +32,9 @@ adservice.google.com
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
-googleads.g.doubleclick.net
-cdn.taboola.com
-scorecardresearch.com
+doubleclick.net$3p
+taboola.com$3p
+scorecardresearch.com$3p
 yylady.cn
 /163/frontend/libs@163.com
 news.ssp.qq.com
