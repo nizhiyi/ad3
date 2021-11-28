@@ -9,3 +9,6 @@ bdstatic.com/static/landing-share
 news.ssp.qq.com
 gtimg.com/pingjs
 bdimg.com/static/m-question-new@zhidao.baidu.com
+yylady.cn
+/163/frontend/libs@163.com
+
