@@ -31,7 +31,10 @@ hao123union.baidu.com$3p
 spcode.baidu.com
 top.baidu.com$3p
 ubmcvideo.baidustatic.com
-www.google-analytics.com
-
+google-analytics.com
+adservice.google.com
+googleadservices.com
+googlesyndication.com
+googletagmanager.com
 
 
