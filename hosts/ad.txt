@@ -6,7 +6,6 @@
 ada.baidu.com
 bdstatic.com/static/landing-share
 gtimg.com/pingjs
-bdimg.com/static/m-question-new@zhidao.baidu.com
 --wiseSearchHasAd@baidu.com
 bdstatic.com/se/static/js/modules/invoke/popup
 hm.baidu.com
