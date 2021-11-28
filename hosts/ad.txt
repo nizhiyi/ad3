@@ -14,6 +14,24 @@ yylady.cn
 --wiseSearchHasAd@baidu.com
 bdstatic.com/se/static/js/modules/invoke/popup
 hm.baidu.com
+ubmcmm.baidustatic.com
+baiducom.bj.bcebos.com
+baidujavascript.com
+cb.baidu.com
+cbjs.baidu.com
+cpro.baidu.com
+cpro.baidustatic.com
+duiwai.baidu.com
+drmcmm.baidu.com
+eduad.baidu.com
+eiv.baidu.com
+pos.baidu.com
+mobads.baidu.com$3p
+hao123union.baidu.com$3p
+spcode.baidu.com
+top.baidu.com$3p
+ubmcvideo.baidustatic.com
 www.google-analytics.com
+
 
 
