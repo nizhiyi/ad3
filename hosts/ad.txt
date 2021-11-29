@@ -34,6 +34,7 @@ googletagmanager.com
 doubleclick.net$3p
 taboola.com$3p
 scorecardresearch.com$3p
+duomai.com$3p
 yylady.cn
 /163/frontend/libs@163.com
 news.ssp.qq.com
