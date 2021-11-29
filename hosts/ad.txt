@@ -27,6 +27,9 @@ spcode.baidu.com
 top.baidu.com$3p
 ubmcvideo.baidustatic.com
 ##.ec_wise_ad@baidu.com
+--/getrelatedbusiness?@baidu.com
+bdimg.com/static/m-question-new/widget/ad-union-new@baidu.com
+/cpro/ui@baidu.com
 google-analytics.com
 adservice.google.com
 googleadservices.com
