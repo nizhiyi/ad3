@@ -1,6 +1,5 @@
 --js/wap2-jm
 --js/huimi-p88
-m.cnbeta.com##.cbv:not(#cb_share)
 m.cnbeta.com##.cbimage-fixed
 m.cnbeta.com##.cooperation
 ada.baidu.com
@@ -33,7 +32,7 @@ hao123union.baidu.com
 spcode.baidu.com
 top.baidu.com
 ubmcvideo.baidustatic.com
-##.ec_wise_ad@m.baidu.com
+m.baidu.com##.ec_wise_ad
 --getrelatedbusiness
 adservice.google.com
 sb.scorecardresearch.com
