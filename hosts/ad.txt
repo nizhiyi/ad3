@@ -52,6 +52,11 @@ googleads.g.doubleclick.net
 /wap/special/article_cooper_piapia
 static.ws.126.net/apps
 static.ws.126.net/163/frontend
+ifeng1.yylady.cn
+ifeng2.yylady.cn
+ifeng3.yylady.cn
+ifeng4.yylady.cn
+ifeng5.yylady.cn
 news.ssp.qq.com
 download.uc.cn/download
 erebor.douban.com@m.douban.com
