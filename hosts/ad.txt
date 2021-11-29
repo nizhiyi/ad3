@@ -40,9 +40,9 @@ taboola.com$3p
 scorecardresearch.com$3p
 duomai.com$3p
 yylady.cn
-/163/frontend/libs
 /wap/special/article_cooper_piapia
-static.ws.126.net
+static.ws.126.net/apps
+static.ws.126.net/163/frontend
 news.ssp.qq.com
 download.uc.cn/download
 erebor.douban.com@m.douban.com
