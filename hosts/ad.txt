@@ -11,10 +11,10 @@ mbdp04.bdstatic.com/static/landing-share
 mbdp05.bdstatic.com/static/landing-share
 dlswbr.baidu.com
 iknowwap.bdimg.com/static/m-question-new
-mss0.bdstatic.com/se/static/js/modules/invoke/popup
-mss1.bdstatic.com/se/static/js/modules/invoke/popup
-mss2.bdstatic.com/se/static/js/modules/invoke/popup
-mss3.bdstatic.com/se/static/js/modules/invoke/popup
+mss0.bdstatic.com/se/static/js
+mss1.bdstatic.com/se/static/js
+mss2.bdstatic.com/se/static/js
+mss3.bdstatic.com/se/static/js
 --wiseSearchHasAd
 hm.baidu.com
 ubmcmm.baidustatic.com
