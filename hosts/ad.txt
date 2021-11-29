@@ -27,7 +27,7 @@ spcode.baidu.com
 top.baidu.com$3p
 ubmcvideo.baidustatic.com
 ##.ec_wise_ad@baidu.com
---/getrelatedbusiness?@baidu.com
+--/getrelatedbusiness@baidu.com
 bdimg.com/static/m-question-new/widget/ad-union-new@baidu.com
 /cpro/ui
 google-analytics.com
@@ -40,9 +40,9 @@ taboola.com$3p
 scorecardresearch.com$3p
 duomai.com$3p
 yylady.cn
-/163/frontend/libs@163.com
-/wap/special/article_cooper_piapia@163.com
-static.ws.126.net@163.com
+/163/frontend/libs
+/wap/special/article_cooper_piapia
+static.ws.126.net
 news.ssp.qq.com
 download.uc.cn/download
 erebor.douban.com@m.douban.com
