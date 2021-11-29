@@ -1,8 +1,8 @@
 --js/wap2-jm
 --js/huimi-p88
-##.cbv:not(#cb_share)@m.cnbeta.com
-##.cbimage-fixed@m.cnbeta.com
-##.cooperation@m.cnbeta.com
+m.cnbeta.com##.cbv:not(#cb_share)
+m.cnbeta.com##.cbimage-fixed
+m.cnbeta.com##.cooperation
 ada.baidu.com
 mbdp01.bdstatic.com/static/landing-share
 mbdp02.bdstatic.com/static/landing-share
