@@ -26,6 +26,7 @@ hao123union.baidu.com$3p
 spcode.baidu.com
 top.baidu.com$3p
 ubmcvideo.baidustatic.com
+##.ec_wise_ad@baidu.com
 google-analytics.com
 adservice.google.com
 googleadservices.com
@@ -39,3 +40,9 @@ yylady.cn
 /163/frontend/libs@163.com
 news.ssp.qq.com
 download.uc.cn/download
+erebor.douban.com@m.douban.com
+at1.doubanio.com@m.douban.com
+at2.doubanio.com@m.douban.com
+at3.doubanio.com@m.douban.com
+at4.doubanio.com@m.douban.com
+at5.doubanio.com@m.douban.com
