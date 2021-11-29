@@ -26,9 +26,9 @@ hao123union.baidu.com
 spcode.baidu.com
 top.baidu.com
 ubmcvideo.baidustatic.com
-##.ec_wise_ad
+##.ec_wise_ad@m.baidu.com
 --getrelatedbusiness
-bdimg.com/static/m-question-new/widget/ad-union-new@baidu.com
+bdimg.com/static/m-question-new/widget/ad-union-new
 /cpro/ui
 google-analytics.com
 adservice.google.com
