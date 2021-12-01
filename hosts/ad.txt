@@ -67,6 +67,7 @@ at2.doubanio.com@m.douban.com
 at3.doubanio.com@m.douban.com
 at4.doubanio.com@m.douban.com
 at5.doubanio.com@m.douban.com
+m.douban.com##DIV.center
 /runtime/ad
 /js/ads
 jwz.3conline.com/adpuba
