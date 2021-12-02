@@ -13,6 +13,9 @@ mss0.bdstatic.com/se/static/js
 mss1.bdstatic.com/se/static/js
 mss2.bdstatic.com/se/static/js
 mss3.bdstatic.com/se/static/js
+baike.baidu.com/tashuolist
+baike.baidu.com/api/tashuo
+iknowwap.bdimg.com/static/m-question-new/widget/recommend-follow
 --wiseSearchHasAd
 hm.baidu.com
 ubmcmm.baidustatic.com
@@ -89,3 +92,5 @@ bd.dhsz.cn
 /litong/zhitou
 news.zsjxwj.com
 ax.ifeng.com
+zol.com.cn/adrs
+p.zol-img.com.cn
