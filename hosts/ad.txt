@@ -9,7 +9,6 @@ mbdp03.bdstatic.com/static/landing-share
 mbdp04.bdstatic.com/static/landing-share
 mbdp05.bdstatic.com/static/landing-share
 dlswbr.baidu.com
-iknowwap.bdimg.com/static/m-question-new
 mss0.bdstatic.com/se/static/js
 mss1.bdstatic.com/se/static/js
 mss2.bdstatic.com/se/static/js
