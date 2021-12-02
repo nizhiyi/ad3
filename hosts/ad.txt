@@ -20,6 +20,7 @@ iknowwap.bdimg.com/static/m-question-new/widget/recommend-follow
 hm.baidu.com
 ubmcmm.baidustatic.com
 baiducom.bj.bcebos.com
+zz.bdstatic.com
 cb.baidu.com
 cbjs.baidu.com
 cpro.baidu.com
@@ -56,6 +57,13 @@ googleads.g.doubleclick.net
 /wap/special/article_cooper_piapia
 static.ws.126.net/apps
 static.ws.126.net/163/frontend
+comment.api.163.com/api/v1/products
+s3a.pstatp.com/toutiao
+analytics.163.com
+channel.m.163.com/data/d/iosTracking
+s3a.pstatp.com/toutiao
+3g.163.com##DIV.relative_list.js-relativelist-
+3g.163.com##DIV.hot_list.content-list-
 ifeng1.yylady.cn
 ifeng2.yylady.cn
 ifeng3.yylady.cn
