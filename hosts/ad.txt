@@ -80,3 +80,13 @@ bdu.focus.cn
 theta.sogoucdn.com
 adv-sv-show.focus.cn
 matwbp.iask.sina.com.cn
+gdt.qq.com
+mat1.gtimg.com/rain/bl20/json/8.js
+mat2.gtimg.com/rain/bl20/json/8.js
+mat3.gtimg.com/rain/bl20/json/8.js
+mat4.gtimg.com/rain/bl20/json/8.js
+mat5.gtimg.com/rain/bl20/json/8.js
+bd.dhsz.cn
+/litong/zhitou
+news.zsjxwj.com
+ax.ifeng.com
