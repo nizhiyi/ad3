@@ -15,7 +15,7 @@ mss2.bdstatic.com/se/static/js
 mss3.bdstatic.com/se/static/js
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
-/static/m-question-new/widget/recommend-follow
+--recommend-follow@zhidao.baidu.com
 --wiseSearchHasAd
 hm.baidu.com
 ubmcmm.baidustatic.com
