@@ -51,11 +51,7 @@ comment.api.163.com/api
 s3a.pstatp.com/toutiao
 analytics.163.com
 channel.m.163.com/data/d/iosTracking
-ifeng1.yylady.cn
-ifeng2.yylady.cn
-ifeng3.yylady.cn
-ifeng4.yylady.cn
-ifeng5.yylady.cn
+yylady.cn
 news.ssp.qq.com
 btrace.qq.com
 download.uc.cn/download
