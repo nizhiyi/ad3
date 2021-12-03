@@ -67,8 +67,6 @@ ifeng2.yylady.cn
 ifeng3.yylady.cn
 ifeng4.yylady.cn
 ifeng5.yylady.cn
-3g.163.com##DIV.relative_list.js-relativelist
-3g.163.com##DIV.hot_list.content-list
 news.ssp.qq.com
 download.uc.cn/download
 erebor.douban.com@m.douban.com
