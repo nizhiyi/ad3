@@ -69,6 +69,7 @@ ifeng3.yylady.cn
 ifeng4.yylady.cn
 ifeng5.yylady.cn
 news.ssp.qq.com
+btrace.qq.com
 download.uc.cn/download
 erebor.douban.com@m.douban.com
 at1.doubanio.com@m.douban.com
@@ -106,3 +107,17 @@ gk.sina.cn
 www.qchannel03.cn
 log.sina.cn
 mixer.sina.cn
+mjss.sinaimg.cn/wap/online/public
+n.sinaimg.cn/finance/guba-h5
+www.sinaimg.cn/cj/toutiao
+finance.sina.com.cn/other/src/app
+n.sinaimg.cn/finance/cj/kandian
+go.sohu.com
+track.sohu.com
+js.sohu.com/pv.js
+i.go.sohu.com/count
+qpb.sohu.com
+stat.cnmo.com
+a1.zhanzhang.net
+utrack.hexun.com
+adpai.thepaper.cn
