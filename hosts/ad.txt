@@ -40,6 +40,7 @@ m.baidu.com##.ec_wise_ad
 --getrelatedbusiness
 dup.baidustatic.com
 mipcache.bdstatic.com/static/v1/mip-ad/
+eclick.baidu.com
 tpc.googlesyndication.com
 adservice.google.com
 sb.scorecardresearch.com
@@ -100,3 +101,8 @@ news.zsjxwj.com
 ax.ifeng.com
 zol.com.cn/adrs
 p.zol-img.com.cn
+beacon.sina.com.cn
+gk.sina.cn
+www.qchannel03.cn
+log.sina.cn
+mixer.sina.cn
