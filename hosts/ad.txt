@@ -35,6 +35,7 @@ hao123union.baidu.com
 spcode.baidu.com
 top.baidu.com
 ubmcvideo.baidustatic.com
+baike.baidu.com/api/common
 m.baidu.com##.ec_wise_ad
 --getrelatedbusiness
 dup.baidustatic.com
@@ -66,6 +67,9 @@ ifeng2.yylady.cn
 ifeng3.yylady.cn
 ifeng4.yylady.cn
 ifeng5.yylady.cn
+3g.163.com##DIV.new_relative_list.js-newrelativelist
+3g.163.com##DIV.relative_list.js-relativelist
+3g.163.com##DIV.hot_list.content-list
 news.ssp.qq.com
 download.uc.cn/download
 erebor.douban.com@m.douban.com
