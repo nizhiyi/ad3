@@ -15,7 +15,7 @@ mss2.bdstatic.com/se/static/js
 mss3.bdstatic.com/se/static/js
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
-iknowwap.bdimg.com/static/m-question-new/widget/recommend-follow
+/static/m-question-new/widget/recommend-follow
 --wiseSearchHasAd
 hm.baidu.com
 ubmcmm.baidustatic.com
@@ -67,7 +67,6 @@ ifeng2.yylady.cn
 ifeng3.yylady.cn
 ifeng4.yylady.cn
 ifeng5.yylady.cn
-3g.163.com##DIV.new_relative_list.js-newrelativelist
 3g.163.com##DIV.relative_list.js-relativelist
 3g.163.com##DIV.hot_list.content-list
 news.ssp.qq.com
