@@ -112,6 +112,7 @@ n.sinaimg.cn/finance/guba-h5
 www.sinaimg.cn/cj/toutiao
 finance.sina.com.cn/other/src/app
 n.sinaimg.cn/finance/cj/kandian
+mjs.sinaimg.cn/umd
 go.sohu.com
 track.sohu.com
 js.sohu.com/pv.js
