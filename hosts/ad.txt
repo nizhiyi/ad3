@@ -5,7 +5,6 @@ m.cnbeta.com##.cooperation
 ada.baidu.com
 bdstatic.com/static/landing-share
 dlswbr.baidu.com
-bdstatic.com/se/static/js
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
 --recommend-follow@zhidao.baidu.com
