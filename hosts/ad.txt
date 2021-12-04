@@ -1,5 +1,5 @@
---com/js/wap2
---com/js/huimi
+--/js/wap2
+--/js/huimi
 m.cnbeta.com##.cbimage-fixed
 m.cnbeta.com##.cooperation
 ada.baidu.com
