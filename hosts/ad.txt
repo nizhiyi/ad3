@@ -98,3 +98,7 @@ stat.cnmo.com
 a1.zhanzhang.net
 utrack.hexun.com
 adpai.thepaper.cn
+cnzz.com
+histats.com
+--js/bdn
+--js/tdn
