@@ -8,10 +8,10 @@ dlswbr.baidu.com
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
 /static/m-question-new/widget/recommend-follow
---wiseSearchHasAd@baidu.com
 hm.baidu.com
 ubmcmm.baidustatic.com
 baiducom.bj.bcebos.com
+cdn.bcebos.com
 zz.bdstatic.com
 cb.baidu.com
 cbjs.baidu.com
