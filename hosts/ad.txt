@@ -100,7 +100,7 @@ utrack.hexun.com
 adpai.thepaper.cn
 cnzz.com
 histats.com
---js/bdn
---js/tdn
+/js/tdn_uvy6qyny.js
+/js/bdn_uvy6qyny.js
 jialingmm.net
 iclickcdn.com
