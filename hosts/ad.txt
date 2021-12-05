@@ -1,5 +1,5 @@
-wap2-jm
-huimi-p88
+--wap2-jm
+--huimi-p88
 m.cnbeta.com##.cbimage-fixed
 m.cnbeta.com##.cooperation
 ada.baidu.com
@@ -7,7 +7,7 @@ bdstatic.com/static/landing-share
 dlswbr.baidu.com
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
-recommend-follow
+--recommend-follow@baidu.com
 hm.baidu.com
 ubmcmm.baidustatic.com
 baiducom.bj.bcebos.com
