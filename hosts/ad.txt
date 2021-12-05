@@ -7,7 +7,7 @@ bdstatic.com/static/landing-share
 dlswbr.baidu.com
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
---recommend-follow@baidu.com
+--recommend-follow
 hm.baidu.com
 ubmcmm.baidustatic.com
 baiducom.bj.bcebos.com
