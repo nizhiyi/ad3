@@ -54,7 +54,6 @@ news.ssp.qq.com
 btrace.qq.com
 download.uc.cn/download
 erebor.douban.com
-doubanio.com
 m.douban.com##DIV.center
 /runtime/ad
 /js/ads
