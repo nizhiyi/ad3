@@ -1,5 +1,5 @@
---wap2-jm
---huimi-p88
+wap2-jm
+huimi-p88
 m.cnbeta.com##.cbimage-fixed
 m.cnbeta.com##.cooperation
 ada.baidu.com
@@ -7,11 +7,10 @@ bdstatic.com/static/landing-share
 dlswbr.baidu.com
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
---recommend-follow@baidu.com
+recommend-follow
 hm.baidu.com
 ubmcmm.baidustatic.com
 baiducom.bj.bcebos.com
-cdn.bcebos.com
 zz.bdstatic.com
 cb.baidu.com
 cbjs.baidu.com
@@ -54,8 +53,8 @@ yylady.cn
 news.ssp.qq.com
 btrace.qq.com
 download.uc.cn/download
-erebor.douban.com@m.douban.com
-doubanio.com@m.douban.com
+erebor.douban.com
+doubanio.com
 m.douban.com##DIV.center
 /runtime/ad
 /js/ads
