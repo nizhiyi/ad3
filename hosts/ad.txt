@@ -7,7 +7,7 @@ bdstatic.com/static/landing-share
 dlswbr.baidu.com
 baike.baidu.com/tashuolist
 baike.baidu.com/api/tashuo
-/static/m-question-new/widget/recommend-follow
+--recommend-follow@baidu.com
 hm.baidu.com
 ubmcmm.baidustatic.com
 baiducom.bj.bcebos.com
@@ -31,7 +31,7 @@ baike.baidu.com/api/common
 m.baidu.com##.ec_wise_ad
 baike.baidu.com/api/wapui
 dup.baidustatic.com
-mipcache.bdstatic.com/static/v1/mip-ad/
+bdstatic.com/static/v1/mip-ad/
 eclick.baidu.com
 adservice.google.com
 sb.scorecardresearch.com
@@ -49,7 +49,7 @@ static.ws.126.net/163/frontend
 comment.api.163.com/api
 s3a.pstatp.com/toutiao
 analytics.163.com
-channel.m.163.com/data/d/iosTracking
+163.com/data/d/iosTracking
 yylady.cn
 news.ssp.qq.com
 btrace.qq.com
@@ -85,7 +85,7 @@ mixer.sina.cn
 mjss.sinaimg.cn/wap/online/public
 n.sinaimg.cn/finance/guba-h5
 www.sinaimg.cn/cj/toutiao
-finance.sina.com.cn/other/src/app
+sina.com.cn/other/src/app
 n.sinaimg.cn/finance/cj/kandian
 mjs.sinaimg.cn/umd
 go.sohu.com
