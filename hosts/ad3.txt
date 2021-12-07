@@ -1,7 +1,8 @@
 wap2-jm
 huimi-p88
-cnbeta.com##.cbimage-fixed
-cnbeta.com##.cooperation
+m.cnbeta.com##DIV.cbimage-fixed
+m.baidu.com##DIV.ec_wise_ad
+m.douban.com##DIV.center
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
@@ -27,7 +28,6 @@ cnbeta.com##.cooperation
 ||top.baidu.com
 ||ubmcvideo.baidustatic.com
 ||baike.baidu.com/api/common
-baidu.com##.ec_wise_ad
 ||baike.baidu.com/api/wapui
 ||dup.baidustatic.com
 ||bdstatic.com/static/v1/mip-ad/
@@ -53,7 +53,6 @@ baidu.com##.ec_wise_ad
 ||btrace.qq.com
 ||download.uc.cn/download
 ||erebor.douban.com
-douban.com##DIV.center
 /runtime/ad
 /js/ads
 ||jwz.3conline.com/adpuba
