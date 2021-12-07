@@ -1,5 +1,8 @@
 --wap2-jm
 --huimi-p88
+m.cnbeta.com##DIV.cbimage-fixed
+m.baidu.com##DIV.ec_wise_ad
+m.douban.com##DIV.center
 ada.baidu.com
 bdstatic.com/static/landing-share
 dlswbr.baidu.com
