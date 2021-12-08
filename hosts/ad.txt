@@ -37,8 +37,8 @@ sb.scorecardresearch.com
 www.googletagmanager.com
 partner.googleadservices.com
 www.google-analytics.com
-googlesyndication.com
-cdn.taboola.com.cn
+pagead2.googlesyndication.com
+taboola.com.cn
 cdn.taboola.com
 djl.duomai.com
 doubleclick.net
