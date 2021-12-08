@@ -88,9 +88,8 @@ stat.cnmo.com
 a1.zhanzhang.net
 utrack.hexun.com
 adpai.thepaper.cn
-cnzz.com
-histats.com
+c.cnzz.com
+s10.histats.com
+s4.histats.com
 /js/tdn_uvy6qyny.js
 /js/bdn_uvy6qyny.js
-jialingmm.net
-iclickcdn.com
