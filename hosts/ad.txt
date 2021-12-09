@@ -91,5 +91,5 @@ adpai.thepaper.cn
 c.cnzz.com
 s10.histats.com
 s4.histats.com
-*/js/tdn_uvy6qyny.js
-*/js/bdn_uvy6qyny.js
+--js/tdn
+--js/bdn
