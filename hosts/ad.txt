@@ -30,7 +30,7 @@ ubmcvideo.baidustatic.com
 baike.baidu.com/api/common
 baike.baidu.com/api/wapui
 dup.baidustatic.com
-/static/v1/mip-ad/
+/static/v1/mip-ad
 eclick.baidu.com
 adservice.google.com
 sb.scorecardresearch.com
