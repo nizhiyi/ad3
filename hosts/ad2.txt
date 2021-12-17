@@ -100,3 +100,8 @@ m.douban.com##.center
 ||jialingmm.net
 ||iclickcdn.com
 ||mwzbp.iask.com.cn
+||snssdk.com/log/sentry
+||m.toutiao.com/related/open
+||jingyan.baidu.com/article/ajax
+||sohu.com/integration-api/mix
+||tieba.baidu.com/mo/q/recommendpb
