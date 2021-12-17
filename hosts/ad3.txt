@@ -99,3 +99,4 @@ m.douban.com##.center
 /js/bdn_uvy6qyny.js
 ||jialingmm.net
 ||iclickcdn.com
+||mwzbp.iask.com.cn
