@@ -104,4 +104,4 @@ m.douban.com##.center
 ||sohu.com/integration-api/mix
 ||tieba.baidu.com/mo/q/recommendpb
 ||snssdk.com/log/sentry
-m.toutiao.com/related/open
+||m.toutiao.com/related/open
