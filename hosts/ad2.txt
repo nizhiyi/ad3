@@ -105,3 +105,4 @@ m.douban.com##.center
 ||jingyan.baidu.com/article/ajax
 ||sohu.com/integration-api/mix
 ||tieba.baidu.com/mo/q/recommendpb
+||snssdk.com/log/sentry
