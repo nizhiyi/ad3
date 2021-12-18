@@ -1,8 +1,8 @@
 wap2-jm
 huimi-p88
-m.cnbeta.com##.cbimage-fixed
-m.baidu.com##.ec_wise_ad
-m.douban.com##.center
+cnbeta.com##div.cbimage-fixed
+baidu.com##div.ec_wise_ad
+douban.com##div.center
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
