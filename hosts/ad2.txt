@@ -1,8 +1,13 @@
-wap2-jm
-huimi-p88
 m.cnbeta.com##.cbimage-fixed
 m.baidu.com##.ec_wise_ad
 m.douban.com##.center
+wap2-jm
+huimi-p88
+/js/tdn_uvy6qyny.js
+/js/bdn_uvy6qyny.js
+/litong/zhitou
+/runtime/ad
+/js/ads
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
@@ -53,8 +58,6 @@ m.douban.com##.center
 ||btrace.qq.com
 ||download.uc.cn/download
 ||erebor.douban.com
-/runtime/ad
-/js/ads
 ||jwz.3conline.com/adpuba
 ||ivy.pconline.com.cn
 ||www.pconline.com.cn/_hux_
@@ -68,7 +71,6 @@ m.douban.com##.center
 ||gdt.qq.com
 ||gtimg.com/rain/bl20/json/8.js
 ||bd.dhsz.cn
-/litong/zhitou
 ||news.zsjxwj.com
 ||ax.ifeng.com
 ||zol.com.cn/adrs
@@ -95,8 +97,6 @@ m.douban.com##.center
 ||adpai.thepaper.cn
 ||cnzz.com
 ||histats.com
-/js/tdn_uvy6qyny.js
-/js/bdn_uvy6qyny.js
 ||jialingmm.net
 ||iclickcdn.com
 ||mwzbp.iask.com.cn
