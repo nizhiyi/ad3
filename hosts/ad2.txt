@@ -32,6 +32,7 @@ m.douban.com##.center
 ||spcode.baidu.com
 ||top.baidu.com
 ||ubmcvideo.baidustatic.com
+||mbdp02.bdstatic.com
 ||baike.baidu.com/api/common
 ||baike.baidu.com/api/wapui
 ||dup.baidustatic.com
