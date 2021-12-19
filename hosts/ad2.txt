@@ -10,6 +10,8 @@ xw.qq.com##.recommend-modules
 /litong/zhitou
 /runtime/ad
 /js/ads
+/maizhan/js/age.js
+/js/new-kk
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
@@ -112,3 +114,7 @@ xw.qq.com##.recommend-modules
 ||www.xiaohongshu.com/api/sns/v1/ext/ads
 ||snssdk.com
 ||abc.rwpt.top
+||gamersky.com/common/tg/
+||mediav.com
+||2345.com
+||50bang.org
