@@ -104,5 +104,8 @@ m.douban.com##.center
 ||jingyan.baidu.com/article/ajax
 ||sohu.com/integration-api/mix
 ||tieba.baidu.com/mo/q/recommendpb
-||snssdk.com/log/sentry
 ||m.toutiao.com/related/open
+||ugapi.alipay.com/monitor
+||skdisplay.jd.com/feedback/display
+||www.xiaohongshu.com/api/sns/v1/ext/ads
+||snssdk.com
