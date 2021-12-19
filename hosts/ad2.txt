@@ -91,7 +91,6 @@ xw.qq.com##.recommend-modules
 ||www.sinaimg.cn/cj/toutiao
 ||sina.com.cn/other/src/app
 ||n.sinaimg.cn/finance/cj/kandian
-||mjs.sinaimg.cn/umd
 ||go.sohu.com
 ||track.sohu.com
 ||js.sohu.com/pv.js
