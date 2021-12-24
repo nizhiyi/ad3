@@ -123,3 +123,5 @@ xw.qq.com##.recommend-modules
 ||static.hao86.com/mobile/ciyu/js/ciyu.js
 ||csdnimg.cn/release/blogv2/dist/components/js/pc_wap
 ||csdnimg.cn/release/blogv2/dist/mobile/js/detail
+||bdwmhz.120askimages.com
+||bdlm.120askimages.com
