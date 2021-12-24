@@ -120,3 +120,4 @@ xw.qq.com##.recommend-modules
 ||2345.com
 ||50bang.org
 ||n.baminw.com.cn
+||static.hao86.com/mobile/ciyu/js/ciyu.js
