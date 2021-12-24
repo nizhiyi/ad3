@@ -125,3 +125,4 @@ xw.qq.com##.recommend-modules
 ||csdnimg.cn/release/blogv2/dist/mobile/js/detail
 ||bdwmhz.120askimages.com
 ||bdlm.120askimages.com
+||www.ilaohuyou.xyz
