@@ -121,3 +121,4 @@ xw.qq.com##.recommend-modules
 ||50bang.org
 ||n.baminw.com.cn
 ||static.hao86.com/mobile/ciyu/js/ciyu.js
+||csdnimg.cn/release/blogv2/dist/components/js/pc_wap_highlight 
