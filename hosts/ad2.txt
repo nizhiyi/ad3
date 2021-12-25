@@ -3,7 +3,6 @@ m.baidu.com##.ec_wise_ad
 m.douban.com##.center
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
-3g.163.com##.new_relative_doc
 /js/wap2-jm
 /js/huimi-p88
 /js/tdn_uvy6qyny.js
@@ -45,6 +44,8 @@ xw.qq.com##.recommend-modules
 ||dup.baidustatic.com
 ||bdstatic.com/static/v1/mip-ad/
 ||eclick.baidu.com
+||tieba.baidu.com/mo/q/recommendpb
+||jingyan.baidu.com/article/ajax
 ||adservice.google.com
 ||scorecardresearch.com
 ||googletagmanager.com
@@ -65,6 +66,7 @@ xw.qq.com##.recommend-modules
 ||yylady.cn
 ||news.ssp.qq.com
 ||btrace.qq.com
+||gdt.qq.com
 ||download.uc.cn/download
 ||erebor.douban.com
 ||jwz.3conline.com/adpuba
@@ -77,7 +79,6 @@ xw.qq.com##.recommend-modules
 ||theta.sogoucdn.com
 ||adv-sv-show.focus.cn
 ||matwbp.iask.sina.com.cn
-||gdt.qq.com
 ||gtimg.com/rain/bl20/json/8.js
 ||bd.dhsz.cn
 ||news.zsjxwj.com
@@ -108,9 +109,7 @@ xw.qq.com##.recommend-modules
 ||jialingmm.net
 ||iclickcdn.com
 ||mwzbp.iask.com.cn
-||jingyan.baidu.com/article/ajax
 ||sohu.com/integration-api/mix
-||tieba.baidu.com/mo/q/recommendpb
 ||m.toutiao.com/related/open
 ||ugapi.alipay.com/monitor
 ||skdisplay.jd.com/feedback/display
