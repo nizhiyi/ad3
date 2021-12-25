@@ -61,6 +61,7 @@ xw.qq.com##.recommend-modules
 ||s3a.pstatp.com/toutiao
 ||analytics.163.com
 ||163.com/data/d/iosTracking
+||3g.163.com/touch/
 ||yylady.cn
 ||news.ssp.qq.com
 ||btrace.qq.com
