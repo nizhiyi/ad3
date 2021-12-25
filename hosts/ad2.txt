@@ -6,8 +6,6 @@ xw.qq.com##.recommend-modules
 /js/huimi-p88$script
 /js/new-kk$script
 dn_uvy6qyny.js|
-.xyz/$third-party,script,xmlhttprequest
-.top/$third-party,script,xmlhttprequest
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
