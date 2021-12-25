@@ -52,14 +52,9 @@ dn_uvy6qyny.js|
 ||126.net/163/frontend
 ||s3a.pstatp.com/toutiao
 ||analytics.163.com
-||163.com/data/d/iosTracking
 ||api.163.com/api/v1/products/
 ||3g.163.com/wap/special/
-||3g.163.com/fe/api/hot/news/combine
-||3g.163.com/touch/reconstruct/
-||3g.163.com/touch/behavior.html
-||m.163.com/nc-main/api/v1/hqc/no-repeat-hot-list
-||3g.163.com/ad/
+||163.com$xmlhttprequest,subdocument
 ||yylady.cn
 ||news.ssp.qq.com
 ||btrace.qq.com
