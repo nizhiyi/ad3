@@ -63,6 +63,8 @@ xw.qq.com##.recommend-modules
 ||analytics.163.com
 ||163.com/data/d/iosTracking
 ||3g.163.com/touch/
+||comment.api.163.com/api/v1/products/
+||3g.163.com/wap/special/
 ||yylady.cn
 ||news.ssp.qq.com
 ||btrace.qq.com
