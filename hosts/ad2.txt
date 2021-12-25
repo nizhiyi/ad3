@@ -14,6 +14,7 @@ xw.qq.com##.recommend-modules
 /maizhan/js/age.js
 /js/new-kk
 .xyz/*$script,third-party
+.top/*$third-party
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
