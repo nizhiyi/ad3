@@ -10,7 +10,7 @@ dn_uvy6qyny.js$script
 /runtime/ad$script
 /js/ads$script
 .xyz/$script,third-party
-.top/$third-party
+.top/$third-party,~image
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
