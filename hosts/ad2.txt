@@ -9,8 +9,8 @@ dn_uvy6qyny.js$script
 /litong/zhitou$script
 /runtime/ad$script
 /js/ads$script
-.xyz/$third-party,~image,~media
-.top/$third-party,~image,~media
+.xyz/$third-party,script,other
+.top/$third-party,script,other
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
