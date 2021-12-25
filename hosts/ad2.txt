@@ -13,7 +13,7 @@ xw.qq.com##.recommend-modules
 /js/ads
 /maizhan/js/age.js
 /js/new-kk
-.xyz/*$script,third-party
+.xyz/$script,third-party
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
