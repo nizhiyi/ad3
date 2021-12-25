@@ -5,12 +5,10 @@ xw.qq.com##.recommend-modules
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
-/js/tdn_uvy6qyny.js
-/js/bdn_uvy6qyny.js
-/litong/zhitou
-/runtime/ad
-/js/ads
-/maizhan/js/age.js
+dn_uvy6qyny.js$script
+/litong/zhitou$script
+/runtime/ad$script
+/js/ads$script
 .xyz/$script,third-party
 .top/$third-party
 ||ada.baidu.com
