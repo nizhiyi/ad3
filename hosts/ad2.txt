@@ -1,4 +1,3 @@
-@@||3g.163.com/touch/news
 m.cnbeta.com##.cbimage-fixed
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
@@ -60,7 +59,6 @@ dn_uvy6qyny.js|
 ||s3a.pstatp.com/toutiao
 ||analytics.163.com
 ||163.com/data/d/iosTracking
-||3g.163.com/touch/
 ||api.163.com/api/v1/products/
 ||3g.163.com/wap/special/
 ||yylady.cn
