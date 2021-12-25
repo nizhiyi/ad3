@@ -48,7 +48,6 @@ dn_uvy6qyny.js|
 ||taboola.com
 ||duomai.com
 ||doubleclick.net
-||163.com/wap/special/article_cooper_piapia
 ||126.net/apps
 ||126.net/163/frontend
 ||s3a.pstatp.com/toutiao
