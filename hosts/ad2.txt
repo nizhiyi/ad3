@@ -5,10 +5,7 @@ xw.qq.com##.recommend-modules
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
-dn_uvy6qyny.js$script
-/litong/zhitou$script
-/runtime/ad$script
-/js/ads$script
+dn_uvy6qyny.js|
 .xyz/$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
 ||ada.baidu.com
