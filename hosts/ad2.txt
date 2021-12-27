@@ -2,6 +2,7 @@ m.cnbeta.com##.cbimage-fixed
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
+3g.163.com##div[class*="relative"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
