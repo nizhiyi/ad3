@@ -55,7 +55,7 @@ dn_uvy6qyny.js|
 ||analytics.163.com
 ||api.163.com/api/v1/products/
 ||3g.163.com/wap/special/
-||163.com$xmlhttprequest,subdocument
+||3g.163.com$xmlhttprequest,subdocument
 ||yylady.cn
 ||news.ssp.qq.com
 ||btrace.qq.com
