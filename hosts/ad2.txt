@@ -9,7 +9,7 @@ sina.cn##div[class*="relevent"]
 /js/new-kk$script
 .xyz/$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
-dn_uvy6qyny.js|
+n_uvy6qyny$script
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
