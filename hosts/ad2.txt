@@ -151,3 +151,5 @@ dn_uvy6qyny.js|
 ||huanqiu.com/api/ad
 ||ad-survey.com
 ||90.huanqiu.com
+||static.bshare.cn
+||chinanews.com.cn/m/part
