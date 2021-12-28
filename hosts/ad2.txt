@@ -1,6 +1,3 @@
-/js/wap2-jm$script
-/js/huimi-p88$script
-/js/new-kk$script
 dn_uvy6qyny.js|
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
@@ -51,7 +48,6 @@ dn_uvy6qyny.js|
 ||analytics.163.com
 ||api.163.com/api/v1/products
 ||3g.163.com/wap/special
-||3g.163.com$xmlhttprequest,subdocument
 ||yylady.cn
 ||news.ssp.qq.com
 ||btrace.qq.com
