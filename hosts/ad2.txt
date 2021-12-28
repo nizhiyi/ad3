@@ -141,6 +141,8 @@ dn_uvy6qyny.js|
 ||wap.zol.com.cn/index.php
 ||smzdm.com/ajax_m
 ||wmbdsearch.gamersky.com
+||ja2.gamersky.com/wap/wap
+||yeyou-cps.gamersky.com
 ||ads.vidoomy.com
 ||ad.lkqd.net
 ||612.com
