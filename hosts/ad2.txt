@@ -147,3 +147,7 @@ dn_uvy6qyny.js|
 ||ad.lkqd.net
 ||612.com
 ||m.mydrivers.com/m
+||huanqiu.com/resource/js/base_mobile2_baidu.js
+||huanqiu.com/api/ad
+||ad-survey.com
+||90.huanqiu.com
