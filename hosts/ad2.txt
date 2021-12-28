@@ -7,9 +7,8 @@ sina.cn##div[class*="relevent"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
-.xyz/$third-party,~other
-.top/$third-party,~other
-dn_uvy6qyny.js|
+.xyz/$third-party,script,xmlhttprequest
+.top/$third-party,script,xmlhttprequest
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
