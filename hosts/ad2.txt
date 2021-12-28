@@ -137,5 +137,6 @@ dn_uvy6qyny.js|
 ||hc.sogoubaidusm.cn/wap
 ||wap.zol.com.cn/wapask
 ||ydjs.zol.com.cn
+||wap.zol.com.cn/index.php
 ||lhy2.xyz
 ||smzdm.com/ajax_m
