@@ -153,3 +153,4 @@ dn_uvy6qyny.js|
 ||90.huanqiu.com
 ||static.bshare.cn
 ||chinanews.com.cn/m/part
+||chinanews.com/m/part
