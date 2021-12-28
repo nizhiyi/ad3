@@ -101,7 +101,7 @@ dn_uvy6qyny.js|
 ||utrack.hexun.com
 ||adpai.thepaper.cn
 ||m.thepaper.cn/bottomBanner
-||m.thepaper.cn/newDetail_hotComments
+||m.thepaper.cn/newDetail
 ||m.thepaper.cn/recommend
 ||cnzz.com
 ||histats.com
