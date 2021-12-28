@@ -134,3 +134,7 @@ dn_uvy6qyny.js|
 ||redirect.simba.taobao.com
 ||51yes.com
 ||m.toutiaoimg.cn/related/open
+||hc.sogoubaidusm.cn/wap
+||wap.zol.com.cn/wapask
+||ydjs.zol.com.cn
+||lhy2.xyz
