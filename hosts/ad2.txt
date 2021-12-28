@@ -117,7 +117,6 @@ dn_uvy6qyny.js|
 ||www.xiaohongshu.com/api/sns/v1/ext/ads
 ||is.snssdk.com
 ||i.snssdk.com
-||abc.rwpt.top
 ||gamersky.com/common/tg/
 ||mediav.com
 ||2345.com
@@ -140,6 +139,5 @@ dn_uvy6qyny.js|
 ||wap.zol.com.cn/wapask
 ||ydjs.zol.com.cn
 ||wap.zol.com.cn/index.php
-||lhy2.xyz
 ||smzdm.com/ajax_m
 ||wmbdsearch.gamersky.com
