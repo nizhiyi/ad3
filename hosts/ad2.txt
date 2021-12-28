@@ -40,6 +40,7 @@ dn_uvy6qyny.js|
 ||eclick.baidu.com
 ||tieba.baidu.com/mo/q/recommendpb
 ||jingyan.baidu.com/article/ajax
+||m.baidu.com/bh/m/content?originalUrl=
 ||adservice.google.com
 ||scorecardresearch.com
 ||googletagmanager.com
