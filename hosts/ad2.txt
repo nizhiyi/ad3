@@ -7,8 +7,6 @@ sina.cn##div[class*="relevent"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
-xyz/$third-party,script,xmlhttprequest
-top/$third-party,script,xmlhttprequest
 dn_uvy6qyny.js|
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
@@ -38,11 +36,11 @@ dn_uvy6qyny.js|
 ||baike.baidu.com/api/common
 ||baike.baidu.com/api/wapui
 ||dup.baidustatic.com
-||bdstatic.com/static/v1/mip-ad/
+||bdstatic.com/static/v1/mip-ad
 ||eclick.baidu.com
 ||tieba.baidu.com/mo/q/recommendpb
 ||jingyan.baidu.com/article/ajax
-||m.baidu.com/bh/m/content?originalUrl=
+||m.baidu.com/bh/m/content?originalUrl
 ||adservice.google.com
 ||scorecardresearch.com
 ||googletagmanager.com
@@ -57,8 +55,8 @@ dn_uvy6qyny.js|
 ||126.net/163/frontend
 ||s3a.pstatp.com/toutiao
 ||analytics.163.com
-||api.163.com/api/v1/products/
-||3g.163.com/wap/special/
+||api.163.com/api/v1/products
+||3g.163.com/wap/special
 ||3g.163.com$xmlhttprequest,subdocument
 ||yylady.cn
 ||news.ssp.qq.com
@@ -81,7 +79,7 @@ dn_uvy6qyny.js|
 ||www.sinaimg.cn/cj/toutiao
 ||sina.com.cn/other/src/app
 ||n.sinaimg.cn/finance/cj/kandian
-||interface.sina.cn/wap_api/
+||interface.sina.cn/wap_api
 ||go.sohu.com
 ||track.sohu.com
 ||js.sohu.com/pv.js
@@ -117,7 +115,7 @@ dn_uvy6qyny.js|
 ||www.xiaohongshu.com/api/sns/v1/ext/ads
 ||is.snssdk.com
 ||i.snssdk.com
-||gamersky.com/common/tg/
+||gamersky.com/common/tg
 ||mediav.com
 ||2345.com
 ||50bang.org
