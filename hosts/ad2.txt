@@ -154,3 +154,13 @@ n_uvy6qyny$script
 ||static.bshare.cn
 ||chinanews.com.cn/m/part
 ||chinanews.com/m/part
+||govchongqing.cn
+||govgaungzhou.cn
+||govgift.com
+||govguangxi.cn
+||govguilin.cn
+||govhechi.cn
+||govkunming.cn
+||govshenzhen.cn
+||govxian.cn
+||govyunfu.cn
