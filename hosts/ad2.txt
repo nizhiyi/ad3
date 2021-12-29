@@ -8,11 +8,11 @@ sina.cn##div[class*="relevent"]
 /js/huimi-p88$script
 /js/new-kk$script
 .xyz/$third-party,script,xmlhttprequest
-.xyz:$third-party,~image
+.xyz:$third-party,script,xmlhttprequest,other
 .top/$third-party,script,xmlhttprequest
-.top:$third-party,~image
+.top:$third-party,script,xmlhttprequest,other
 .vip/$third-party,script,xmlhttprequest
-.vip:$third-party,~image
+.vip:$third-party,script,xmlhttprequest,other
 n_uvy6qyny$script
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
