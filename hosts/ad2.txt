@@ -7,7 +7,7 @@ sina.cn##div[class*="relevent"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
-.xyz/$third-party,script,xmlhttprequest
+.xyz^$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
 n_uvy6qyny$script
 ||ada.baidu.com
