@@ -49,6 +49,8 @@ n_uvy6qyny$script
 ||tieba.baidu.com/mo/q/recommendpb
 ||jingyan.baidu.com/article/ajax
 ||m.baidu.com/bh/m/content?originalUrl=
+||als.baidu.com/clog
+||novelapi.baidu.com/novelopenapi/common/ad?
 ||adservice.google.com
 ||scorecardresearch.com
 ||googletagmanager.com
@@ -187,3 +189,5 @@ n_uvy6qyny$script
 ||haoyuntj.com
 ||bjzysd.net
 ||wqdwork.com
+||haoyundm.com
+||yueyuego.com
