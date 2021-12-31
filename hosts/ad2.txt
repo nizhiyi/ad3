@@ -7,6 +7,10 @@ sina.cn##div[class*="relevent"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
+/js/ads$script
+n_uvy6qyny$script
+/js/fdjdjghrut_tt.js$script
+/js/fsjghgwyegh_f.js$script
 .xyz/$third-party,script,xmlhttprequest
 .xyz:$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
@@ -16,9 +20,6 @@ sina.cn##div[class*="relevent"]
 .site/$third-party,script,xmlhttprequest
 .club/$third-party,script,xmlhttprequest
 .online/$third-party,script,xmlhttprequest
-n_uvy6qyny$script
-/js/fdjdjghrut_tt.js$script
-/js/fsjghgwyegh_f.js$script
 ||ada.baidu.com
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com
@@ -194,3 +195,6 @@ n_uvy6qyny$script
 ||wqdwork.com
 ||haoyundm.com
 ||yueyuego.com
+||zhemaijs.net
+||mi.tvzhe.com
+||5w5w.com
