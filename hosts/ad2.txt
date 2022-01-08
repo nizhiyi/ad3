@@ -11,6 +11,7 @@ sina.cn##div[class*="relevent"]
 n_uvy6qyny$script
 /js/fdjdjghrut_tt.js$script
 /js/fsjghgwyegh_f.js$script
+.com:$third-party,script,xmlhttprequest
 .xyz/$third-party,script,xmlhttprequest
 .xyz:$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
@@ -231,3 +232,10 @@ n_uvy6qyny$script
 ||b1.b2b168.com^
 ||qiyeshangpu1.qiyeshangpu.net^
 ||citywy.com^
+||5355439.com^
+||tj-yijiajing.com^
+||zglecc.com^
+||vc370.com^
+||phyef.com^
+||szfhl99.com^
+||zjqhyx.cn^
