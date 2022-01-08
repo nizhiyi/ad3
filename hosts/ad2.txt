@@ -94,7 +94,6 @@ n_uvy6qyny$script
 ||www.sinaimg.cn/cj/toutiao
 ||sina.com.cn/other/src/app
 ||n.sinaimg.cn/finance/cj/kandian
-||interface.sina.cn/wap_api/
 ||go.sohu.com^
 ||track.sohu.com^
 ||js.sohu.com/pv.js
