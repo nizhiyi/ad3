@@ -11,7 +11,6 @@ sina.cn##div[class*="relevent"]
 n_uvy6qyny$script
 /js/fdjdjghrut_tt.js$script
 /js/fsjghgwyegh_f.js$script
-.com:$third-party,script,xmlhttprequest
 .xyz/$third-party,script,xmlhttprequest
 .xyz:$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
