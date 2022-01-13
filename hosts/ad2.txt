@@ -55,6 +55,7 @@ n_uvy6qyny$script
 ||m.baidu.com/bh/m/content?originalUrl=
 ||als.baidu.com/clog
 ||novelapi.baidu.com/novelopenapi/common/ad?
+||zhanzhang.baidu.com^
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
@@ -238,3 +239,7 @@ n_uvy6qyny$script
 ||szfhl99.com^
 ||zjqhyx.cn^
 ||jswku.com/JS/www2m.js
+||qdopportune.cn^
+||52biquge.com/post.php
+||panggugu.com^
+||rdezbie.com^
