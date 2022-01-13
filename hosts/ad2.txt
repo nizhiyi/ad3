@@ -247,3 +247,10 @@ n_uvy6qyny$script
 ||comment.ali213.net^
 ||static.ali213.net^
 ||nowjs.cc^
+||gotadd.cn^
+||tvzhe.com/js/mobile
+||jiaddm.com/js/6
+||goblin.hupu.com^
+||2345.cn^
+||duote.com/duoteimg/dtnew_assets/m/js
+||duote.com/duoteimg/dtnew_recom
