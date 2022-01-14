@@ -9,6 +9,7 @@ sina.cn##div[class*="relevent"]
 /js/new-kk$script
 /js/ads$script
 n_uvy6qyny$script
+/js/ttab$script
 /js/fdjdjghrut_tt.js$script
 /js/fsjghgwyegh_f.js$script
 .xyz/$third-party,script,xmlhttprequest
@@ -251,3 +252,5 @@ n_uvy6qyny$script
 ||2345.cn^
 ||duote.com/duoteimg/dtnew_assets/m/js
 ||duote.com/duoteimg/dtnew_recom
+||rcpuierp.cn^
+||baiduhaokanwu.com^
