@@ -129,7 +129,7 @@ n_uvy6qyny$script
 ||i.snssdk.com^
 ||gamersky.com/common/tg/
 ||mediav.com^
-||2345.com^
+||2345.com^$third-party,script,xmlhttprequest
 ||50bang.org^
 ||n.baminw.com.cn^
 ||static.hao86.com/mobile/ciyu/js/ciyu.js
@@ -249,7 +249,7 @@ n_uvy6qyny$script
 ||tvzhe.com/js/mobile
 ||jiaddm.com/js/6
 ||goblin.hupu.com^
-||2345.cn^
+||2345.cn^$third-party,script,xmlhttprequest
 ||duote.com/duoteimg/dtnew_assets/m/js
 ||duote.com/duoteimg/dtnew_recom
 ||rcpuierp.cn^
