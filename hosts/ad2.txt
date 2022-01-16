@@ -130,6 +130,7 @@ n_uvy6qyny$script
 ||gamersky.com/common/tg/
 ||mediav.com^
 ||2345.com^$third-party,script,xmlhttprequest
+||2345.cn^$third-party,script,xmlhttprequest
 ||50bang.org^
 ||n.baminw.com.cn^
 ||static.hao86.com/mobile/ciyu/js/ciyu.js
@@ -241,7 +242,6 @@ n_uvy6qyny$script
 ||52biquge.com/post.php
 ||panggugu.com^
 ||rdezbie.com^
-||semtuiguang.com/static/js/ttab
 ||comment.ali213.net^
 ||static.ali213.net^
 ||nowjs.cc^
@@ -249,7 +249,6 @@ n_uvy6qyny$script
 ||tvzhe.com/js/mobile
 ||jiaddm.com/js/6
 ||goblin.hupu.com^
-||2345.cn^$third-party,script,xmlhttprequest
 ||duote.com/duoteimg/dtnew_assets/m/js
 ||duote.com/duoteimg/dtnew_recom
 ||rcpuierp.cn^
