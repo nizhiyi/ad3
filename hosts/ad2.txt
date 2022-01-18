@@ -263,7 +263,7 @@ n_uvy6qyny$script
 ||ieecheng.com^
 ||cyperjs.cn^
 ||ywquyq.com^
-||alicdn.com$image,domain=czyylh.com|sznhjg.com|jndpt.com|zhuochengpump.com|bccyjd.com|xinke163.com
+||alicdn.com$image,domain=czyylh.com|sznhjg.com|jndpt.com|zhuochengpump.com|bccyjd.com|xinke163.com|whboats.com
 ||hanjw1988.com^
 ||hbxhda.com/cd65_d.js
 ||xqd360.com^
@@ -272,3 +272,7 @@ n_uvy6qyny$script
 ||dyxsmj.net^
 ||govqingdao.cn^
 ||tqyy.tv/js/tlyy/wapdibu1.js
+||songrfid.com^
+||govlaibing.cn^
+||dns.czsmac.com^
+||lm789456.com^
