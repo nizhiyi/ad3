@@ -263,7 +263,7 @@ n_uvy6qyny$script
 ||ieecheng.com^
 ||cyperjs.cn^
 ||ywquyq.com^
-||alicdn.com$image,domain=czyylh.com|sznhjg.com|jndpt.com|zhuochengpump.com|bccyjd.com|xinke163.com|whboats.com
+||ae01.alicdn.com/kf/$image,domain=czyylh.com|sznhjg.com|jndpt.com|zhuochengpump.com|bccyjd.com|xinke163.com|whboats.com
 ||hanjw1988.com^
 ||hbxhda.com/cd65_d.js
 ||xqd360.com^
