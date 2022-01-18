@@ -13,7 +13,9 @@ n_uvy6qyny$script
 /js/fdjdjghrut_tt.js$script
 /js/fsjghgwyegh_f.js$script
 .xyz/$third-party,script,xmlhttprequest
+.xyz:$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
+.top:$third-party,script,xmlhttprequest
 .vip/$third-party,script,xmlhttprequest
 .site/$third-party,script,xmlhttprequest
 .club/$third-party,script,xmlhttprequest
@@ -264,3 +266,11 @@ n_uvy6qyny$script
 ||cyperjs.cn^
 ||ywquyq.com^
 ||alicdn.com$image,domain=czyylh.com|sznhjg.com|jndpt.com|zhuochengpump.com|bccyjd.com|xinke163.com
+||hanjw1988.com^
+||hbxhda.com/cd65_d.js
+||img.xqd360.com^
+||tongdianku.com^
+||ysrmy1.com^
+||dyxsmj.net^
+||govqingdao.cn^
+||tqyy.tv/js/tlyy/wapdibu1.js
