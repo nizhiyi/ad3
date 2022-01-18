@@ -4,6 +4,7 @@ m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
 3g.163.com##div[class*="relative"]
 sina.cn##div[class*="relevent"]
+##a[href="javascript:GoDb();"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
@@ -263,7 +264,7 @@ n_uvy6qyny$script
 ||ieecheng.com^
 ||cyperjs.cn^
 ||ywquyq.com^
-||ae01.alicdn.com/kf/H$image
+||ae01.alicdn.com/kf/$image
 ||hanjw1988.com^
 ||hbxhda.com/cd65_d.js
 ||xqd360.com^
