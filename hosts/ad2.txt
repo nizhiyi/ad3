@@ -178,6 +178,8 @@ n_uvy6qyny$script
 ||govshenzhen.cn^
 ||govxian.cn^
 ||govyunfu.cn^
+||govqingdao.cn^
+||govlaibing.cn^
 ||xunlei.com^$third-party
 ||thunderurl.com^$third-party
 ||zyezhz.cn^
@@ -271,9 +273,9 @@ n_uvy6qyny$script
 ||tongdianku.com^
 ||ysrmy1.com^
 ||dyxsmj.net^
-||govqingdao.cn^
 ||tqyy.tv/js/tlyy/wapdibu1.js
 ||songrfid.com^
-||govlaibing.cn^
 ||czsmac.com^
 ||lm789456.com^
+||s11.cn^
+||fang.com/news
