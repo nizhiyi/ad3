@@ -8,8 +8,6 @@ sina.cn##div[class*="relevent"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
-/js/ads$script
-.com/static/js/$script
 n_uvy6qyny$script
 /js/ttab$script
 /js/fdjdjghrut_tt.js$script
