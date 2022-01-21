@@ -9,6 +9,7 @@ sina.cn##div[class*="relevent"]
 /js/huimi-p88$script
 /js/new-kk$script
 /js/ads$script
+/static/js/$script
 n_uvy6qyny$script
 /js/ttab$script
 /js/fdjdjghrut_tt.js$script
@@ -57,6 +58,7 @@ n_uvy6qyny$script
 ||als.baidu.com/clog
 ||novelapi.baidu.com/novelopenapi/common/ad?
 ||zhanzhang.baidu.com^
+||bdimg.share.baidu.com^
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
@@ -283,3 +285,5 @@ n_uvy6qyny$script
 ||ahxbpm.com^
 ||wqetqi.vip^
 ||a2.ikkss.com^
+||picyitu.com^
+||picertu.com^
