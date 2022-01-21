@@ -10,6 +10,8 @@ sina.cn##div[class*="relevent"]
 /js/new-kk$script
 n_uvy6qyny$script
 /static/js/*zab_$script
+/js/ads$script
+/runtime/ad$script
 /js/ttab$script
 /js/fdjdjghrut_tt.js$script
 /js/fsjghgwyegh_f.js$script
