@@ -9,7 +9,7 @@ sina.cn##div[class*="relevent"]
 /js/huimi-p88$script
 /js/new-kk$script
 /js/ads$script
-/static/js/$script
+.com/static/js/$script
 n_uvy6qyny$script
 /js/ttab$script
 /js/fdjdjghrut_tt.js$script
@@ -287,3 +287,4 @@ n_uvy6qyny$script
 ||a2.ikkss.com^
 ||picyitu.com^
 ||picertu.com^
+||zhuangxiu567.com^
