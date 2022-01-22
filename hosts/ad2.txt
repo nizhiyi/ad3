@@ -4,12 +4,10 @@ m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
 3g.163.com##div[class*="relative"]
 sina.cn##div[class*="relevent"]
-##a[href="javascript:GoDb();"]
 /js/wap2-jm$script
 /js/huimi-p88$script
 /js/new-kk$script
 n_uvy6qyny$script
-/static/js/*zab_$script
 /js/ad$script
 /runtime/ad$script
 /js/ttab$script
@@ -171,6 +169,8 @@ n_uvy6qyny$script
 ||static.bshare.cn^
 ||chinanews.com.cn/m/part
 ||chinanews.com/m/part
+||s11.cn^
+||fang.com/news
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
@@ -279,8 +279,6 @@ n_uvy6qyny$script
 ||songrfid.com^
 ||czsmac.com^
 ||lm789456.com^
-||s11.cn^
-||fang.com/news
 ||livere.me^
 ||ahxbpm.com^
 ||wqetqi.vip^
