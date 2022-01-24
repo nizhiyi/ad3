@@ -11,8 +11,8 @@ n_uvy6qyny$script
 /js/ad$script
 /runtime/ad$script
 /js/ttab$script
-/js/fdjdjghrut_tt.js$script
-/js/fsjghgwyegh_f.js$script
+/js/fdjdjghrut$script
+/js/fsjghgwyegh$script
 .xyz/$third-party,script,xmlhttprequest
 .xyz:$third-party,script,xmlhttprequest
 .top/$third-party,script,xmlhttprequest
