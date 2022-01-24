@@ -135,6 +135,10 @@ n_uvy6qyny$script
 ||mediav.com^
 ||2345.com^$third-party,script,xmlhttprequest
 ||2345.cn^$third-party,script,xmlhttprequest
+||bdsearch.2345.com^
+||bdcode.2345.com^
+||ggcode.2345.com^
+||waptianqi.2345.com/js/browser
 ||50bang.org^
 ||n.baminw.com.cn^
 ||static.hao86.com/mobile/ciyu/js/ciyu.js
@@ -171,6 +175,7 @@ n_uvy6qyny$script
 ||chinanews.com/m/part
 ||s11.cn^
 ||fang.com/news
+||datas.tianqistatic.com^
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
@@ -286,4 +291,3 @@ n_uvy6qyny$script
 ||picyitu.com^
 ||picertu.com^
 ||zhuangxiu567.com^
-||datas.tianqistatic.com^
