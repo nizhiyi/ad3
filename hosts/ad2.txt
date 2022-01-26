@@ -52,7 +52,7 @@
 ||analytics.163.com^
 ||api.163.com/api/v1/products/
 ||3g.163.com/wap/special/
-||3g.163.com^$xmlhttprequest,subdocument
+||3g.163.com^
 ||yylady.cn^
 ||news.ssp.qq.com^
 ||btrace.qq.com^
@@ -111,8 +111,8 @@
 ||i.snssdk.com^
 ||gamersky.com/common/tg/
 ||mediav.com^
-||2345.com^$third-party,script,xmlhttprequest
-||2345.cn^$third-party,script,xmlhttprequest
+||2345.com
+||2345.cn
 ||bdsearch.2345.com^
 ||bdcode.2345.com^
 ||ggcode.2345.com^
@@ -166,8 +166,8 @@
 ||govyunfu.cn^
 ||govqingdao.cn^
 ||govlaibing.cn^
-||xunlei.com^$third-party
-||thunderurl.com^$third-party
+||xunlei.com^
+||thunderurl.com^
 ||zyezhz.cn^
 ||m.5atxt.com/js/mm
 ||qygzbxpt.com^
