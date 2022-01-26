@@ -1,5 +1,3 @@
-[Adblock Plus 2.0]
-! Title: EasyList
 m.cnbeta.com##.cbimage-fixed
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
@@ -15,14 +13,6 @@ n_uvy6qyny$script
 /js/ttab$script
 /js/fdjdjghrut$script
 /js/fsjghgwyegh$script
-.xyz/$third-party,script,xmlhttprequest
-.xyz:$third-party,script,xmlhttprequest
-.top/$third-party,script,xmlhttprequest
-.top:$third-party,script,xmlhttprequest
-.vip/$third-party,script,xmlhttprequest
-.site/$third-party,script,xmlhttprequest
-.club/$third-party,script,xmlhttprequest
-.online/$third-party,script,xmlhttprequest
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
