@@ -4,7 +4,6 @@
 ||dlswbr.baidu.com^
 ||baike.baidu.com/tashuolist
 ||baike.baidu.com/api/tashuo
-||bdimg.com/static/m-question-new/widget/recommend-follow
 ||hm.baidu.com^
 ||ubmcmm.baidustatic.com^
 ||baiducom.bj.bcebos.com^
@@ -30,10 +29,8 @@
 ||bdstatic.com/static/v1/mip-ad/
 ||eclick.baidu.com^
 ||tieba.baidu.com/mo/q/recommendpb
-||jingyan.baidu.com/article/ajax
-||m.baidu.com/bh/m/content?originalUrl=
+||jingyan.baidu.com/article/aja
 ||als.baidu.com/clog
-||novelapi.baidu.com/novelopenapi/common/ad?
 ||zhanzhang.baidu.com^
 ||bdimg.share.baidu.com^
 ||adservice.google.com^
@@ -120,8 +117,6 @@
 ||50bang.org^
 ||n.baminw.com.cn^
 ||static.hao86.com/mobile/ciyu/js/ciyu.js
-||csdnimg.cn/release/blogv2/dist/components/js/pc_wap
-||csdnimg.cn/release/blogv2/dist/mobile/js/detail
 ||bdwmhz.120askimages.com^
 ||bdlm.120askimages.com^
 ||selenaroberta.com^
@@ -144,8 +139,7 @@
 ||ad.lkqd.net^
 ||612.com^
 ||m.mydrivers.com/m
-||huanqiu.com/resource/js/base_mobile2_baidu.js
-||huanqiu.com/api/ad
+||huanqiu.com/api/a
 ||ad-survey.com^
 ||90.huanqiu.com^
 ||static.bshare.cn^
