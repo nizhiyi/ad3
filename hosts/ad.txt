@@ -177,6 +177,7 @@ chinanews.com/m/part
 s11.cn^
 fang.com/news
 datas.tianqistatic.com^
+thefatherofsalmon.com^
 govchongqing.cn^
 govgaungzhou.cn^
 govgift.com^
