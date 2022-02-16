@@ -60,6 +60,7 @@ novelapi.baidu.com/novelopenapi/common/ad?
 zhanzhang.baidu.com^
 bdimg.share.baidu.com^
 tieba.baidu.com/mo/q/hot/topicList
+downpack.baidu.com^
 adservice.google.com^
 scorecardresearch.com^
 googletagmanager.com^
