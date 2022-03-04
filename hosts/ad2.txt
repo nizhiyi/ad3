@@ -5,6 +5,7 @@ m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
 3g.163.com##div[class*="relative"]
 sina.cn##div[class*="relevent"]
+www.zhihu.com##BUTTON.OpenInAppButton
 /js/wap2-jm
 /js/huimi-p88
 /js/new-kk
@@ -177,6 +178,9 @@ n_uvy6qyny
 ||fang.com/news
 ||datas.tianqistatic.com^
 ||thefatherofsalmon.com^
+||sugar.zhihu.com^
+||www.zhihu.com/api
+||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
