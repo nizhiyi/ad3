@@ -97,6 +97,8 @@ n_uvy6qyny
 ||www.sinaimg.cn/cj/toutiao
 ||sina.com.cn/other/src/app
 ||n.sinaimg.cn/finance/cj/kandian
+||cmnt.sina.cn/aj
+||feeds.sina.cn/api
 ||go.sohu.com^
 ||track.sohu.com^
 ||js.sohu.com/pv.js
@@ -132,6 +134,7 @@ n_uvy6qyny
 ||www.xiaohongshu.com/api/sns/v1/ext/ads
 ||is.snssdk.com^
 ||i.snssdk.com^
+||tsearch.snssdk.com/search/suggest
 ||gamersky.com/common/tg/
 ||mediav.com^
 ||2345.com^
