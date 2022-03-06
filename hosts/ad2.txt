@@ -181,6 +181,7 @@ n_uvy6qyny
 ||sugar.zhihu.com^
 ||www.zhihu.com/api
 ||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
+||zhihu.com/commercial
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
