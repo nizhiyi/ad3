@@ -3,7 +3,6 @@ m.cnbeta.com##.cbimage-fixed
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
-3g.163.com##div[class*="relative"]
 www.zhihu.com##BUTTON.OpenInAppButton
 /js/wap2-jm
 /js/huimi-p88
