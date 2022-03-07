@@ -6,8 +6,7 @@ xw.qq.com##.recommend-modules
 3g.163.com##div[class*="relative"]
 www.zhihu.com##BUTTON.OpenInAppButton
 tieba.baidu.com##DIV.nav-bar-bottom
-tieba.baidu.com##DIV.tb-banner-wrapper-defensive.tb-banner.tb-threadlist__item
-tieba.baidu.com##DIV.banner-wrapper-defensive
+tieba.baidu.com##div[class*="-defensive"]
 /js/wap2-jm
 /js/huimi-p88
 /js/new-kk
