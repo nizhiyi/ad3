@@ -184,6 +184,7 @@ n_uvy6qyny
 ||www.zhihu.com/api
 ||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
 ||zhihu.com/commercial
+||taisantech.com^
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
