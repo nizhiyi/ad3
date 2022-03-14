@@ -185,6 +185,10 @@ n_uvy6qyny
 ||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
 ||zhihu.com/commercial
 ||taisantech.com^
+||emcharts.dfcfw.com^
+||wap.eastmoney.com/a/static/js/news.js
+||bdstatics.eastmoney.com^
+||gbfek.dfcfw.com^
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
