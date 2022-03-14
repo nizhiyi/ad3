@@ -188,7 +188,6 @@ n_uvy6qyny
 ||emcharts.dfcfw.com^
 ||wap.eastmoney.com/a/static/js/news.js
 ||bdstatics.eastmoney.com^
-||gbfek.dfcfw.com^
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
