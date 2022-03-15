@@ -181,7 +181,8 @@ n_uvy6qyny
 ||datas.tianqistatic.com^
 ||thefatherofsalmon.com^
 ||sugar.zhihu.com^
-||www.zhihu.com/api/v4
+||www.zhihu.com/api/v4/questions*/related-
+||www.zhihu.com/api/v4/hot_recommendation
 ||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
 ||zhihu.com/commercial
 ||taisantech.com^
