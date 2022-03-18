@@ -9,12 +9,13 @@ tieba.baidu.com##div[class*="-defensive"]
 /js/wap2-jm
 /js/huimi-p88
 /js/new-kk
-n_uvy6qyny
 /js/ad
 /runtime/ad
 /js/ttab
 /js/fdjdjghrut
 /js/fsjghgwyegh
+/js/b_jfiwomfwo
+/js/t_sifmwof
 .xyz:
 .top:
 .vip/
