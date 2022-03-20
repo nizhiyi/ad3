@@ -87,6 +87,7 @@ tieba.baidu.com##div[class*="-defensive"]
 ||www.pconline.com.cn/_hux_
 ||matwbp.iask.sina.com.cn^
 ||gtimg.com/rain/bl20/json/8.js
+||gtimg.com/qqcdn/xw
 ||beacon.sina.com.cn^
 ||gk.sina.cn^
 ||qchannel03.cn^
