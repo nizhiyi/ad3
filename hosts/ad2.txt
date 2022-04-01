@@ -6,6 +6,9 @@ xw.qq.com##.recommend-modules
 www.zhihu.com##BUTTON.OpenInAppButton
 tieba.baidu.com##DIV.nav-bar-bottom
 tieba.baidu.com##div[class*="-defensive"]
+quark.sm.cn##.sc_text_recommend
+quark.sm.cn##.cpc-card
+quark.sm.cn##.com-cpc-card
 /js/wap2-jm
 /js/huimi-p88
 /js/new-kk
