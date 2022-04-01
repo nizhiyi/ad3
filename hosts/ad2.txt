@@ -25,6 +25,7 @@ quark.sm.cn##.com-cpc-card
 .site/
 .club/
 .online/
+.space/
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
@@ -324,3 +325,5 @@ quark.sm.cn##.com-cpc-card
 ||longjin123.com/uploads/common.js
 ||yinghuacd.com/bar/
 ||ud783c02.com^
+||haoweb.top^
+||wujiuwenxue.com/vue/iview
