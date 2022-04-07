@@ -197,6 +197,7 @@ quark.sm.cn##.com-cpc-card
 ||bdstatics.eastmoney.com^
 ||gbfek.dfcfw.com/deploy/mguba2020/work/article.js
 ||activity.10jqka.com.cn^
+||statwup.huya.com^
 ||govchongqing.cn^
 ||govgaungzhou.cn^
 ||govgift.com^
