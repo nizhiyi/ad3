@@ -1,3 +1,5 @@
+[Adblock Plus 2.0]
+! Title: My_easyList
 m.cnbeta.com##.cbimage-fixed
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
