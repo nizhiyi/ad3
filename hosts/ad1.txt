@@ -1,4 +1,0 @@
-[Adblock Plus 2.0]
-! Title:ADList
-m.cnbeta.com##.cbimage-fixed
-3g.163.com##div[class*="relative"]
