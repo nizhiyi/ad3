@@ -2,6 +2,3 @@
 ! Title:ADList
 m.cnbeta.com##.cbimage-fixed
 3g.163.com##div[class*="relative"]
-www.zhihu.com##BUTTON.OpenInAppButton
-tieba.baidu.com##DIV.nav-bar-bottom
-tieba.baidu.com##div[class*="-defensive"]
