@@ -189,8 +189,8 @@ quark.sm.cn##.com-cpc-card
 ||datas.tianqistatic.com^
 ||thefatherofsalmon.com^
 ||sugar.zhihu.com^
-||www.zhihu.com/api/v4/questions*/related-
-||www.zhihu.com/api/v4/hot_recommendation
+||www.zhihu.com/api/*/related-
+||www.zhihu.com/api/*/hot_recommendation
 ||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
 ||zhihu.com/commercial
 ||static.zhihu.com/heifetz/main.signflow
