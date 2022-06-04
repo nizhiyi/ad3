@@ -22,7 +22,10 @@ quark.sm.cn##.com-cpc-card
 /js/b_jfiwomfwo
 /js/t_sifmwof
 .xyz:
+.xyz/
 .top:
+.top/
+.vip:
 .vip/
 .site/
 .club/
