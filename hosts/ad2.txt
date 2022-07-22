@@ -80,7 +80,7 @@ quark.sm.cn##.com-cpc-card
 ||duomai.com^
 ||doubleclick.net^
 ||126.net/apps
-||126.net/163/frontend
+||126.net/163/frontend/libs/open-newsapp
 ||s3a.pstatp.com/toutiao
 ||analytics.163.com^
 ||api.163.com/api/v1/products/
