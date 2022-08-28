@@ -6,9 +6,9 @@ m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
 3g.163.com##div[class*="relative"]
 www.zhihu.com##BUTTON.OpenInAppButton
-www.zhihu.com##div[class*="relative"]
+www.zhihu.com##div[class*="OpenInAppButton"]
 tieba.baidu.com##DIV.nav-bar-bottom
-tieba.baidu.com##div[class*="OpenInAppButton"]
+tieba.baidu.com##div[class*="-defensive"]
 quark.sm.cn##.sc_text_recommend
 quark.sm.cn##.cpc-card
 quark.sm.cn##.com-cpc-card
