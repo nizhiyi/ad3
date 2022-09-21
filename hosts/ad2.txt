@@ -159,8 +159,11 @@ quark.sm.cn##.com-cpc-card
 ||static.hao86.com/mobile/ciyu/js/ciyu.js
 ||csdnimg.cn/release/blogv2/dist/components/js/pc_wap
 ||csdnimg.cn/release/blogv2/dist/mobile/js/detail
-||g.csdnimg.cn/user-login/
-||g.csdnimg.cn/asdf/
+||csdnimg.cn/user-login/
+||csdnimg.cn/asdf/
+||csdnimg.cn/release/passport_fe
+||csdnimg.cn/login-box
+||silkroad.csdn.net^
 ||bdwmhz.120askimages.com^
 ||bdlm.120askimages.com^
 ||selenaroberta.com^
