@@ -200,6 +200,9 @@ quark.sm.cn##.com-cpc-card
 ||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
 ||zhihu.com/commercial
 ||static.zhihu.com/heifetz/main.signflow
+||api.zhihu.com/distribute/rhea/qa_ad_card
+||zhihu-web-analytics.zhihu.com^
+||www.zhihu.com/api/v4/search/top_search
 ||taisantech.com^
 ||emcharts.dfcfw.com^
 ||wap.eastmoney.com/a/static/js/news.js
