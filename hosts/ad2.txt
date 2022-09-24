@@ -13,6 +13,8 @@ quark.sm.cn##.sc_text_recommend
 quark.sm.cn##.cpc-card
 quark.sm.cn##.com-cpc-card
 m.bilibili.com##.openapp-dialog
+m.bilibili.com##.m-video2-awaken-btn
+m.bilibili.com##DIV.m-video2-float-openapp
 /js/wap2-jm
 /js/huimi-p88
 /js/new-kk
