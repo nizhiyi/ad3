@@ -177,7 +177,7 @@ m.bilibili.com##.launch-app-btn.home-float-openapp
 ||mdfsbn.com^
 ||chinaz.com^
 ||51.la^
-||dl.hdslb.com^
+||s1.hdslb.com/bfs/static/jinkela/mstation-video-h5/*.mstation-video
 ||p.tanx.com^
 ||redirect.simba.taobao.com^
 ||51yes.com^
