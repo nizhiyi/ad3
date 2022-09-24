@@ -210,7 +210,7 @@ quark.sm.cn##.com-cpc-card
 ||zhihu-web-analytics.zhihu.com^
 ||www.zhihu.com/api/v4/search/top_search
 ||data.bilibili.com^
-||s1.hdslb.com/bfs/static/jinkela/mstation-video
+||s1.hdslb.com/bfs/static/jinkela/mstation-video-h5/2.mstation-video
 ||taisantech.com^
 ||emcharts.dfcfw.com^
 ||wap.eastmoney.com/a/static/js/news.js
