@@ -173,6 +173,7 @@ quark.sm.cn##.com-cpc-card
 ||mdfsbn.com^
 ||chinaz.com^
 ||51.la^
+||dl.hdslb.com^
 ||p.tanx.com^
 ||redirect.simba.taobao.com^
 ||51yes.com^
