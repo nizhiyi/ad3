@@ -12,6 +12,7 @@ tieba.baidu.com##div[class*="-defensive"]
 quark.sm.cn##.sc_text_recommend
 quark.sm.cn##.cpc-card
 quark.sm.cn##.com-cpc-card
+m.bilibili.com##.openapp-dialog
 /js/wap2-jm
 /js/huimi-p88
 /js/new-kk
