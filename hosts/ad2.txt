@@ -42,10 +42,7 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||bdstatic.com/static/v1/mip-ad/
 ||eclick.baidu.com^
 ||tieba.baidu.com/mo/q
-||jingyan.baidu.com/article/ajax
-||m.baidu.com/bh/m/content?originalUrl=
 ||als.baidu.com/clog
-||novelapi.baidu.com/novelopenapi/common/ad?
 ||zhanzhang.baidu.com^
 ||bdimg.share.baidu.com^
 ||downpack.baidu.com^
@@ -63,8 +60,6 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||126.net/163/frontend/libs/open-newsapp
 ||s3a.pstatp.com/toutiao
 ||analytics.163.com^
-||api.163.com/api/v1/products/
-||3g.163.com/wap/special/
 ||yylady.cn^
 ||news.ssp.qq.com^
 ||btrace.qq.com^
@@ -87,13 +82,8 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||www.sinaimg.cn/cj/toutiao
 ||sina.com.cn/other/src/app
 ||n.sinaimg.cn/finance/cj/kandian
-||cmnt.sina.cn/aj
-||feeds.sina.cn/api
 ||go.sohu.com^
 ||track.sohu.com^
-||js.sohu.com/pv.js
-||i.go.sohu.com/count
-||qpb.sohu.com^
 ||sohu.com/integration-api/mix
 ||bd.dhsz.cn^
 ||news.zsjxwj.com^
@@ -177,16 +167,12 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||www.zhihu.com/api/*/hot_recommendation
 ||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
 ||zhihu.com/commercial
-||static.zhihu.com/heifetz/main.signflow
 ||api.zhihu.com/distribute/rhea/qa_ad_card
 ||zhihu-web-analytics.zhihu.com^
 ||www.zhihu.com/api/v4/search/top_search
-||data.bilibili.com^
 ||taisantech.com^
 ||emcharts.dfcfw.com^
-||wap.eastmoney.com/a/static/js/news.js
 ||bdstatics.eastmoney.com^
-||gbfek.dfcfw.com/deploy/mguba2020/work/article.js
 ||activity.10jqka.com.cn^
 ||statwup.huya.com^
 ||govchongqing.cn^
@@ -317,5 +303,4 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||longjin123.com/uploads/common.js
 ||yinghuacd.com/bar/
 ||ud783c02.com^
-||haoweb.top^
 ||wujiuwenxue.com/vue/iview
