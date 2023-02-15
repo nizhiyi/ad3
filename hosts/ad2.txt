@@ -4,6 +4,7 @@ m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
 www.zhihu.com##BUTTON.OpenInAppButton
+www.zhihu.com##.OpenInAppButton
 tieba.baidu.com##DIV.nav-bar-bottom
 .xyz:
 .xyz/
