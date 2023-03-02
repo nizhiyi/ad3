@@ -11,6 +11,10 @@ tieba.baidu.com##DIV.nav-bar-bottom
 .top/
 .vip:
 .vip/
+/js/dngdqabkweb
+/js/dihzbipnif
+/js/fsjghgwyegh
+/js/fdjdjghrut
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
