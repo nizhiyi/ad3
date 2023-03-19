@@ -6,11 +6,6 @@ xw.qq.com##.recommend-modules
 www.zhihu.com##BUTTON.OpenInAppButton
 www.zhihu.com##.OpenInAppButton
 tieba.baidu.com##DIV.nav-bar-bottom
-.xyz:
-.top:
-.top/
-.vip:
-.vip/
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
