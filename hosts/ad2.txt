@@ -42,7 +42,6 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||dup.baidustatic.com^
 ||bdstatic.com/static/v1/mip-ad/
 ||eclick.baidu.com^
-||tieba.baidu.com/mo/q
 ||als.baidu.com/clog
 ||zhanzhang.baidu.com^
 ||bdimg.share.baidu.com^
