@@ -13,7 +13,6 @@ tieba.baidu.com##DIV.nav-bar-bottom
 /js/shangu8lx7har
 /js/xiack0uku7m
 /mo/q/recommendpb
-/mo/q/getUpConfigData
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
