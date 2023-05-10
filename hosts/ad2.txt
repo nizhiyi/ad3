@@ -193,3 +193,8 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||longjin123.com/uploads/common.js
 ||yinghuacd.com/bar/
 ||wujiuwenxue.com/vue/iview
+||g.csdnimg.cn/login-box/1.0.4/login-auto.js
+||silkroad.csdn.net/api/
+||beacon.tingyun.com^
+||gsp0.baidu.com^
+||iteye.com^
