@@ -205,3 +205,5 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||beacon.tingyun.com^
 ||gsp0.baidu.com^
 ||iteye.com^
+||moatads.com^
+||pbmp.ali213.net/js/
