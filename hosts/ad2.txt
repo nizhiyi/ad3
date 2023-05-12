@@ -13,6 +13,8 @@ tieba.baidu.com##DIV.nav-bar-bottom
 /js/shangu8lx7har
 /js/xiack0uku7m
 /mo/q/recommendpb
+/plugins/meks-easy-ads-widget/
+/pixel/sbe?
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
@@ -47,6 +49,11 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||zhanzhang.baidu.com^
 ||bdimg.share.baidu.com^
 ||downpack.baidu.com^
+||baidu.com/?action=getadsdata&
+||baidu.com/newspage/api/getmobads?
+||zhihu.com/commercial_api/banners_
+||alimama.alicdn.com^
+||dtscout.com^
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
