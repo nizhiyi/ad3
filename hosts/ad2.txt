@@ -52,10 +52,8 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||baidu.com/?action=getadsdata&
 ||baidu.com/newspage/api/getmobads?
 ||sofire bdstatic.com
-
 ||msite.baidu.com
 ||zhihu.com/commercial_api/banners
-
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
@@ -223,9 +221,6 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||m.zol.com.cn/Mbase/
 ||js.zol.comcn/pvn/qaminjs
 ||zzcm5.com
-
-
-
 ||zol-img.comcn/app/js
 ||m.ithome.com/api/news
 ||m.ithome.com/js/common/jump-app
@@ -233,5 +228,4 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||www.ezojs.com^
 ||www.gstatic.com^
 ||alimama.alicdn.com^
-
 ||dtscout.com^
