@@ -51,15 +51,19 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||downpack.baidu.com^
 ||baidu.com/?action=getadsdata&
 ||baidu.com/newspage/api/getmobads?
-||zhihu.com/commercial_api/banners_
-||alimama.alicdn.com^
-||dtscout.com^
+||sofire bdstatic.com
+
+||msite.baidu.com
+||zhihu.com/commercial_api/banners
+
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
 ||googleadservices.com^
 ||google-analytics.com^
 ||googlesyndication.com^
+||fundingchoicesmessages.google.com^
+||discovery.googleapis.com^
 ||taboola.com.cn^
 ||taboola.com^
 ||duomai.com^
@@ -219,8 +223,15 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||m.zol.com.cn/Mbase/
 ||js.zol.comcn/pvn/qaminjs
 ||zzcm5.com
-||sofire bdstatic.com
-||msite.baidu.com
+
+
+
 ||zol-img.comcn/app/js
 ||m.ithome.com/api/news
 ||m.ithome.com/js/common/jump-app
+||pc.stgowan.com^
+||www.ezojs.com^
+||www.gstatic.com^
+||alimama.alicdn.com^
+
+||dtscout.com^
