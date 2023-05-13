@@ -214,3 +214,13 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||jianshu.com/asimov/notes/seo_recommendations
 ||cnzz.com
 ||beacon.qq.com
+||m.zol.comcn/article/searchApi
+||cpro.zol.com.cn
+||m.zol.com.cn/Mbase/
+||js.zol.comcn/pvn/qaminjs
+||zzcm5.com
+||sofire bdstatic.com
+||msite.baidu.com
+||zol-img.comcn/app/js
+||m.ithome.com/api/news
+||m.ithome.com/js/common/jump-app
