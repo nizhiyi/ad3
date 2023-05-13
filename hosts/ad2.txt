@@ -210,3 +210,7 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||twlcyc.cn^
 ||jianshu.com/asimov/pdd
 ||ibreader.com^
+||hapying.com
+||jianshu.com/asimov/notes/seo_recommendations
+||cnzz.com
+||beacon.qq.com
