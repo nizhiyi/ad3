@@ -207,3 +207,6 @@ tieba.baidu.com##DIV.nav-bar-bottom
 ||iteye.com^
 ||moatads.com^
 ||pbmp.ali213.net/js/
+||twlcyc.cn^
+||jianshu.com/asimov/pdd
+||ibreader.com^
