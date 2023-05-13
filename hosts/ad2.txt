@@ -15,6 +15,14 @@ tieba.baidu.com##DIV.nav-bar-bottom
 /mo/q/recommendpb
 /plugins/meks-easy-ads-widget/
 /pixel/sbe?
+.xyz/$third-party
+.top/$third-party
+.ren/
+.buzz/
+.club/
+.icu/
+.info/
+.vip/
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
