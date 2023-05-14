@@ -77,7 +77,6 @@ m.sohu.com##.top-bill-wrapper
 ||googleadservices.com^
 ||google-analytics.com^
 ||googlesyndication.com^
-||fundingchoicesmessages.google.com^
 ||discovery.googleapis.com^
 ||taboola.com.cn^
 ||taboola.com^
