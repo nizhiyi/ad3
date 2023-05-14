@@ -5,6 +5,7 @@ m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.fengchao-banner-defensive
+tieba.baidu.com##.banner-wrapper-defensive
 www.zhihu.com##.OpenInAppButton
 m.sohu.com##.top-bill-wrapper
 /js/dngdqabkweb
@@ -221,7 +222,6 @@ m.sohu.com##.top-bill-wrapper
 ||g.csdnimg.cn/login-box/1.0.4/login-auto.js
 ||silkroad.csdn.net/api/
 ||beacon.tingyun.com^
-||gsp0.baidu.com^
 ||iteye.com^
 ||moatads.com^
 ||pbmp.ali213.net/js/
