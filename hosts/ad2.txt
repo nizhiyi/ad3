@@ -17,7 +17,6 @@ m.sohu.com##.top-bill-wrapper
 /js/huimi-p88
 /mo/q/recommendpb
 /mo/q/gameresourcepb/
-/mo/q/getUpConfigData
 /plugins/meks-easy-ads-widget/
 /pixel/sbe?
 .xyz/$third-party
