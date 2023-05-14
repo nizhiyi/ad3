@@ -245,7 +245,6 @@ m.sohu.com##.top-bill-wrapper
 ||www.gstatic.com^
 ||alimama.alicdn.com^
 ||dtscout.com^
-||bytegoofy.com^
 ||static.outin.cn^
 ||h5.analytics.126.net^
 ||m.163.com/wap/special/*ad
