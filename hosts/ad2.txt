@@ -6,6 +6,7 @@ xw.qq.com##.recommend-modules
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.fengchao-banner-defensive
 www.zhihu.com##.OpenInAppButton
+m.sohu.com##.top-bill-wrapper
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
