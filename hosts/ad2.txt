@@ -19,6 +19,7 @@ m.sohu.com##.top-bill-wrapper
 /mo/q/gameresourcepb/
 /plugins/meks-easy-ads-widget/
 /pixel/sbe?
+/insight/ads
 .xyz/$third-party
 .xyz:
 .top/$third-party
@@ -241,7 +242,6 @@ m.sohu.com##.top-bill-wrapper
 ||m.ithome.com/js/common/jump-app
 ||pc.stgowan.com^
 ||www.ezojs.com^
-||www.gstatic.com^
 ||alimama.alicdn.com^
 ||dtscout.com^
 ||static.outin.cn^
