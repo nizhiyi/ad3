@@ -12,6 +12,7 @@ www.zhihu.com##.OpenInAppButton
 /js/fdjdjghrut
 /js/shangu8lx7har
 /js/xiack0uku7m
+/js/huimi-p88
 /mo/q/recommendpb
 /mo/q/gameresourcepb/
 /mo/q/getUpConfigData
