@@ -3,9 +3,8 @@
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
-www.zhihu.com##BUTTON.OpenInAppButton
-www.zhihu.com##.OpenInAppButton
-tieba.baidu.com##DIV.nav-bar-bottom
+tieba.baidu.com##.nav-bar-bottom
+tieba.baidu.com##.fengchao-banner-defensive
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
@@ -13,6 +12,8 @@ tieba.baidu.com##DIV.nav-bar-bottom
 /js/shangu8lx7har
 /js/xiack0uku7m
 /mo/q/recommendpb
+/mo/q/gameresourcepb/
+/mo/q/getUpConfigData
 /plugins/meks-easy-ads-widget/
 /pixel/sbe?
 .xyz/$third-party
