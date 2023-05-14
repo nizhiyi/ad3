@@ -66,7 +66,7 @@ www.zhihu.com##.OpenInAppButton
 ||downpack.baidu.com^
 ||baidu.com/?action=getadsdata&
 ||baidu.com/newspage/api/getmobads?
-||sofire bdstatic.com
+||sofire.bdstatic.com
 ||msite.baidu.com
 ||zhihu.com/commercial_api/banners
 ||adservice.google.com^
