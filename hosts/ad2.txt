@@ -20,7 +20,7 @@ m.sohu.com##.top-bill-wrapper
 /plugins/meks-easy-ads-widget/
 /pixel/sbe?
 /insight/ads
-.xyz/$third-party
+.xyz/$third-party,~image
 .xyz:
 .top/$third-party
 .top:
