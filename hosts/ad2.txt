@@ -12,6 +12,7 @@ www.zhihu.com##.OpenInAppButton
 m.sohu.com##.top-bill-wrapper
 csdn.net##.recommend_list
 csdn.net##.feed-Sign-weixin
+163.com##section.js-recommend
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
@@ -24,6 +25,10 @@ csdn.net##.feed-Sign-weixin
 /plugins/meks-easy-ads-widget/
 /pixel/sbe?
 /insight/ads
+/touch/reconstruct/article
+/api/hot/news/combine
+/touch/jsonp/article
+/touch/api/paid-article
 .xyz/$third-party,~image
 .xyz:
 .top/$third-party
@@ -251,3 +256,10 @@ csdn.net##.feed-Sign-weixin
 ||static.outin.cn^
 ||h5.analytics.126.net^
 ||m.163.com/wap/special/*ad
+||zhibo.sina.cn/api/zhibo/feed
+||feeds.sina.cn/*/tianyi
+||cis.sohu.com/*/feed
+||inews.qq.com/web_feed/getRelatedModules
+||snowflake.qq.com
+||ifeng.com^*&adids=
+||ifeng.com/relateshare
