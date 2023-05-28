@@ -8,9 +8,8 @@ tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##.banner-wrapper-defensive
 www.zhihu.com##.OpenInAppButton
 m.sohu.com##.top-bill-wrapper
-blog.csdn.net##.recommend_list
-blog.csdn.net##.feed-Sign-weixin
-blog.csdn.net##.app-box
+csdn.net##.recommend_list
+csdn.net##.feed-Sign-weixin
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
@@ -142,6 +141,7 @@ blog.csdn.net##.app-box
 ||tsearch.snssdk.com/search/suggest
 ||gamersky.com/common/tg/
 ||mediav.com^
+||img-home.csdnimg.cn/data_json/
 ||2345.com^
 ||2345.cn^
 ||bdsearch.2345.com^
