@@ -13,6 +13,10 @@ m.sohu.com##.top-bill-wrapper
 csdn.net##.recommend_list
 csdn.net##.feed-Sign-weixin
 163.com##section.js-recommend
+m.autohome.com.cn###float_new_button
+m.autohome.com.cn##.evade-operate
+m.autohome.com.cn###section_homtpop
+/Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
@@ -263,3 +267,9 @@ csdn.net##.feed-Sign-weixin
 ||snowflake.qq.com
 ||ifeng.com^*&adids=
 ||ifeng.com/relateshare
+||x.autoimg.cn/bi/mda/
+||al.autohome.com.cn
+||quickapp.cn
+||app.autohome.com.cn
+||g.autoimg.cn/@app/
+||autohome.com.cn/info/hotrecommand
