@@ -142,7 +142,6 @@ blog.csdn.net##.app-box
 ||tsearch.snssdk.com/search/suggest
 ||gamersky.com/common/tg/
 ||mediav.com^
-||img-home.csdnimg.cn/data_json/
 ||2345.com^
 ||2345.cn^
 ||bdsearch.2345.com^
