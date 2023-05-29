@@ -117,7 +117,6 @@ m.autohome.com.cn###section_homtpop
 ||mjss.sinaimg.cn/wap/online/public
 ||n.sinaimg.cn/finance/guba-h5
 ||www.sinaimg.cn/cj/toutiao
-||sina.com.cn/other/src/app
 ||n.sinaimg.cn/finance/cj/kandian
 ||go.sohu.com^
 ||track.sohu.com^
