@@ -115,9 +115,6 @@ m.autohome.com.cn###section_homtpop
 ||qchannel03.cn^
 ||mixer.sina.cn^
 ||mjss.sinaimg.cn/wap/online/public
-||n.sinaimg.cn/finance/guba-h5
-||www.sinaimg.cn/cj/toutiao
-||n.sinaimg.cn/finance/cj/kandian
 ||go.sohu.com^
 ||track.sohu.com^
 ||sohu.com/integration-api/mix
