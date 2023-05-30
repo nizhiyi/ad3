@@ -19,6 +19,9 @@ m.autohome.com.cn##.evade-operate
 m.autohome.com.cn###section_homtpop
 m.bilibili.com##div.launch-app-btn
 m.bilibili.com##.openapp-dialog.large
+manmanbuy.com##.app-activity-download
+manmanbuy.com##.app-promotion-bar
+manmanbuy.com##.appbanner
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
@@ -276,3 +279,6 @@ m.bilibili.com##.openapp-dialog.large
 ||www1.pcauto.com.cn/*.js
 ||jzz.pcauto.com.cn/admin/recommend
 ||cmt.pcauto.com.cn^
+||a.alimama.cn^
+||include.manmanbuy.com/js/*.js?
+||static.manmanbuy.com/m/js/InsertAppDownload.js
