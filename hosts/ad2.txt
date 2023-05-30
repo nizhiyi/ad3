@@ -17,6 +17,8 @@ csdn.net##.feed-Sign-weixin
 m.autohome.com.cn###float_new_button
 m.autohome.com.cn##.evade-operate
 m.autohome.com.cn###section_homtpop
+m.bilibili.com##div.launch-app-btn
+m.bilibili.com##.openapp-dialog.large
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
