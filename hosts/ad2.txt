@@ -282,3 +282,7 @@ manmanbuy.com##.appbanner
 ||a.alimama.cn^
 ||include.manmanbuy.com/js/*.js?
 ||static.manmanbuy.com/m/js/InsertAppDownload.js
+||mapi.yiche.com/web_api/*recommend
+||dongchedi.com/motor/pc/content/rela
+||zijieapi.com^
+||ctags.cn^
