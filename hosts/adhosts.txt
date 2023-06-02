@@ -72,6 +72,7 @@
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 zhanzhang.toutiao.com
 0.0.0.0 mssdk-bu.bytedance.com
+0.0.0.0 toblog.ctobsnssdk.com
 
 #jd.com
 0.0.0.0 ads.union.jd.com
@@ -112,12 +113,14 @@
 0.0.0.0 at.umeng.com
 0.0.0.0 dev.umeng.com
 0.0.0.0 oc.umeng.com
+0.0.0.0 ulogs.umeng.com
 
 #other
 0.0.0.0 optimus-ads.amap.com
 0.0.0.0 gdloc.qchannel03.cn
 0.0.0.0 gdloc2.qchannel03.cn
 0.0.0.0 www.qchannel01.cn
+0.0.0.0 b.qchannel03.cn
 0.0.0.0 gaode-jmacs.m.taobao.com
 0.0.0.0 hmma.e.shifen.com
 0.0.0.0 hmma.baidu.com
