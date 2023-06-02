@@ -210,7 +210,6 @@
 0.0.0.0 yktd.m.cn.miaozhen.com
 
 #taobao
-0.0.0.0 gaode-jmacs.m.taobao.com
 0.0.0.0 default.cn.nt.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
@@ -261,7 +260,9 @@
 0.0.0.0 optimus-ads.amap.com
 0.0.0.0 gdloc.qchannel03.cn
 0.0.0.0 gdloc2.qchannel03.cn
+0.0.0.0 b.qchannel03.cn
 0.0.0.0 www.qchannel01.cn
+0.0.0.0 www.qchannel02.cn
+0.0.0.0 www.qchannel03.cn
 0.0.0.0 hmma.e.shifen.com
 0.0.0.0 hmma.baidu.com
-
