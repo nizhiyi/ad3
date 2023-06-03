@@ -359,6 +359,7 @@
 127.0.0.1 adv.fjtv.net
 127.0.0.1 dsa-mfp.fengshows.cn
 127.0.0.1 sdk.cferw.com
+
 #pkg=ad.adwars.com;大圣净化规则
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 wxa.wxs.qq.com
