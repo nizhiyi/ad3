@@ -258,6 +258,8 @@
 
 #other
 0.0.0.0 optimus-ads.amap.com
+0.0.0.0 m5-x.amap.com
+0.0.0.0 m5.amap.com
 0.0.0.0 gdloc.qchannel03.cn
 0.0.0.0 gdloc2.qchannel03.cn
 0.0.0.0 b.qchannel03.cn
