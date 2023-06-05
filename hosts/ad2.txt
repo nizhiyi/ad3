@@ -22,6 +22,8 @@ m.bilibili.com##.openapp-dialog.large
 manmanbuy.com##.app-activity-download
 manmanbuy.com##.app-promotion-bar
 manmanbuy.com##.appbanner
+m.mydrivers.com##.jdong1div
+m.mydrivers.com##.jdong11bg
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
@@ -286,3 +288,4 @@ manmanbuy.com##.appbanner
 ||dongchedi.com/motor/pc/content/rela
 ||zijieapi.com^
 ||ctags.cn^
+||m.mydrivers.com/m/relatednews
