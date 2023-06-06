@@ -130,6 +130,9 @@ m.mydrivers.com##.jdong11bg
 ||ax.ifeng.com^
 ||zol.com.cn/adrs
 ||p.zol-img.com.cn^
+||zol-img.com.cn/app/js
+||zol-img.com.cn/*open-modules
+||zol-img.com.cn/*wap-detail-top-app-bar
 ||stat.cnmo.com^
 ||zhanzhang.net^
 ||utrack.hexun.com^
