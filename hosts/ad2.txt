@@ -91,6 +91,7 @@ m.mydrivers.com##.jdong11bg
 ||baidu.com/newspage/api/getmobads?
 ||sofire.bdstatic.com
 ||msite.baidu.com
+||jingyan.baidu.com/article/ajax/relatefeed
 ||zhihu.com/commercial_api/banners
 ||adservice.google.com^
 ||scorecardresearch.com^
