@@ -94,6 +94,7 @@ m.mydrivers.com##.jdong11bg
 ||jingyan.baidu.com/article/ajax/
 ||baidu.com/*getrelatedbusiness
 ||mipengine.baidu.com/recfeed
+||mstatic.cdn.bcebos.com/content-landing-page/_next/static/chunks/framework
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
@@ -298,3 +299,4 @@ m.mydrivers.com##.jdong11bg
 ||m.mydrivers.com/m/relatednews
 ||gstatic.com^
 ||meiqia.com^
+||iy.com.cn^
