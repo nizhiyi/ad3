@@ -1,4 +1,8 @@
 # 自定义规则
+127.0.0.1 acs.m.taobao.com
+127.0.0.1 gdloc2.qchannel03.cn
+127.0.0.1 gdloc.qchannel03.cn
+127.0.0.1 gaode-jmacs.m.taobao.com
 127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 is.snssdk.com
 127.0.0.1 i.snssdk.com
