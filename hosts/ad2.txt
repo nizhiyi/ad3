@@ -91,8 +91,9 @@ m.mydrivers.com##.jdong11bg
 ||baidu.com/newspage/api/getmobads?
 ||sofire.bdstatic.com
 ||msite.baidu.com
-||jingyan.baidu.com/article/ajax/relatefeed
-||zhihu.com/commercial_api/banners
+||jingyan.baidu.com/article/ajax/
+||baidu.com/*getrelatedbusiness
+||mipengine.baidu.com/recfeed
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
@@ -100,6 +101,7 @@ m.mydrivers.com##.jdong11bg
 ||google-analytics.com^
 ||googlesyndication.com^
 ||discovery.googleapis.com^
+||fonts.googleapis.com^
 ||taboola.com.cn^
 ||taboola.com^
 ||duomai.com^
@@ -205,6 +207,7 @@ m.mydrivers.com##.jdong11bg
 ||api.zhihu.com/distribute/rhea/qa_ad_card
 ||zhihu-web-analytics.zhihu.com^
 ||www.zhihu.com/api/v4/search/top_search
+||zhihu.com/commercial_api/banners
 ||emcharts.dfcfw.com^
 ||bdstatics.eastmoney.com^
 ||activity.10jqka.com.cn^
@@ -293,3 +296,5 @@ m.mydrivers.com##.jdong11bg
 ||zijieapi.com^
 ||ctags.cn^
 ||m.mydrivers.com/m/relatednews
+||gstatic.com^
+||meiqia.com^
