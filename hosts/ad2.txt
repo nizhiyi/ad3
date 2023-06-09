@@ -29,7 +29,6 @@ m.fang.com##SECTION.news-box
 m.fang.com##.downloadAPP
 m.fang.com##DIV.floatAlert
 m.smzdm.com##.footer-banner
-m.smzdm.com##.module-waper
 m.smzdm.com##.footer-banner-wrap
 m.smzdm.com##.position-tool
 m.smzdm.com##DIR.fake-card
