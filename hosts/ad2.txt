@@ -24,6 +24,15 @@ manmanbuy.com##.app-promotion-bar
 manmanbuy.com##.appbanner
 m.mydrivers.com##.jdong1div
 m.mydrivers.com##.jdong11bg
+m.fang.com##.news-zx-fixed
+m.fang.com##SECTION.news-box
+m.fang.com##.downloadAPP
+m.fang.com##DIV.floatAlert
+m.smzdm.com##.footer-banner
+m.smzdm.com##.module-waper
+m.smzdm.com##.footer-banner-wrap
+m.smzdm.com##.position-tool
+m.smzdm.com##DIR.fake-card
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
@@ -300,3 +309,6 @@ m.mydrivers.com##.jdong11bg
 ||gstatic.com^
 ||meiqia.com^
 ||iy.com.cn^
+||static.soufunimg.com/common_m/*newHomeSearch
+||static.soufunimg.com/common_m/*appdown
+||smzdm.com/detail/get_core_words
