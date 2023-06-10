@@ -125,6 +125,7 @@ cn.bing.com##LI.ad_sc
 ||gdt.qq.com^
 ||download.uc.cn/download
 ||erebor.douban.com^
+||at3.doubanio.com/*.js
 ||jwz.3conline.com/adpuba
 ||ivy.pconline.com.cn^
 ||www.pconline.com.cn/_hux_
