@@ -1,4 +1,6 @@
 # 自定义规则
+127.0.0.1 aloc-modeldata.amap.com
+127.0.0.1 aloc-gnss-eph.amap.com
 127.0.0.1 acs.m.taobao.com
 127.0.0.1 gdloc2.qchannel03.cn
 127.0.0.1 gdloc.qchannel03.cn
