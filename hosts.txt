@@ -1,4 +1,8 @@
 # 自定义规则
+127.0.0.1 cnv2.mclean.50union.com
+127.0.0.1 cn.mvconf.50union.com
+127.0.0.1 www.pangolin-dsp-toutiao.com
+127.0.0.1 direct.ad-core-lb-v3.lf.bytelb.net
 127.0.0.1 aloc-modeldata.amap.com
 127.0.0.1 aloc-gnss-eph.amap.com
 127.0.0.1 acs.m.taobao.com
