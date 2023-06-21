@@ -186,7 +186,7 @@ cn.bing.com##LI.ad_sc
 ||bdlm.120askimages.com^
 ||selenaroberta.com^
 ||mdfsbn.com^
-||chinaz.com^
+||chinaz.com^$third-party
 ||51yes.com^
 ||m.toutiaoimg.cn/related/open
 ||hc.sogoubaidusm.cn/wap
