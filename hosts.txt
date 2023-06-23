@@ -48,11 +48,7 @@
 127.0.0.1 ima.300hu.com
 127.0.0.1 lbvod.300hu.com
 127.0.0.1 vid.300hu.com
-127.0.0.1 dvod.300hu.com
 127.0.0.1 v.300hu.com
-127.0.0.1 www.300hu.com
-127.0.0.1 www3.300hu.com
-127.0.0.1 jvod.300hu.com
 127.0.0.1 discover.300hu.com
 127.0.0.1 jdvod.300hu.com
 127.0.0.1 vod.300hu.com
