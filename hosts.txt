@@ -1,4 +1,10 @@
 # 自定义规则
+127.0.0.1 at3.doubanio.com
+127.0.0.1 gw.alicdn.com
+127.0.0.1 ossgw.alicdn.com
+127.0.0.1 vali.cp31.ott.cibntv.net
+127.0.0.1 vod.300hu.com
+127.0.0.1 api-cn.store.heytapmobi.com
 127.0.0.1 ads-union.jd.com
 127.0.0.1 cc.m.jd.com
 127.0.0.1 dgstatic.jd.com
@@ -99,10 +105,8 @@
 127.0.0.1 direct.ad-core-lb-v3.lf.bytelb.net
 127.0.0.1 aloc-modeldata.amap.com
 127.0.0.1 aloc-gnss-eph.amap.com
-127.0.0.1 acs.m.taobao.com
 127.0.0.1 gdloc2.qchannel03.cn
 127.0.0.1 gdloc.qchannel03.cn
-127.0.0.1 gaode-jmacs.m.taobao.com
 127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 is.snssdk.com
 127.0.0.1 i.snssdk.com
@@ -1300,7 +1304,6 @@
 #pkg=alibaba.com;阿里广告服务
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
-127.0.0.1 ynuf.aliapp.org
 127.0.0.1 unidesk.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 baichuan-sdk.alicdn.com
