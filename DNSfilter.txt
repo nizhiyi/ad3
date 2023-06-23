@@ -405,7 +405,6 @@ adpai.thepaper.cn
 applog.uc.cn
 fbapi.guguread.com
 jrad.jd.com
-api.adnet.mob.com
 tracking.ad-survey.com
 api1.888zy.cn
 open.e.kuaishou.com
@@ -414,12 +413,9 @@ i.w.inmobi.cn
 sdktm.w.inmobi.cn
 dm.bytedance.com
 dm.pstatp.com
-sdk.guard.mob.com
 stg-data.ads.heytapmobi.com
 keybut.com
-api.df.mob.com
 api-analytics-cn.huami.com
-api.applink.mob.com
 statics.woozooo.com
 api-ads.tiantianqutao.com
 c.adx.2345.com
@@ -619,7 +615,6 @@ ad.zuimeitianqi.com
 ads.adroi.com.cn
 ads-go.adroi.com.cn
 adx.hzbxm.com
-api.verify.mob.com
 pasta.esfile.duapps.com
 nrcapi.ssl2.duapps.com
 logs.chelaile.net.cn
@@ -639,10 +634,6 @@ m.ads.sohu.com
 s.ads.sohu.com
 t.ads.sohu.com
 a.track.sohu.com
-monitor.ssp.admobile.top
-sdk.ssp.admobile.top
-u.ssp.admobile.top
-api.fc.mob.com
 app-tj.adinall.com
 g.koowo.com
 mobilead.kuwo.cn
@@ -718,8 +709,6 @@ tracking.klickthru.com
 gsmtop.net
 click.buzzcity.net
 stats.pflexads.com
-a.glcdn.co
-wwww.adleads.com
 apps.buzzcity.net
 ads.mobgold.com
 android.bcfads.com
@@ -742,7 +731,6 @@ ftpcontent.worldnow.com
 s0.2mdn.net
 bigmobileads.com
 ads.mopub.com
-oasc04012.247realmedia.com
 assets.cntdy.mobi
 ad.leadboltapps.net
 api.airpush.com
@@ -1067,13 +1055,6 @@ ad.madserving.com
 ads.static.madserving.com
 adv.madserving.com
 miaozhen.com
-api.exc.mob.com
-api.share.mob.com
-api.fd.mob.com
-c.data.mob.com
-cca.mob.com
-devs.data.mob.com
-m.data.mob.com
 api.mobgi.com
 mobgi.com
 stat.mobgi.com
