@@ -852,11 +852,6 @@ service.jiagu.360.cn
 s.360.cn
 p.s.360.cn
 appjiagu.com
-cm.adkmob.com
-ssdk.adkmob.com
-bigdata.advmob.cn
-cdn0.mobmore.com
-ex.mobmore.com
 bu1.duba.com
 bu2.duba.com
 ad.sinovision.net
