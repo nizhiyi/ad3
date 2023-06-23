@@ -356,13 +356,6 @@ sax.sina.com.cn
 saxn.sina.com.cn
 beacon.sina.com.cn
 s3.pfp.sina.net
-d0.sina.com.cn
-d1.sina.com.cn
-d2.sina.com.cn
-d5.sina.com.cn
-d7.sina.com.cn
-d8.sina.com.cn
-d9.sina.com.cn
 adx.hupu.com
 goblin.hupu.com
 shence.hupu.com
