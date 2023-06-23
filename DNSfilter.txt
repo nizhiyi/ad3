@@ -406,7 +406,6 @@ applog.uc.cn
 fbapi.guguread.com
 jrad.jd.com
 tracking.ad-survey.com
-api1.888zy.cn
 open.e.kuaishou.com
 sdk.api.oaid.wocloud.cn
 i.w.inmobi.cn
@@ -541,14 +540,7 @@ durdcn.doglobal.net
 api-es.doglobal.net
 adproxy.autohome.com.cn
 v3-ad.ixigua.com
-rcv.aiclk.com
-cdn.aiclk.com
-cfg-cdn.aiclk.com
-ad-sdk.aiclk.com
-api.aiclk.com
-update0.aiclk.com
-sdk-ab-config.aiclk.com
-sdk-globalconfig.aiclk.com
+aiclk.com
 adx.maplehaze.cn
 log.kajicam.com
 conf.xdrig.com
