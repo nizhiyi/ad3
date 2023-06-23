@@ -1,4 +1,10 @@
 # 自定义规则
+127.0.0.1 comp.360os.com
+127.0.0.1 beacon-api.aliyuncs.com
+127.0.0.1 report.qqweb.qq.com
+127.0.0.1 gsp0.baidu.com
+127.0.0.1 tb1.bdstatic.com
+127.0.0.1 live-trace.bilibili.com
 127.0.0.1 api-c.dutils.com
 127.0.0.1 api-d.dutils.com
 127.0.0.1 api-devs.dutils.com
