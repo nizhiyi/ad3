@@ -1,4 +1,4 @@
-# ×Ô¶¨Òå¹æÔò
+# è‡ªå®šä¹‰è§„åˆ™
 comp.360os.com
 beacon-api.aliyuncs.com
 report.qqweb.qq.com
@@ -20,9 +20,7 @@ at3.doubanio.com
 gw.alicdn.com
 ossgw.alicdn.com
 vali.cp31.ott.cibntv.net
-300hu.com
-!dvod.300hu.com
-!jvod.300hu.com
+vod.300hu.com
 api-cn.store.heytapmobi.com
 ads-union.jd.com
 cc.m.jd.com
@@ -146,9 +144,9 @@ pglstatp-toutiao.com
 thumb.1010pic.com
 thumb2018.1010pic.com
 
-# ´óÊ¥¹æÔò from https://github.com/jdlingyu/ad-wars/blob/master/hosts
-#pkg=ad.xiaomi.com;ÊÓÆµ¿Í»§¶Ë¹ã¸æ
-#--Ğ¡Ã×ÊÓÆµ-MIUI
+# å¤§åœ£è§„åˆ™ from https://github.com/jdlingyu/ad-wars/blob/master/hosts
+#pkg=ad.xiaomi.com;è§†é¢‘å®¢æˆ·ç«¯å¹¿å‘Š
+#--å°ç±³è§†é¢‘-MIUI
 video.market.xiaomi.com
 a.market.xiaomi.com
 nav.browser.miui.com
@@ -170,7 +168,7 @@ bj.imp.voiceads.cn
 o2o.api.xiaomi.com
 baiducdncmn3.inter.iqiyi.com
 nadvideo2.baidu.com
-#--°®ÆæÒÕ-Qiyi
+#--çˆ±å¥‡è‰º-Qiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
 c.uaa.iqiyi.com
@@ -217,7 +215,7 @@ baiducdncmn-gd.inter.iqiyi.com
 bdcdncmn-gd.inter.71edge.com
 mixer.cupid.ptqy.gitv.tv
 msg.ptqy.gitv.tv
-#--ÌÚÑ¶ÊÓÆµ-Tencent
+#--è…¾è®¯è§†é¢‘-Tencent
 aiseet.aa.atianqi.com
 livep.l.aiseet.atianqi.com
 lives.l.aiseet.atianqi.com
@@ -261,7 +259,7 @@ news.l.qq.com
 mcgi.v.qq.com
 soup.v.qq.com
 bksoup.v.qq.com
-#--ËÑºüÊÓÆµ-Sohu
+#--æœç‹è§†é¢‘-Sohu
 agn.aty.snmsohu.aisee.tv
 agn.aty.sohu.com
 f.aty.sohu.com
@@ -287,7 +285,7 @@ wl.hd.sohu.com
 download.wan.sohu.com
 g.jssdk.net
 changyan.sohu.com
-#--·çĞĞ&¿áß÷-FunShion
+#--é£è¡Œ&é…·å–µ-FunShion
 aa0.pub.funshion.com
 aa1.pub.funshion.com
 adm.funshion.com
@@ -314,7 +312,7 @@ yk-ssp.ad.youku.com
 adashx.ut.youku.com
 adx-open-service.youku.com
 h-adashx.ut.youku.com
-#pkg=ad.adwars.com;´óÊ¥¾»»¯¹æÔò
+#pkg=ad.adwars.com;å¤§åœ£å‡€åŒ–è§„åˆ™
 ad.weixin.qq.com
 wxa.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
@@ -748,7 +746,7 @@ auction-load.unityads.unity3d.com
 cdp.cloud.unity3d.com
 app-measurement.com
 beacons.gcp.gvt2.com
-#pkg=googleanalysis.mobi;¹È¸è¹ã¸æ·şÎñ
+#pkg=googleanalysis.mobi;è°·æ­Œå¹¿å‘ŠæœåŠ¡
 ads.google.com
 googleadservices.com
 google-analytics.com
@@ -877,7 +875,7 @@ doubleclick.ctfile.com
 adclick.g.doublecklick.net
 s1.2mdn.net
 ssl.google-analytics.com
-#pkg=baidu.com;°Ù¶È¹ã¸æ·şÎñ
+#pkg=baidu.com;ç™¾åº¦å¹¿å‘ŠæœåŠ¡
 adm.baidu.com
 ad.player.baidu.com
 adscdn.baidu.com
@@ -943,7 +941,7 @@ sa.tuisong.baidu.com
 api.tuisong.baidu.com
 sa8.tuisong.baidu.com
 cpro.baidustatic.com
-#pkg=qq.com;ÌÚÑ¶¹ã¸æ·şÎñ
+#pkg=qq.com;è…¾è®¯å¹¿å‘ŠæœåŠ¡
 ad.qun.qq.com
 adping.qq.com
 adpm.app.qq.com
@@ -1008,7 +1006,7 @@ qappcenterv6.3g.qq.com
 aeventlog.beacon.qq.com
 cc.map.qq.com
 aegis.qq.com
-#pkg=alibaba.com;°¢Àï¹ã¸æ·şÎñ
+#pkg=alibaba.com;é˜¿é‡Œå¹¿å‘ŠæœåŠ¡
 adash.man.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 unidesk.alicdn.com
