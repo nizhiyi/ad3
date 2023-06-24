@@ -282,8 +282,8 @@ stat.funshion.net
 ykad-gateway.youku.com
 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 vali.cp31.ott.cibntv.net.302.myalicdn.com
-m.atm.youku.com
-ipm.atm.youku.com
+atm.youku.com
+cad.youku.com
 orange-dc.youku.com
 youku-acs.m.taobao.com
 video-ad.sm.cn
@@ -291,7 +291,6 @@ rest.irs01.com
 px.ucweb.com
 huichuan.sm.cn
 timeserver.cnzz.net
-val.atm.youku.com
 ykad-data.youku.com
 yk-ssp.ad.youku.com
 adashx.ut.youku.com
