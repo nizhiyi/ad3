@@ -1,4 +1,25 @@
 # 自定义规则
+g.huya.com
+wan.douyu.com
+zhiziyun.com
+yoyi.com.cn
+ulmdb.cn
+kejet.net
+fancyapi.com
+cr-nielsen.com
+behe.com
+adpushup.com
+de.as.pptv.com
+synacast.com
+bjcathay.com
+cm.bilibili.com
+xtgreat.com
+scorecardresearch.com
+reachmax.cn
+miaozhen.com
+show.ssports.com
+apisgame.iqiyi.com
+mmstat.com
 comp.360os.com
 beacon-api.aliyuncs.com
 report.qqweb.qq.com
@@ -144,7 +165,7 @@ ppvabs.pplive.com
 abtest.mistat.xiaomi.com
 api.tw06.xlmc.sec.miui.com
 adv.sec.miui.com
-vt.ipinyou.com
+ipinyou.com
 msg.71.am
 msg.qy.net
 resolver.msg.xiaomi.net
@@ -247,16 +268,7 @@ bksoup.v.qq.com
 #--搜狐视频-Sohu
 agn.aty.snmsohu.aisee.tv
 agn.aty.sohu.com
-f.aty.sohu.com
-m.aty.sohu.com
-fmg.aty.sohu.com
-mmg.aty.sohu.com
-p.aty.sohu.com
-pg.aty.sohu.com
-pm.aty.sohu.com
-v.aty.sohu.com
-vg.aty.sohu.com
-vm.aty.sohu.com
+aty.sohu.com
 da.mmarket.com
 click.hd.sohu.com.cn
 click2.hd.sohu.com
@@ -271,8 +283,6 @@ download.wan.sohu.com
 g.jssdk.net
 changyan.sohu.com
 #--风行&酷喵-FunShion
-aa0.pub.funshion.com
-aa1.pub.funshion.com
 adm.funshion.com
 conf.funshion.com
 pub.funshion.com
@@ -397,7 +407,7 @@ adpai.thepaper.cn
 applog.uc.cn
 fbapi.guguread.com
 jrad.jd.com
-tracking.ad-survey.com
+ad-survey.com
 open.e.kuaishou.com
 sdk.api.oaid.wocloud.cn
 i.w.inmobi.cn
@@ -426,7 +436,7 @@ ddd.1sapp.com
 trk1.17admob.com
 a.tn.token-ad.com
 adashx.ut.amap.com
-x1.go.sohu.com
+go.sohu.com
 aads.shuzilm.cn
 sdk.open.talk.getui.com
 st.appsad.cn
@@ -439,7 +449,7 @@ platform.adwep.com
 cdn.pyadx.com
 js-ad.a.yximgs.com
 tx-ad.a.yximgs.com
-ana.masky.biddingx.com
+biddingx.com
 ifs.tanx.com
 ifsk2.tanx.com
 adashx.ut.ele.me
@@ -466,7 +476,7 @@ s.snmi.cn
 fms.ipinyou.com
 ssp1.kfadx.tech
 vapi.tiandi.com
-s.adxvip.com
+adxvip.com
 c-gtc.getui.net
 b-gtc.gepush.com
 b-gtc.getui.net
@@ -480,8 +490,7 @@ b-gi.gepush.com
 b-gi.getui.net
 s.trafficjam.cn
 wkrd.tingyun.com
-mon.ad.xelements.cn
-imp.ad.xelements.cn
+xelements.cn
 league1.maoyuncloud.cn
 androidads4-6.adcolony.com
 adc3-launch.adcolony.com
@@ -759,7 +768,7 @@ d3g.qq.com
 jqmt.qq.com
 jsqmt.qq.com
 ta.qq.com
-p.tencentmind.com
+tencentmind.com
 e.qq.com
 cm.e.qq.com
 sdk.e.qq.com
