@@ -1,4 +1,6 @@
 # 自定义规则
+ads5-normal-lf.zijieapi.com
+frontier-toutiao.snssdk.com
 g.huya.com
 wan.douyu.com
 zhiziyun.com
