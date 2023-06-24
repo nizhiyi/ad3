@@ -1,5 +1,11 @@
 # 自定义规则
-ads5-normal-lf.zijieapi.com
+c-adx.2345.com
+domob.cn
+pangolin-sdk-toutiao1.com
+wxsnsencsvp.wxs.qq.com
+yximgs.com
+zijieapi.com
+dm-hl.toutiao.com
 frontier-toutiao.snssdk.com
 g.huya.com
 wan.douyu.com
