@@ -136,19 +136,11 @@ i.snssdk.com
 p3-tt.byteimg.com
 success.ctobsnssdk.com
 sf16-static.i18n-pglstatp.com
-ad.zijieapi.com
-ks.pull.yximgs.com
 open.kwaizt.com
 adukwai.com
 qqdata.ab.qq.com
 video-dsp.pddpic.com
-tx-kmpaudio.pull.yximgs.com
 sdkoptedge.chinanetcenter.com
-bd-adaptive.pull.yximgs.com
-bd-livemate.pull.yximgs.com
-bd-origin.pull.yximgs.com
-bd-pclivemate.pull.yximgs.com
-bd-proxy.pull.yximgs.com
 bd-rwk.pull.etoote.com
 httpdns.bcelive.com
 skdisplay.jd.com
@@ -455,8 +447,6 @@ ad.api.youshiad.cn
 adx-bid.tianzhuobj.com
 platform.adwep.com
 cdn.pyadx.com
-js-ad.a.yximgs.com
-tx-ad.a.yximgs.com
 biddingx.com
 ifs.tanx.com
 ifsk2.tanx.com
@@ -823,7 +813,6 @@ baichuan-sdk.alicdn.com
 ilce.alicdn.com
 abtest.alibaba.com
 proxy-mob-cld.alicdn.com
-ali-ad.a.yximgs.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
 adashxgc.ut.taobao.com
