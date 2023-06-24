@@ -561,9 +561,7 @@ et.tanx.com
 df.tanx.com
 ef-dongfeng.tanx.com
 ad.lflucky.com
-ad.flurry.com
-adlog.flurry.com
-ads.flurry.com
+flurry.com
 ads.icloseli.cn
 etl.xlmc.sandai.net
 uapi.ads.heytapmobi.com
@@ -649,7 +647,6 @@ adx.apiok.net
 ads.api.vungle.com
 net.rayjump.com
 svibeacon.onezapp.com
-data.flurry.com
 applovin.com
 config.unityads.unity3d.com
 httpkafka.unityads.unity3d.com
