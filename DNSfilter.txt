@@ -51,6 +51,7 @@ ossgw.alicdn.com
 vali.cp31.ott.cibntv.net
 vod.300hu.com
 api-cn.store.heytapmobi.com
+api-cn.theme.heytapmobi.com
 ads-union.jd.com
 cc.m.jd.com
 dgstatic.jd.com
@@ -414,7 +415,6 @@ i.w.inmobi.cn
 sdktm.w.inmobi.cn
 dm.bytedance.com
 dm.pstatp.com
-stg-data.ads.heytapmobi.com
 keybut.com
 api-analytics-cn.huami.com
 statics.woozooo.com
@@ -564,10 +564,7 @@ ad.lflucky.com
 flurry.com
 ads.icloseli.cn
 etl.xlmc.sandai.net
-uapi.ads.heytapmobi.com
-b1-data.ads.heytapmobi.com
-adx.ads.heytapmobi.com
-b2-data.ads.heytapmobi.com
+ads.heytapmobi.com
 hw.zuimeitianqi.com
 adsfs-sdkconfig.heytapimage.com
 optimus-ads.amap.com
@@ -614,7 +611,7 @@ g.koowo.com
 mobilead.kuwo.cn
 nmobi.kuwo.cn
 splashimgbssdl.yun.kugou.com
-m1.ad.10010.com
+ad.10010.com
 config.unityads.unitychina.cn
 ads.oneway.mobi
 ads.oway.mobi
