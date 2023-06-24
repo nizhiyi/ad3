@@ -766,8 +766,6 @@ jsqmt.qq.com
 ta.qq.com
 tencentmind.com
 e.qq.com
-cm.e.qq.com
-sdk.e.qq.com
 p.l.qq.com
 dp3.qq.com
 us.l.qq.com
