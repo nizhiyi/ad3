@@ -625,7 +625,6 @@ config.unityads.unitychina.cn
 ads.oneway.mobi
 ads.oway.mobi
 owads.audioadx.com
-p3.adkwai.com
 ali-stats.jpush.cn
 stats.jpush.cn
 gd-stats.jpush.cn
@@ -635,8 +634,7 @@ s.jpush.cn
 adx.sogaha.cn
 api.jialiangad.com
 track.adxwork.com
-p1-lm.adkwai.com
-p1.adkwai.com
+adkwai.com
 report.yumobi.cn
 ssp.indexmob.com
 engine.liandaomobi.com
