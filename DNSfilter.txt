@@ -147,8 +147,8 @@ skdisplay.jd.com
 pangolin-sdk-toutiao-b.com
 pig.pupuapi.com
 pglstatp-toutiao.com
-thumb.1010pic.com
-thumb2018.1010pic.com
+1010pic.com
+jstatic.3.cn
 
 # 大圣规则 from https://github.com/jdlingyu/ad-wars/blob/master/hosts
 #pkg=ad.xiaomi.com;视频客户端广告
