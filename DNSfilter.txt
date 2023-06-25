@@ -4,7 +4,6 @@ adx-cn.anythinktech.com
 advertising.apple.com
 roi.soulapp.cn
 apiyd.my91app.com
-chat1.jd.com
 collect.kugou.com
 dataflow.biliapi.com
 henzanapp.com
@@ -12,8 +11,6 @@ imtmp.net
 irc.qubiankeji.com
 lm10111.jtrincc.cn
 m.jingxi.com
-api-cn.open.heytapmobi.com
-mdp-usertrace-cn.heytapmobi.com
 tracker.ai.xiaomi.com
 tracking.miui.com
 w1.kskwai.com
@@ -63,12 +60,17 @@ gw.alicdn.com
 ossgw.alicdn.com
 api-cn.store.heytapmobi.com
 api-cn.theme.heytapmobi.com
+api-cn.open.heytapmobi.com
+mdp-usertrace-cn.heytapmobi.com
+adsfs.oppomobile.com
+ads.oppomobile.com
+qchannel01.cn
+qchannel02.cn
 qchannel03.cn
-wxsnsdy.wxs.qq.com
+qchannel04.cn
 sf16-static.i18n-pglstatp.com
 open.kwaizt.com
 adukwai.com
-qqdata.ab.qq.com
 video-dsp.pddpic.com
 sdkoptedge.chinanetcenter.com
 bd-rwk.pull.etoote.com
@@ -132,6 +134,7 @@ ads.youtube.com
 adtrack.ucweb.com
 cnzz.com
 # 京东
+chat1.jd.com
 skdisplay.jd.com
 ads-union.jd.com
 cc.m.jd.com
@@ -178,6 +181,18 @@ ad-core-lb-v3.lf.bytelb.net
 zijieapi.com
 dm-hl.toutiao.com
 frontier-toutiao.snssdk.com
+mon.snssdk.com
+extlog.snssdk.com
+toblog.ctobsnssdk.com
+tobapplog.ctobsnssdk.com
+toutiao-frontier.snssdk.com
+gecko-hl.snssdk.com
+gecko-lq.snssdk.com
+bds.snssdk.com
+mcs.snssdk.com
+sdfp.snssdk.com
+abtest-ch.snssdk.com
+pangolin.snssdk.com
 
 # 大圣规则 from https://github.com/jdlingyu/ad-wars/blob/master/hosts
 #pkg=ad.xiaomi.com;视频客户端广告
@@ -411,22 +426,6 @@ hd.hupu.com
 glores2.taisantech.com
 sanme2.taisantech.com
 madeqr.com
-mon.snssdk.com
-extlog.snssdk.com
-toblog.ctobsnssdk.com
-tobapplog.ctobsnssdk.com
-toutiao-frontier.snssdk.com
-gecko-hl.snssdk.com
-gecko-lq.snssdk.com
-bds.snssdk.com
-mcs.snssdk.com
-sdfp.snssdk.com
-abtest-ch.snssdk.com
-pangolin.snssdk.com
-adsfs.oppomobile.com
-ads.oppomobile.com
-www.qchannel01.cn
-www.qchannel04.cn
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
@@ -844,6 +843,8 @@ qappcenterv6.3g.qq.com
 aeventlog.beacon.qq.com
 cc.map.qq.com
 aegis.qq.com
+wxsnsdy.wxs.qq.com
+qqdata.ab.qq.com
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
