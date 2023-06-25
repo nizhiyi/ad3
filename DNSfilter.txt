@@ -62,6 +62,8 @@ api-cn.store.heytapmobi.com
 api-cn.theme.heytapmobi.com
 api-cn.open.heytapmobi.com
 mdp-usertrace-cn.heytapmobi.com
+adsfs-sdkconfig.heytapimage.com
+ads.heytapmobi.com
 adsfs.oppomobile.com
 ads.oppomobile.com
 qchannel01.cn
@@ -193,7 +195,12 @@ mcs.snssdk.com
 sdfp.snssdk.com
 abtest-ch.snssdk.com
 pangolin.snssdk.com
-
+ad.toutiao.com
+dm.toutiao.com
+adshare.toutiao.com
+pangolin-sdk-toutiao.com
+ads.weilitoutiao.net
+newswifiapi.dftoutiao.com
 # 大圣规则 from https://github.com/jdlingyu/ad-wars/blob/master/hosts
 #pkg=ad.xiaomi.com;视频客户端广告
 #--小米视频-MIUI
@@ -371,15 +378,11 @@ union.gdtimg.com
 canvas.gdt.qq.com
 badjs.weixinbridge.com
 mj.weimob.net
-ad.toutiao.com
-dm.toutiao.com
-adshare.toutiao.com
 awake-stats.jpush.cn
 miniapp.qiluyidian.mobi
 static.bshare.cn
 launches.appsflyer.com
 cl2.webterren.com
-pangolin-sdk-toutiao.com
 ad.qingting.fm
 list.z.qingting.fm
 adlaunch.qingting.fm
@@ -600,18 +603,14 @@ ad.lflucky.com
 flurry.com
 ads.icloseli.cn
 etl.xlmc.sandai.net
-ads.heytapmobi.com
 hw.zuimeitianqi.com
-adsfs-sdkconfig.heytapimage.com
 optimus-ads.amap.com
 ads.reader.yueyouxs.com
 c.sayhi.360.cn
 cloud.zyiis.net
-ads.weilitoutiao.net
 du.163.com
 yaolu.mh.163.com
 yaolu.yuedu.163.com
-newswifiapi.dftoutiao.com
 api.e.kuaishou.com
 api2.e.kuaishou.com
 log-dmp.suishenyun.cn
