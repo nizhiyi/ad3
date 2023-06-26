@@ -1,11 +1,4 @@
 #自定义规则（其它）
-shuzhundsj.cn
-shuzilm.cn
-shuzilm.com
-mobid.cn
-cnadid.cn
-cnadid.com
-kxid.cn
 50bangzh.com
 jietuhb.com
 edimob.com
@@ -970,3 +963,12 @@ wrating.com
 mobmore.com
 dratio.com
 eshiqi.com
+#数字联盟
+shuzhundsj.cn
+shuzilm.cn
+shuzilm.com
+mobid.cn
+cnadid.cn
+cnadid.com
+kxid.cn
+digitalunion.cn
