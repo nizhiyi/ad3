@@ -1,5 +1,4 @@
 #自定义规则（其它）
-birdgesdk.com
 50bangzh.com
 jietuhb.com
 edimob.com
@@ -12,6 +11,10 @@ jinshanju.cn
 jinshanju.com
 adapi.yynetwk.com
 anythinktech.com
+birdgesdk.com
+toponadss.com
+bridgeoos.com
+anyrtb.com
 advertising.apple.com
 roi.soulapp.cn
 apiyd.my91app.com
