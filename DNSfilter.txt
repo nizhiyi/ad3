@@ -1,4 +1,9 @@
 #自定义规则（其它）
+birdgesdk.com
+50bangzh.com
+jietuhb.com
+edimob.com
+jinbig.com
 adapi.yynetwk.com
 anythinktech.com
 advertising.apple.com
@@ -9,7 +14,6 @@ imtmp.net
 irc.qubiankeji.com
 lm10111.jtrincc.cn
 m.jingxi.com
-csjplatform.com
 c-adx.2345.com
 domob.cn
 yximgs.com
@@ -163,8 +167,6 @@ adx-bid.tianzhuobj.com
 platform.adwep.com
 cdn.pyadx.com
 biddingx.com
-ifs.tanx.com
-ifsk2.tanx.com
 adashx.ut.ele.me
 h-adashx.ut.ele.me
 e-ad-monitor.huya.com
@@ -263,9 +265,6 @@ adc.hpplay.cn
 adcdn.hpplay.cn
 adeng.hpplay.cn
 tanx.com
-et.tanx.com
-df.tanx.com
-ef-dongfeng.tanx.com
 ad.lflucky.com
 flurry.com
 ads.icloseli.cn
@@ -413,6 +412,7 @@ adshare.toutiao.com
 pangolin-sdk-toutiao.com
 ads.weilitoutiao.net
 newswifiapi.dftoutiao.com
+csjplatform.com
 #--小米-MIUI
 video.market.xiaomi.com
 a.market.xiaomi.com
@@ -615,6 +615,7 @@ t10.baidu.com
 t11.baidu.com
 t12.baidu.com
 mtj.baidu.com
+best-mtj.baidu.com
 imageplus.baidu.com
 gsp0.baidu.com
 tb1.bdstatic.com
