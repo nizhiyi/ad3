@@ -1,6 +1,6 @@
 #自定义规则（其它）
 adapi.yynetwk.com
-adx-cn.anythinktech.com
+anythinktech.com
 advertising.apple.com
 roi.soulapp.cn
 apiyd.my91app.com
