@@ -6,6 +6,7 @@ xw.qq.com##.recommend-modules
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##.banner-wrapper-defensive
+tieba.baidu.com##.tb-banner-wrapper-defensive
 tieba.baidu.com##nav.tb-backflow-defensive
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com###J-super-layer-promote
