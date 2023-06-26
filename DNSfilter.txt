@@ -1,4 +1,11 @@
 #自定义规则（其它）
+shuzhundsj.cn
+shuzilm.cn
+shuzilm.com
+mobid.cn
+cnadid.cn
+cnadid.com
+kxid.cn
 50bangzh.com
 jietuhb.com
 edimob.com
@@ -176,7 +183,6 @@ ddd.1sapp.com
 trk1.17admob.com
 a.tn.token-ad.com
 go.sohu.com
-aads.shuzilm.cn
 sdk.open.talk.getui.com
 st.appsad.cn
 adx.timewit.cn
