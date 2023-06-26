@@ -131,7 +131,9 @@ ad.51wnl-cq.com
 norma-external-collect.meizu.com
 api.adxpand.com
 mob.com
-js.users.51.la
+appgo.cn
+sharesdk.cn
+51.la
 av1.xdrig.com
 adpai.thepaper.cn
 applog.uc.cn
