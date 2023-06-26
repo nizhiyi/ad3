@@ -540,7 +540,6 @@ video-ad.sm.cn
 rest.irs01.com
 px.ucweb.com
 huichuan.sm.cn
-timeserver.cnzz.net
 ykad-data.youku.com
 yk-ssp.ad.youku.com
 adashx.ut.youku.com
