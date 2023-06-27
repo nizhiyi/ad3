@@ -183,7 +183,6 @@ vapi.tiandi.com
 ma-adx.ctrip.com
 s.trafficjam.cn
 wkrd.tingyun.com
-xelements.cn
 league1.maoyuncloud.cn
 androidads4-6.adcolony.com
 adc3-launch.adcolony.com
@@ -1187,3 +1186,17 @@ deepleaper.cn
 deepleaper.com
 #自旋
 spin-view.com
+#YUMCAD
+pizzahut.com.cn
+dfjb.com.cn
+littlesheep.com
+y8t.cn
+yumchina.com
+tacobellchina.com
+y8r.cn
+kfc.com.cn
+attoprimo.com.cn
+kmall.com.cn
+#米漫
+mix-mind.com
+xelements.cn
