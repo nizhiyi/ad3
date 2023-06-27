@@ -160,7 +160,6 @@ ddd.1sapp.com
 trk1.17admob.com
 a.tn.token-ad.com
 go.sohu.com
-sdk.open.talk.getui.com
 st.appsad.cn
 adx.timewit.cn
 track.adx.adlefee.com
@@ -175,14 +174,11 @@ h-adashx.ut.ele.me
 e-ad-monitor.huya.com
 adlaunch.qtfm.cn
 fumiad.dxys.pro
-talk.nz4.getui.com
-c-gi.getui.com
 config.jpush.cn
 adash-emas.cn-hangzhou.aliyuncs.com
 config-junion.jpush.cn
 report-stats.ad.jiguang.cn
 stat2.openinstall.io
-cdn-sdk-opt.getui.com
 t.adbxb.com
 adx.doumpaq.com
 search.mgc-games.com
@@ -242,7 +238,6 @@ collect.kugou.com
 splashimgbssdl.yun.kugou.com
 cloudservice22.kingsoft-office-service.com
 api.touchxd.com
-b-gi.getui.com
 t.appsflyer.com
 api-luckycoinsdk.doglobal.net
 durdcn.doglobal.net
@@ -278,8 +273,6 @@ log-dmp.suishenyun.cn
 log1.cmpassport.com
 adlog.tagtic.cn
 adopt-sdk.xg.tagtic.cn
-gs.getui.com
-lc.getui.com
 g1.tagtic.cn
 ad.zuimeitianqi.com
 ads.adroi.com.cn
@@ -289,13 +282,8 @@ pasta.esfile.duapps.com
 nrcapi.ssl2.duapps.com
 logs.chelaile.net.cn
 ss.chelaile.net.cn
-b-gtc.getui.com
-c-gtc.getui.com
-c-hzgt2.getui.com
 atrace.chelaile.net.cn
-api-gi.getui.com
 sdk.open.phone.igexin.com
-sdk-open-phone.getui.com
 dev.iyuba.cn
 gstat.myzaker.com
 ggs.myzaker.com
@@ -984,3 +972,5 @@ questmobile.com.cn
 questmobile.cn
 m106.cn
 qmtags.com
+#每日互动
+getui.com
