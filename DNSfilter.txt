@@ -1,4 +1,6 @@
 #自定义规则（其它）
+tensdk.com
+hqsuntek.com
 50bangzh.com
 jietuhb.com
 edimob.com
@@ -45,7 +47,6 @@ live-trace.bilibili.com
 xtgreat.com
 scorecardresearch.com
 reachmax.cn
-miaozhen.com
 show.ssports.com
 mmstat.com
 dutils.com
@@ -974,3 +975,22 @@ m106.cn
 qmtags.com
 #每日互动
 getui.com
+#秒针API
+xueto.com
+3wnet.cn
+touchjoint.com
+touchjoin.com
+supertool.net.cn
+miaozhen.com
+miaozhen.cn
+mzhen.com
+mzhen.cn
+grpindex.com
+admonitor.org
+mlt.pub
+mzsvn.com
+momentad.com
+scopa.com.cn
+mzfile.com
+withdata.cn
+stfile.com
