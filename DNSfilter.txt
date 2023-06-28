@@ -344,6 +344,7 @@ orbit.jd.com
 jrad.jd.com
 vali.cp31.ott.cibntv.net
 vod.300hu.com
+dg.k.jd.com
 #字节-toutiao
 pangolin-sdk-toutiao1.com
 pangolin-sdk-toutiao2.com
@@ -385,6 +386,16 @@ rtlog.snssdk.com
 ichannel.snssdk.com
 applog.snssdk.com
 apmplus.volces.com
+stream.snssdk.com
+tobapplog.volceapplog.com
+klink.volceapplog.com
+vas-hl-x.snssdk.com
+mssdk-bu.bytedance.com
+tbm.snssdk.com
+dm-lq.toutiao.com
+toblog.volceapplog.com
+mercury-sdk.snssdk.com
+abtest.volceapplog.com
 #--小米-MIUI
 video.market.xiaomi.com
 a.market.xiaomi.com
