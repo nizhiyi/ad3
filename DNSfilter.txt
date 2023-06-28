@@ -1,4 +1,5 @@
 #自定义规则（其它）
+databyterangers.com.cn
 voiceads.cn
 tensdk.com
 hqsuntek.com
@@ -379,6 +380,11 @@ pangolin-sdk-toutiao.com
 ads.weilitoutiao.net
 newswifiapi.dftoutiao.com
 csjplatform.com
+rtapplog.snssdk.com
+rtlog.snssdk.com
+ichannel.snssdk.com
+applog.snssdk.com
+apmplus.volces.com
 #--小米-MIUI
 video.market.xiaomi.com
 a.market.xiaomi.com
