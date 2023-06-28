@@ -77,7 +77,6 @@ img-cdn-spot.ymcdn.cn
 youmi.net
 youxiaoad.com
 admedia.com
-inmobi.com
 ad3.udn.com
 ad.api.moji.com
 adcast.deviantart.com
@@ -1067,6 +1066,7 @@ mdfull.net
 #之行
 zxrtb.com
 #inmobi
+inmobi.com
 inmobikol.cn
 inmobi.cn
 inmsdk.cn
