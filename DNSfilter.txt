@@ -1,4 +1,5 @@
 #自定义规则（其它）
+mmachina.cn
 databyterangers.com.cn
 voiceads.cn
 tensdk.com
@@ -1206,3 +1207,37 @@ kmall.com.cn
 #米漫
 mix-mind.com
 xelements.cn
+#ADmobile
+xiaochushuo.com.cn
+xiaochushuo.club
+guanggaolian.com
+xcshuo.club
+xiaochushuo.com
+xiaochushuo.vip
+xcshuo.vip
+114dev.com
+flutter.top
+xcshuo.fun
+xiaochushuo.co
+xiaochushuo.net
+xiaochushuo.top
+xiaochushuo.fun
+admobile.top
+youbible.cn
+ecook.cn
+admobile.mobi
+admobile.cc
+tianmu.mobi
+#BeiZi SDK
+beizi.info
+beizi.biz
+beizi.online
+adscope.cn
+adscope.com.cn
+adscope.xyz
+#MTG SDK
+mindworks-creative.cn
+mintegral.net
+mintegral.com
+huishixinxi.com
+mintegral.cn
