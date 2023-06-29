@@ -169,7 +169,6 @@ cn.bing.com##LI.ad_sc
 ||ugapi.alipay.com/monitor
 ||skdisplay.jd.com/feedback/display
 ||www.xiaohongshu.com/api/sns/v1/ext/ads
-||is.snssdk.com^
 ||i.snssdk.com^
 ||tsearch.snssdk.com/search/suggest
 ||gamersky.com/common/tg/
