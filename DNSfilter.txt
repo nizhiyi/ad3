@@ -353,7 +353,6 @@ pangolin-sdk-toutiao4.com
 pangolin-sdk-toutiao5.com
 pglstatp-toutiao.com
 pangolin-sdk-toutiao-b.com
-is.snssdk.com
 i.snssdk.com
 p3-tt.byteimg.com
 success.ctobsnssdk.com
