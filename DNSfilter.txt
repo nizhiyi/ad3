@@ -818,8 +818,6 @@ adashx.ut.amap.com
 optimus-ads.amap.com
 logs.amap.com
 amap-aos-info-nogw.amap.com
-gw.alicdn.com
-ossgw.alicdn.com
 beacon-api.aliyuncs.com
 #ColorOS-OPPO
 api-cn.store.heytapmobi.com
