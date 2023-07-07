@@ -33,6 +33,7 @@ m.smzdm.com##.footer-banner
 m.smzdm.com##.footer-banner-wrap
 m.smzdm.com##DIR.fake-card
 cn.bing.com##LI.ad_sc
+m.antpedia.com##.relatedCon
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
@@ -316,3 +317,13 @@ cn.bing.com##LI.ad_sc
 ||17house.com/zt/style/h5/js
 ||lubanyuan.cn/d/js/lbygg/
 ||js.3conline.com/min*lib-zepto
+||book118.com/*ecommend
+||book118.com/*elation/
+||pstatp.com/goofy
+||zx.docin.com^
+||img.douding.cn/app/load
+||m.docin.com/*.do
+||img.antpedia.com/news/dist/news/js/
+||antpedia.com/ant_count
+||antpedia.com/news/api
+||instrument.com.cn/ad/
