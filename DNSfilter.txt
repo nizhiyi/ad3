@@ -1,4 +1,5 @@
 #自定义规则（其它）
+analytics.rayjump.com
 ad-scope.com
 ad-scope.com.cn
 hubcloud.com.cn
@@ -925,6 +926,7 @@ w1.wskwai.com
 w1.xskwai.com
 w1.yskwai.com
 w1.zskwai.com
+open.kuaishouzt.com
 #新浪-weibo
 vs.biz.weibo.com
 dp.im.weibo.cn
