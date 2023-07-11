@@ -602,9 +602,6 @@ api.tuisong.baidu.com
 sa8.tuisong.baidu.com
 cpro.baidustatic.com
 dxp.baidu.com
-t10.baidu.com
-t11.baidu.com
-t12.baidu.com
 mtj.baidu.com
 best-mtj.baidu.com
 imageplus.baidu.com
