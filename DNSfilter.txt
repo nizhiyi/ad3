@@ -1,5 +1,4 @@
 #自定义规则（其它）
-analytics.rayjump.com
 ad-scope.com
 ad-scope.com.cn
 hubcloud.com.cn
@@ -300,12 +299,10 @@ adcs-ue.myappsget.com
 api.myadsget.com
 midas-tracker.hellay.net
 adcs-ap.myappsget.com
-adx-tk.rayjump.com
 events.ads.vungle.com
 app.appsflyer.com
 adx.apiok.net
 ads.api.vungle.com
-net.rayjump.com
 svibeacon.onezapp.com
 applovin.com
 config.unityads.unity3d.com
@@ -1297,3 +1294,14 @@ sigmob.cn
 wfclive.cn
 linkedme.cc
 lkme.cc
+#汇量
+mobvista.com
+spotmaxtech.com
+hyperbid.com
+nativex.cn
+mobvista.cn
+lenzmx.com
+gameanalytics.com
+rayjump.com
+nativex.com
+dspunion.com
