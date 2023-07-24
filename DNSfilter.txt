@@ -1,4 +1,5 @@
 #自定义规则（其它）
+ads.95516.com
 adjust.cn
 catalog.gamepass.com
 log-upload.mihoyo.com
