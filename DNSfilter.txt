@@ -1,4 +1,8 @@
 #自定义规则（其它）
+adjust.cn
+catalog.gamepass.com
+log-upload.mihoyo.com
+log-upload-os.hoyoverse.com
 ad-log-upload.mihoyo.com
 ad-scope.com
 ad-scope.com.cn
@@ -217,11 +221,6 @@ ad.ikonke.com
 smart-789.kakamobi.cn
 short-video.kakamobi.cn
 ad.quwin.cn
-adserviceretry.kugou.com
-adsfile.bssdlbig.kugou.com
-ads.service.kugou.com
-collect.kugou.com
-splashimgbssdl.yun.kugou.com
 cloudservice22.kingsoft-office-service.com
 api.touchxd.com
 t.appsflyer.com
@@ -1353,3 +1352,11 @@ ocshell.cn
 occrab.cn
 adintl.cn
 ocseal.cn
+#kugou
+jswebcollects.kugou.com
+logtj.kugou.com
+adserviceretry.kugou.com
+adsfile.bssdlbig.kugou.com
+ads.service.kugou.com
+collect.kugou.com
+splashimgbssdl.yun.kugou.com
