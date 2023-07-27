@@ -1,5 +1,14 @@
 #自定义规则（其它）
+tracker.gitee.com
+log.avlyun.com
+hexagon-analytics.com
+events-drcn.op.dbankcloud.cn
+crashlytics.com
+beacons.gvt2.com
+analyze.lemurbrowser.com
+analysis.yozocloud.cn
 adx.kuaiyiad.com
+analytics.95516.com
 ads.95516.com
 adjust.cn
 catalog.gamepass.com
@@ -41,7 +50,6 @@ henzanapp.com
 imtmp.net
 irc.qubiankeji.com
 lm10111.jtrincc.cn
-m.jingxi.com
 c-adx.2345.com
 g.huya.com
 wan.douyu.com
@@ -112,7 +120,6 @@ adsyndication.msn.com
 ads.youtube.com
 adtrack.ucweb.com
 mj.weimob.net
-awake-stats.jpush.cn
 miniapp.qiluyidian.mobi
 static.bshare.cn
 launches.appsflyer.com
@@ -132,6 +139,7 @@ sanme2.taisantech.com
 madeqr.com
 dns.m.sm.cn
 log.m.sm.cn
+image-ad.sm.cn
 mobds.pthejzb.com
 sdk.mobad.ijinshan.com
 ad.51wnl-cq.com
@@ -143,7 +151,6 @@ sharesdk.cn
 51.la
 av1.xdrig.com
 adpai.thepaper.cn
-applog.uc.cn
 fbapi.guguread.com
 ad-survey.com
 sdk.api.oaid.wocloud.cn
@@ -181,10 +188,6 @@ h-adashx.ut.ele.me
 e-ad-monitor.huya.com
 adlaunch.qtfm.cn
 fumiad.dxys.pro
-config.jpush.cn
-adash-emas.cn-hangzhou.aliyuncs.com
-config-junion.jpush.cn
-report-stats.ad.jiguang.cn
 stat2.openinstall.io
 t.adbxb.com
 adx.doumpaq.com
@@ -283,12 +286,6 @@ config.unityads.unitychina.cn
 ads.oneway.mobi
 ads.oway.mobi
 owads.audioadx.com
-ali-stats.jpush.cn
-stats.jpush.cn
-gd-stats.jpush.cn
-tsis.jpush.cn
-bjuser.jpush.cn
-s.jpush.cn
 adx.sogaha.cn
 api.jialiangad.com
 track.adxwork.com
@@ -425,6 +422,7 @@ nadvideo2.baidu.com
 tracker.ai.xiaomi.com
 tracking.miui.com
 metok.sys.miui.com
+data.mistat.xiaomi.com
 #--爱奇艺-Qiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
@@ -531,6 +529,8 @@ ads.traffichunt.com
 doubleclick.net
 jnn-pa.googleapis.com
 imasdk.googleapis.com
+crashlyticsreports-pa.googleapis.com
+firebaselogging-pa.googleapis.com
 googletagservices.com
 googletagservices-cn.com
 googleadservices-cn.com
@@ -694,10 +694,9 @@ p.l.qq.com
 dp3.qq.com
 us.l.qq.com
 android.rqd.qq.com
-android.bugly.qq.com
 api.poll.aiseet.atianqi.com
 btrace.qq.com
-otheve.beacon.qq.com
+beacon.qq.com
 tools.3g.qq.com
 oth.str.mdt.qq.com
 oth.eve.mdt.qq.com
@@ -723,7 +722,6 @@ qzs.gdtimg.com
 public.gdtimg.com
 cmshow.gtimg.cn
 qappcenterv6.3g.qq.com
-aeventlog.beacon.qq.com
 cc.map.qq.com
 aegis.qq.com
 wxsnsdy.wxs.qq.com
@@ -745,6 +743,8 @@ adstats.tencentmusic.com
 adcdn.tencentmusic.com
 adexpo.tencentmusic.com
 adclick.tencentmusic.com
+bugly.qq.com
+jpush.html5.qq.com
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
@@ -829,6 +829,14 @@ optimus-ads.amap.com
 logs.amap.com
 amap-aos-info-nogw.amap.com
 beacon-api.aliyuncs.com
+log.aliyuncs.com
+adash-emas.cn-hangzhou.aliyuncs.com
+adtrack.quark.cn
+applog.lc.quark.cn
+applog.uc.cn
+track.uc.cn
+track.lc.quark.cn
+dualstack-logs.amap.com
 #ColorOS-OPPO
 api-cn.store.heytapmobi.com
 api-cn.theme.heytapmobi.com
@@ -1293,3 +1301,7 @@ adsfile.bssdlbig.kugou.com
 ads.service.kugou.com
 collect.kugou.com
 splashimgbssdl.yun.kugou.com
+#极光推送
+jiguang.cn
+jpush.io
+jpush.cn
