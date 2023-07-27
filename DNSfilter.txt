@@ -84,8 +84,6 @@ httpdns.bcelive.com
 pig.pupuapi.com
 1010pic.com
 jstatic.3.cn
-iqiyi.irs01.com
-letv.irs01.com
 s9.irs03.com
 mediav.com
 c.bing.com
@@ -207,13 +205,10 @@ wd.adcolony.com
 adreport.adtianmai.com
 adapi.izuiyou.com
 adstat.izuiyou.com
-test.adsp.xunlei.com
-api-mcp.adsp.xunlei.com
 xladapi.izuiyou.com
 advertpay-vip-ssl.xunlei.com
 watch.advertising.speed.cdn.vip.xunlei.com
 advertpay.vip.xunlei.com
-config.
 p2sdmkj6t.bkt.clouddn.com
 ad.bayescom.com
 ad.12306.cn
@@ -235,7 +230,6 @@ api-es.doglobal.net
 adproxy.autohome.com.cn
 v3-ad.ixigua.com
 aiclk.com
-adx.maplehaze.cn
 log.kajicam.com
 conf.xdrig.com
 api-ad.kajicam.com
@@ -326,7 +320,6 @@ mars.jd.com
 x.jd.com
 xlog.jd.com
 ads.union.jd.com
-bdsp.x.jd.com
 c-nfa.jd.com
 cm.jd.com
 du.jd.com
@@ -337,8 +330,6 @@ jzt.jd.com
 policy.jd.com
 stat.m.jd.com
 u-x.jd.com
-u.x.jd.com
-wn.x.jd.com
 mercury.jd.com
 blackhole.m.jd.com
 firevent.jd.com
@@ -434,7 +425,6 @@ ifacelog.iqiyi.com
 mbdlog.iqiyi.com
 msg.iqiyi.com
 msga.cupid.iqiyi.com
-nl.notice.iqiyi.com
 notice.iqiyi.com
 policy.video.iqiyi.com
 static.g.iqiyi.com
@@ -449,10 +439,8 @@ paopao0.qiyipic.com
 paopao1.qiyipic.com
 paopao2.qiyipic.com
 paopao3.qiyipic.com
-count.game.pps.tv
 game.pps.tv
 static.g.ppstream.com
-qosp.msg.71.am
 msga.71.am
 androidgo.duapp.com
 noxagile.duapp.com
@@ -473,7 +461,6 @@ msg.ptqy.gitv.tv
 apisgame.iqiyi.com
 #--搜狐视频-Sohu
 agn.aty.snmsohu.aisee.tv
-agn.aty.sohu.com
 aty.sohu.com
 da.mmarket.com
 click.hd.sohu.com.cn
@@ -503,7 +490,6 @@ cad.youku.com
 orange-dc.youku.com
 youku-acs.m.taobao.com
 video-ad.sm.cn
-rest.irs01.com
 px.ucweb.com
 huichuan.sm.cn
 ykad-data.youku.com
@@ -544,7 +530,6 @@ afd.baidu.com
 als.baidu.com
 cbjs.baidu.com
 cm.baidu.com
-cm.pos.baidu.com
 cpro.baidu.com
 crs.baidu.com
 eclick.baidu.com
@@ -561,9 +546,7 @@ pc.videoclick.baidu.com
 pos.baidu.com
 push.zhanzhang.baidu.com
 river.zhidao.baidu.com
-s.cpro.baidu.com
 wangmeng.baidu.com
-wn.pos.baidu.com
 bdplus.baidu.com
 datax.baidu.com
 openrcv.baidu.com
@@ -632,26 +615,7 @@ sdkconfig.play.aiseet.atianqi.com
 monitor-uu.play.aiseet.atianqi.com
 mdevstat.qqlive.qq.com
 vmindhls.tc.qq.com
-c.l.qq.com
-bs.l.qq.com
-c2.l.qq.com
-cb.l.qq.com
-cm.l.qq.com
-hm.l.qq.com
 l.qq.com
-l2.l.qq.com
-lb.l.qq.com
-livec.l.qq.com
-livem.l.qq.com
-livep.l.qq.com
-lives.l.qq.com
-ls.l.qq.com
-p2.l.qq.com
-p3.l.qq.com
-t.l.qq.com
-vd.l.qq.com
-w.l.qq.com
-news.l.qq.com
 mcgi.v.qq.com
 soup.v.qq.com
 bksoup.v.qq.com
@@ -690,9 +654,7 @@ jsqmt.qq.com
 ta.qq.com
 tencentmind.com
 e.qq.com
-p.l.qq.com
 dp3.qq.com
-us.l.qq.com
 android.rqd.qq.com
 api.poll.aiseet.atianqi.com
 btrace.qq.com
@@ -706,7 +668,6 @@ raddus.bayescom.com
 mtt.eve.mdt.qq.com
 push.pgl.qq.com
 rmpad.imtt.qq.com
-tangram.e.qq.com
 mig.str.mdt.qq.com
 pms.mb.qq.com
 adsmind.apdcdn.tc.qq.com
@@ -797,7 +758,6 @@ re.taobao.com
 redirect.simba.taobao.com
 rj.m.taobao.com
 sdkinit.taobao.com
-show.re.taobao.com
 simaba.m.taobao.com
 simaba.taobao.com
 simba.m.taobao.com
@@ -850,7 +810,6 @@ ads.oppomobile.com
 c.sayhi.360.cn
 sdk.tf.360.cn
 sdkrec.tf.360.cn
-sdk.s.360.cn
 commercial.shouji.360.cn
 tracking.v.tf.360.cn
 comp.360os.com
@@ -858,7 +817,6 @@ lianmeng.360.cn
 c.mse.360.cn
 service.jiagu.360.cn
 s.360.cn
-p.s.360.cn
 adapi.shouji.360.cn
 ad.dev.360.cn
 ad.gamebox.360.cn
