@@ -490,7 +490,6 @@ cad.youku.com
 orange-dc.youku.com
 youku-acs.m.taobao.com
 video-ad.sm.cn
-px.ucweb.com
 huichuan.sm.cn
 ykad-data.youku.com
 yk-ssp.ad.youku.com
@@ -725,8 +724,6 @@ adash.m.taobao.com
 h-adashx.ut.taobao.com
 tunion-api.m.taobao.com
 acs4baichuan.m.taobao.com
-amdc.m.taobao.com
-amdcopen.m.taobao.com
 umengacs.m.taobao.com
 umengjmacs.m.taobao.com
 openjmacs.m.taobao.com
