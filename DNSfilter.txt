@@ -1,4 +1,5 @@
 #自定义规则（其它）
+adnxs.com
 tracker.gitee.com
 log.avlyun.com
 hexagon-analytics.com
@@ -1260,3 +1261,12 @@ splashimgbssdl.yun.kugou.com
 jiguang.cn
 jpush.io
 jpush.cn
+#阿卡迈
+akcdn.com.cn
+akamai.net
+accdn.com.cn
+janrainservices.com
+skycdn.com.cn
+akamai.com
+janrain.biz
+aptdn.net
