@@ -1,7 +1,8 @@
 #自定义规则（其它）
+api.statsig.com
+statsigapi.net
 adnxs.com
 tracker.gitee.com
-log.avlyun.com
 hexagon-analytics.com
 events-drcn.op.dbankcloud.cn
 crashlytics.com
@@ -84,7 +85,6 @@ bd-rwk.pull.etoote.com
 httpdns.bcelive.com
 pig.pupuapi.com
 1010pic.com
-jstatic.3.cn
 s9.irs03.com
 mediav.com
 c.bing.com
@@ -415,6 +415,8 @@ tracker.ai.xiaomi.com
 tracking.miui.com
 metok.sys.miui.com
 data.mistat.xiaomi.com
+a0.app.xiaomi.com
+api.installer.xiaomi.com
 #--爱奇艺-Qiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
@@ -706,6 +708,7 @@ adexpo.tencentmusic.com
 adclick.tencentmusic.com
 bugly.qq.com
 jpush.html5.qq.com
+tmfsdk.m.qq.com
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
