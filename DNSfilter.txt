@@ -798,6 +798,8 @@ applog.uc.cn
 track.uc.cn
 track.lc.quark.cn
 dualstack-logs.amap.com
+mmstat.com
+effirst.com
 #ColorOS-OPPO
 api-cn.store.heytapmobi.com
 api-cn.theme.heytapmobi.com
