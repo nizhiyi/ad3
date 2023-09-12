@@ -51,7 +51,6 @@ m.antpedia.com##.relatedCon
 /api/hot/news/combine
 /touch/jsonp/article
 /touch/api/paid-article
-.xyz/$third-party,~image
 .xyz:
 .top/$third-party
 .top:
