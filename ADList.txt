@@ -36,7 +36,6 @@ bing.com##LI.ad_sc
 bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
 /Detail/GetInfosByIds
-@@.xyz/20*.mp4.jpg
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
@@ -56,6 +55,7 @@ m.antpedia.com##.relatedCon
 /api/hot/news/combine
 /touch/jsonp/article
 /touch/api/paid-article
+@@.xyz/20*.mp4.jpg
 .xyz/$third-party
 .xyz:
 .top/$third-party
