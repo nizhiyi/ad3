@@ -328,6 +328,8 @@ m.antpedia.com##.relatedCon
 ||zx.docin.com^
 ||img.douding.cn/app/load
 ||m.docin.com/*.do
+||st.douding.cn/js/mobile/touch_end
+||st.douding.cn/js/clipboard
 ||img.antpedia.com/news/dist/news/js/
 ||antpedia.com/ant_count
 ||antpedia.com/news/api
