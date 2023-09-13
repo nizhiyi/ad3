@@ -32,7 +32,8 @@ m.fang.com##DIV.floatAlert
 m.smzdm.com##.footer-banner
 m.smzdm.com##.footer-banner-wrap
 m.smzdm.com##DIR.fake-card
-cn.bing.com##LI.ad_sc
+bing.com##LI.ad_sc
+bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
 /Detail/GetInfosByIds
 /js/dngdqabkweb
