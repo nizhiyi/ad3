@@ -36,6 +36,7 @@ bing.com##LI.ad_sc
 bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
 /Detail/GetInfosByIds
+@@.xyz/20*.mp4.jpg
 /js/dngdqabkweb
 /js/dihzbipnif
 /js/fsjghgwyegh
@@ -331,3 +332,4 @@ m.antpedia.com##.relatedCon
 ||antpedia.com/ant_count
 ||antpedia.com/news/api
 ||instrument.com.cn/ad/
+||tongjisum.com^
