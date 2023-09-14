@@ -68,12 +68,15 @@ m.antpedia.com##.relatedCon
 .ren:$third-party
 .asia/$third-party
 .asia:$third-party
+.love/$third-party
+.love:$third-party
 .buzz/$third-party
 .club/$third-party
 .info/$third-party
 .ltd/$third-party
 .site/$third-party
 .ink/$third-party
+.group/$third-party
 :20443/$third-party
 :12443/$third-party
 :18443/$third-party
