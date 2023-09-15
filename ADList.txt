@@ -77,6 +77,7 @@ m.antpedia.com##.relatedCon
 .site/$third-party
 .ink/$third-party
 .group/$third-party
+.live/$third-party
 :20443/$third-party
 :12443/$third-party
 :18443/$third-party
@@ -88,6 +89,7 @@ m.antpedia.com##.relatedCon
 :8003/$third-party
 :8005/$third-party
 :8007/$third-party
+:8891/$third-party
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
