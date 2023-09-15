@@ -90,6 +90,7 @@ m.antpedia.com##.relatedCon
 :8005/$third-party
 :8007/$third-party
 :8891/$third-party
+:7891/$third-party
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
