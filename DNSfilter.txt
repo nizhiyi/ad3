@@ -1,4 +1,12 @@
 #自定义规则（其它）
+sdownload.stargame.com
+img.adnyg.com.w.kunlungr.com
+img.adnyg.com
+azr.footprintdns.com
+xlviirdr.com
+xlviiirdr.com
+xlivrdr.com
+iyfbodn.com
 dongqiudi.net
 dongqiudi.com
 allfootballapp.com
@@ -41,9 +49,6 @@ analytics.95516.com
 ads.95516.com
 adjust.cn
 catalog.gamepass.com
-log-upload.mihoyo.com
-log-upload-os.hoyoverse.com
-ad-log-upload.mihoyo.com
 ad-scope.com
 ad-scope.com.cn
 hubcloud.com.cn
@@ -280,9 +285,7 @@ ads.reader.yueyouxs.com
 cloud.zyiis.net
 log-dmp.suishenyun.cn
 log1.cmpassport.com
-adlog.tagtic.cn
-adopt-sdk.xg.tagtic.cn
-g1.tagtic.cn
+tagtic.cn
 ad.zuimeitianqi.com
 ads.adroi.com.cn
 ads-go.adroi.com.cn
@@ -413,6 +416,7 @@ dm-lq.toutiao.com
 toblog.volceapplog.com
 mercury-sdk.snssdk.com
 abtest.volceapplog.com
+lf1-cdn-tos.bytegoofy.com
 #--小米-MIUI
 video.market.xiaomi.com
 a.market.xiaomi.com
@@ -439,6 +443,7 @@ metok.sys.miui.com
 data.mistat.xiaomi.com
 a0.app.xiaomi.com
 api.installer.xiaomi.com
+adv.sec.intl.miui.com
 #--爱奇艺-Qiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
@@ -521,6 +526,7 @@ yk-ssp.ad.youku.com
 adashx.ut.youku.com
 adx-open-service.youku.com
 h-adashx.ut.youku.com
+cn-acs.m.cainiao.com
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
 googleadservices.com
@@ -639,7 +645,6 @@ sdkconfig.play.aiseet.atianqi.com
 monitor-uu.play.aiseet.atianqi.com
 mdevstat.qqlive.qq.com
 vmindhls.tc.qq.com
-l.qq.com
 mcgi.v.qq.com
 soup.v.qq.com
 bksoup.v.qq.com
@@ -649,7 +654,6 @@ monitor.music.qq.com
 stat.y.qq.com
 tmead.y.qq.com
 log.tbs.qq.com
-wxsnsdythumb.wxs.qq.com
 cfg.imtt.qq.com
 xlmzc.cnjp-exp.com
 ad.qun.qq.com
@@ -677,7 +681,6 @@ jqmt.qq.com
 jsqmt.qq.com
 ta.qq.com
 tencentmind.com
-e.qq.com
 dp3.qq.com
 android.rqd.qq.com
 api.poll.aiseet.atianqi.com
@@ -700,7 +703,7 @@ masdk.3g.qq.com
 ten.sngapm.qq.com
 ads.privacy.qq.com
 tdid.m.qq.com
-h.trace.qq.com
+trace.qq.com
 mtt.str.mdt.qq.com
 tmeadcomm.y.qq.com
 qzs.gdtimg.com
@@ -709,12 +712,9 @@ cmshow.gtimg.cn
 qappcenterv6.3g.qq.com
 cc.map.qq.com
 aegis.qq.com
-wxsnsdy.wxs.qq.com
 qqdata.ab.qq.com
 report.qqweb.qq.com
-wxsnsencsvp.wxs.qq.com
 ad.weixin.qq.com
-wxa.wxs.qq.com
 wxsnsdy.video.qq.com
 wxsnsdy.tc.qq.com
 wxsnsad.tc.qq.com
@@ -731,6 +731,25 @@ adclick.tencentmusic.com
 bugly.qq.com
 jpush.html5.qq.com
 tmfsdk.m.qq.com
+xc.gdt.qq.com
+m.kubiqq.com
+sngmta.qq.com
+scdown.qq.com
+c.gj.qq.com
+tj.video.qq.com
+tj.b.qq.com
+tdc.qq.com
+l.qq.com
+v2.gdt.qq.com
+review.gdtimg.com
+rpt.gdt.qq.com
+c2.gdt.qq.com
+win.gdt.qq.com
+ws.sj.qq.com
+s1.qq.com
+s2.qq.com
+s3.qq.com
+adsmind.ugdtimg.com
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
@@ -1285,7 +1304,6 @@ adsfile.bssdlbig.kugou.com
 ads.service.kugou.com
 collect.kugou.com
 splashimgbssdl.yun.kugou.com
-adsfilebssdlbig.ali.kugou.com
 log.stat.kugou.com
 log.web.kugou.com
 #极光推送
