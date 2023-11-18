@@ -99,7 +99,6 @@ live-trace.bilibili.com
 xtgreat.com
 scorecardresearch.com
 show.ssports.com
-mmstat.com
 dutils.com
 gifshow.com
 mbads.paas.cmbchina.com
