@@ -650,7 +650,6 @@ applog.uc.cn
 track.uc.cn
 track.lc.quark.cn
 dualstack-logs.amap.com
-mmstat.com
 effirst.com
 cn-acs.m.cainiao.com
 #ColorOS-OPPO
