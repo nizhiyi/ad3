@@ -14,6 +14,7 @@ www.zhihu.com##.OpenInAppButton
 m.sohu.com##.top-bill-wrapper
 csdn.net##.recommend_list
 csdn.net##.feed-Sign-weixin
+csdn.net##.wap-shadowbox
 163.com##section.js-recommend
 m.autohome.com.cn###float_new_button
 m.autohome.com.cn##.evade-operate
@@ -140,6 +141,7 @@ m.antpedia.com##.relatedCon
 ||baidu.com/*getrelatedbusiness
 ||mipengine.baidu.com/recfeed
 ||mstatic.cdn.bcebos.com/content-landing-page/_next/static/chunks/framework
+||tieba.baidu.com/mo/q/getUpConfigData?fr=wise
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
