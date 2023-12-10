@@ -36,6 +36,7 @@ m.smzdm.com##DIR.fake-card
 bing.com##LI.ad_sc
 bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
+www.jianshu.com##.download-app-guidance
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
