@@ -12,6 +12,8 @@ baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com###J-super-layer-promote
 www.zhihu.com##.OpenInAppButton
 m.sohu.com##.top-bill-wrapper
+blog.csdn.net##.feed-Sign-weixin
+blog.csdn.net##.wap-shadowbox
 blog.csdn.net##.recommend_list
 blog.csdn.net##DIV.passport-login-container
 163.com##section.js-recommend
