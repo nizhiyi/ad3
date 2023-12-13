@@ -38,6 +38,7 @@ bing.com##LI.ad_sc
 bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
 www.jianshu.com##DIV.download-app-guidance
+juejin.cn##.open-button
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
@@ -369,3 +370,4 @@ www.jianshu.com##DIV.download-app-guidance
 ||antpedia.com/news/api
 ||instrument.com.cn/ad/
 ||tongjisum.com^
+||api.juejin.cn/recommend
