@@ -373,8 +373,4 @@ juejin.cn##.open-button
 ||api.juejin.cn/recommend
 ||amsapi.yicai.com/search?id
 ||yicai.com/api/ajax/get
-||msftauth.net^
-||msauth.net^
-||azure.com^
-||outbrain.com^
-||gfx.ms^
+||assets.msn.cn/bundles/*AdsFlights
