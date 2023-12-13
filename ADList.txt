@@ -371,3 +371,10 @@ juejin.cn##.open-button
 ||instrument.com.cn/ad/
 ||tongjisum.com^
 ||api.juejin.cn/recommend
+||amsapi.yicai.com/search?id
+||yicai.com/api/ajax/get
+||msftauth.net^
+||msauth.net^
+||azure.com^
+||outbrain.com^
+||gfx.ms^
