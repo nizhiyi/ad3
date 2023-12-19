@@ -316,8 +316,12 @@ effirst.com
 cn-acs.m.cainiao.com
 #ColorOS-OPPO
 ads.heytapmobi.com
+adsfs-sdkconfig.heytapimage.com
+mdp-usertrace-cn.heytapmobi.com
+img-c.heytapimage.com
 adsfs.oppomobile.com
 ads.oppomobile.com
+titan.heytap.com
 #360
 tracking.v.tf.360.cn
 service.jiagu.360.cn
