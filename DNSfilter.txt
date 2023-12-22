@@ -252,7 +252,6 @@ cpu.baidu.com
 cpucdn.baidu.com
 haokan.baidu.com
 lupic.cdn.bcebos.com
-bdstatic.com
 timgsa.baidu.com
 union.baidu.com
 hmma.baidu.com
