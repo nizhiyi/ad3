@@ -265,9 +265,6 @@ hector.baidu.com
 feed.baidu.com
 ext.baidu.com
 h2tcbox.baidu.com
-ss0.bdstatic.com
-ss2.bdstatic.com
-ss3.bdstatic.com
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
 adping.qq.com
