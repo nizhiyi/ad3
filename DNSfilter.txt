@@ -1,4 +1,12 @@
 #自定义规则（其它）
+app-measurement.com
+bingads.microsoft.com
+image-ad.sm.cn
+ad.51wnl.com
+ad.winrar.com.cn
+adapi.izuiyou.com
+adsmind.gdtimg.com
+advertising.yandex.ru
 chinanetcenter.com
 t-dsp.pinduoduo.com
 vlyun.com
