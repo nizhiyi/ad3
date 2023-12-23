@@ -337,7 +337,6 @@ tangram.e.qq.com
 sdk.e.qq.com
 fyeds3.com
 tdid.m.qq.com
-android.bugly.qq.com
 qzs.gdtimg.com
 mi.gdt.qq.com
 rdt.tfogc.com
