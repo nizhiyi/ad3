@@ -198,7 +198,6 @@ lf1-cdn-tos.bytegoofy.com
 apmlog.snssdk.com
 apps.oceanengine.com
 playable.oceanengine.com
-gromore.pangolin-sdk-toutiao.com
 sf6-ttcdn-tos.pstatp.com
 mssdk.volces.com
 #--小米-MIUI
