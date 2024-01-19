@@ -374,3 +374,5 @@ juejin.cn##.open-button
 ||amsapi.yicai.com/search?id
 ||yicai.com/api/ajax/get
 ||assets.msn.cn/bundles/*AdsFlights
+||aixuango.com^
+||taisantech.com^
