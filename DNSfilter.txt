@@ -1,4 +1,5 @@
 #自定义规则（其它）
+richmob.cn
 app-measurement.com
 bingads.microsoft.com
 image-ad.sm.cn
