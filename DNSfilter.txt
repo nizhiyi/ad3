@@ -11,14 +11,8 @@ adhub.ly.com
 ad-sdk.huxiu.com
 api-ad-product.huxiu.com
 ads-api-o.api.leiniao.com
-adnxs.com
-analysis.yozocloud.cn
 adx.kuaiyiad.com
-analytics.95516.com
 ads.95516.com
-adjust.cn
-ad-scope.com
-ad-scope.com.cn
 voiceads.cn
 c-adx.2345.com
 dutils.com
@@ -585,12 +579,15 @@ admobile.mobi
 admobile.cc
 tianmu.mobi
 #BeiZi SDK
-beizi.info
 beizi.biz
-beizi.online
+ad-scope.com.cn
+beizi.info
 adscope.cn
-adscope.com.cn
 adscope.xyz
+adn-plus.com.cn
+adscope.com.cn
+adnplus.com.cn
+beizi.online
 #MTG SDK
 mindworks-creative.cn
 mintegral.net
