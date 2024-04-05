@@ -70,7 +70,6 @@ adx.kuaiyiad.com
 analytics.95516.com
 ads.95516.com
 adjust.cn
-catalog.gamepass.com
 ad-scope.com
 ad-scope.com.cn
 databyterangers.com.cn
@@ -153,7 +152,6 @@ ad.hpplay.cn
 adc.hpplay.cn
 adcdn.hpplay.cn
 adeng.hpplay.cn
-tanx.com
 flurry.com
 ads.sohu.com
 track.sohu.com
@@ -181,7 +179,6 @@ ad-core-lb-v3.lf.bytelb.net
 zijieapi.com
 dm-hl.toutiao.com
 frontier-toutiao.snssdk.com
-mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
@@ -384,7 +381,6 @@ track.uc.cn
 track.lc.quark.cn
 dualstack-logs.amap.com
 effirst.com
-cn-acs.m.cainiao.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 acs.m.taobao.com
 audid-api.taobao.com
