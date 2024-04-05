@@ -10,7 +10,6 @@ ad.12306.cn
 hubcloud.com.cn
 sugar.zhihu.com
 adhub.ly.com
-ylhglobal.com
 img.adnyg.com.w.kunlungr.com
 adnyg.com
 azr.footprintdns.com
@@ -146,6 +145,12 @@ ad.10010.com
 ads-union.jd.com
 ads.union.jd.com
 skdisplay.jd.com
+dsp-x.jd.com
+dsp-x.jd.com.gslb.qianxun.com
+janapi.jd.com
+janapi.jd.com.gslb.qianxun.com
+xlog.jd.com
+xlog.jd.com.gslb.qianxun.com
 #字节-toutiao
 pangolin-sdk-toutiao1.com
 pangolin-sdk-toutiao2.com
