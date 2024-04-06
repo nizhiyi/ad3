@@ -180,6 +180,8 @@ ucstat.baidu.com
 staticsns.cdn.bcebos.com
 #pkg=qq.com;腾讯广告服务
 ad.qq.com
+sdk.e.qq.com
+gdt.qq.com
 adsense.html5.qq.com
 adsolution.imtt.qq.com
 ad.weixin.qq.com
