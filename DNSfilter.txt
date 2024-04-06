@@ -192,7 +192,6 @@ adcdn.tencentmusic.com
 adexpo.tencentmusic.com
 adclick.tencentmusic.com
 adsmind.ugdtimg.com
-ias.tencent-cloud.net
 android.bugly.qq.com
 #pkg=alibaba.com;阿里广告服务
 nbsdk-baichuan.alicdn.com
