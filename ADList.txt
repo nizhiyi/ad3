@@ -254,7 +254,9 @@ juejin.cn##.open-button
 ||sugar.zhihu.com^
 ||www.zhihu.com/api/*/related-
 ||www.zhihu.com/api/*/hot_recommendation
-||static.zhihu.com/heifetz/mobile.GoodsRecommendGoodsCardList
+||static.zhihu.com/*ECommerceAd
+||static.zhihu.com/*ad.css
+||static.zhihu.com/*GoodsRecommend
 ||zhihu.com/commercial
 ||api.zhihu.com/distribute/rhea/qa_ad_card
 ||zhihu-web-analytics.zhihu.com^
