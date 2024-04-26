@@ -1,4 +1,6 @@
 #自定义规则（其它）
+ethicalads.io
+in.appcenter.ms
 cloudfront.net
 richmob.cn
 ad.51wnl.com
@@ -216,6 +218,8 @@ adash-emas.cn-hangzhou.aliyuncs.com
 adtrack.quark.cn
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 adn.insight.ucweb.com
+umeng.com.gds.alibabadns.com
+umengacs.m.taobao.com
 #ColorOS-OPPO
 ads.heytapmobi.com
 adsfs-sdkconfig.heytapimage.com
