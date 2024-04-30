@@ -10,8 +10,8 @@ tieba.baidu.com##.tb-banner-wrapper-defensive
 tieba.baidu.com##nav.tb-backflow-defensive
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com###J-super-layer-promote
-www.zhihu.com##.OpenInAppButton
-www.zhihu.com##.QuestionInvitation
+zhihu.com##.OpenInAppButton
+zhihu.com##.QuestionInvitation
 m.sohu.com##.top-bill-wrapper
 csdn.net##.feed-Sign-weixin
 csdn.net##.wap-shadowbox
