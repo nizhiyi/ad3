@@ -1,7 +1,6 @@
 #自定义规则（其它）
 ethicalads.io
 in.appcenter.ms
-cloudfront.net
 richmob.cn
 ad.51wnl.com
 ad.winrar.com.cn
