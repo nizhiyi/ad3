@@ -40,6 +40,7 @@ bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
 www.jianshu.com##DIV.download-app-guidance
 juejin.cn##.open-button
+www.btnull.net###ly
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
@@ -256,7 +257,6 @@ juejin.cn##.open-button
 ||www.zhihu.com/api/*/related-
 ||www.zhihu.com/api/*/hot_recommendation
 ||static.zhihu.com/*ECommerceAd
-||static.zhihu.com/*ad.css
 ||static.zhihu.com/*GoodsRecommend
 ||zhihu.com/commercial
 ||api.zhihu.com/distribute/rhea/qa_ad_card
@@ -380,3 +380,4 @@ juejin.cn##.open-button
 ||aixuango.com^
 ||taisantech.com^
 ||ethicalads.io^
+||docs.gtimg.com/docs_components/docs-component
