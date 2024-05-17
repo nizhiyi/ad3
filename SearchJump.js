@@ -4,15 +4,17 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match https://www.bing.com/search?*
-// @match https://cn.bing.com/search?*
-// @match https://www.baidu.com/s?*
-// @match https://m.baidu.com/s?*
-// @match https://www.baidu.com/from=*
-// @match https://m.baidu.com/from=*
+// @match       https://www.bing.com/search?*
+// @match       https://cn.bing.com/search?*
+// @match       https://www.baidu.com/s?*
+// @match       https://m.baidu.com/s?*
+// @match       https://www.baidu.com/from=*
+// @match       https://m.baidu.com/from=*
 // @match https://www.baidu.com/ssid=0/from=*
 // @match https://m.baidu.com/ssid=0/from=*
 // @match https://m.sogou.com/web/searchList*
+// @match       https://xueshu.baidu.com/s?*
+// @match       https://www.zhihu.com/search?q=*
 // @run-at       document-start
 // @license      MIT
 // ==/UserScript==
@@ -38,6 +40,18 @@ const urlMapping = [
     testUrl: ".sogou.com/web/searchList",
   },
   {
+    name: "学术",
+    searchUrl: "https://xueshu.baidu.com/s?wd=",
+    keyName: "wd",
+    testUrl: "xueshu.baidu.com/s?wd=",
+  },
+{
+    name: "知乎",
+    searchUrl: "https://www.zhihu.com/search?q=",
+    keyName: "q",
+    testUrl: "https://www.zhihu.com/search?",
+  },
+  {
     name: "百度（隐藏）",
     searchUrl: "https://www.baidu.com/s?word=",
     keyName: "word",
@@ -59,10 +73,11 @@ const urlMapping = [
 
 // 从url中获取搜索关键词
 function getkeywords() {
-  let query = new URLSearchParams(location.search);
+  let keyquery = new URLSearchParams(location.search);
+  let urlquery = location.href;
   for (let item of urlMapping) {
-    if (location.href.includes(item.testUrl)) {
-    return decodeURIComponent(query.get(item.keyName));}
+    if (urlquery.includes(item.testUrl)) {
+    return decodeURIComponent(keyquery.get(item.keyName));}
   }
 return null;
 };
@@ -75,32 +90,32 @@ divlist.style = `
   bottom: 0px; 
   right: 0px; 
   width: 50px; 
-  height: 110px;
+  height: 190px;
   background-color: hsla(200, 60%, 96%, 0.8); 
-  font-size: 14px; 
   border-radius: 8px; 
   z-index: 99999;
+  font-size: 14px;
+  text-align: left;
+  line-height: 1.5;
 `;
 document.body.insertAdjacentElement("afterbegin", divlist);
 
 // 列表样式
 let liststyle = `
-  display: block; 
-  color: hsla(211, 60%, 35%, .8) !important;
+  display: block;
   padding: 8px; 
-  text-align: left;
-  line-height: 1.5;
+  color: hsla(211, 60%, 35%, .8) !important;
 `;
 
 // 设置搜索列表
-for (i = 0; i < 3; i++) {
+for (i = 0; i < 5; i++) {
   let itemmap = urlMapping[i];
   let alist = document.createElement("a");
   alist.className = "search-engine-a";
   alist.style = liststyle;
   alist.innerText = itemmap.name;
   alist.addEventListener('click', function () {
-    location.replace(itemmap.searchUrl + getkeywords());
+    location.assign(itemmap.searchUrl + getkeywords());
     });
   divlist.appendChild(alist);
 };
