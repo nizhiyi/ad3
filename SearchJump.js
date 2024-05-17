@@ -4,17 +4,17 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match       https://www.bing.com/search?*
-// @match       https://cn.bing.com/search?*
-// @match       https://www.baidu.com/s?*
-// @match       https://m.baidu.com/s?*
-// @match       https://www.baidu.com/from=*
-// @match       https://m.baidu.com/from=*
-// @match https://www.baidu.com/ssid=0/from=*
-// @match https://m.baidu.com/ssid=0/from=*
-// @match https://m.sogou.com/web/searchList*
-// @match       https://xueshu.baidu.com/s?*
-// @match       https://www.zhihu.com/search?q=*
+// @match        https://www.bing.com/search?*
+// @match        https://cn.bing.com/search?*
+// @match        https://www.baidu.com/s?*
+// @match        https://m.baidu.com/s?*
+// @match        https://www.baidu.com/from=*
+// @match        https://m.baidu.com/from=*
+// @match        https://www.baidu.com/ssid=0/from=*
+// @match        https://m.baidu.com/ssid=0/from=*
+// @match        https://m.sogou.com/web/searchList*
+// @match        https://xueshu.baidu.com/s?*
+// @match        https://www.zhihu.com/search?q=*
 // @run-at       document-start
 // @license      MIT
 // ==/UserScript==
