@@ -15,7 +15,7 @@
 // @match        https://m.sogou.com/web/searchList*
 // @match        https://xueshu.baidu.com/s?*
 // @match        https://www.zhihu.com/search?q=*
-// @run-at       document-start
+// @run-at       document-end
 // @license      MIT
 // ==/UserScript==
  
