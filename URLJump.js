@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       倪同学
 // @run-at       document-start
-// @match      https://www.coolapk.com/link?url*
+// @match        https://www.coolapk.com/link?url*
 // @match        https://link.zhihu.com/?target*
 // @match        https://link.csdn.net/?target*
 // @match        https://www.jianshu.com/go-wild*
