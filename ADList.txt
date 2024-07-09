@@ -21,12 +21,9 @@ csdn.net##DIV.passport-login-container
 m.autohome.com.cn###float_new_button
 m.autohome.com.cn##.evade-operate
 m.autohome.com.cn###section_homtpop
-bilibili.com##div.launch-app-btn
-bilibili.com##.openapp-dialog.large
-bilibili.com##.float-btn
-manmanbuy.com##.app-activity-download
-manmanbuy.com##.app-promotion-bar
-manmanbuy.com##.appbanner
+m.bilibili.com##div.launch-app-btn
+m.bilibili.com##.openapp-dialog.large
+m.bilibili.com##.float-btn
 m.mydrivers.com##.jdong1div
 m.mydrivers.com##.jdong11bg
 m.fang.com##.news-zx-fixed
