@@ -13,10 +13,10 @@ baike.baidu.com###J-super-layer-promote
 www.zhihu.com##.OpenInAppButton
 www.zhihu.com##.QuestionInvitation
 m.sohu.com##.top-bill-wrapper
-csdn.net##.feed-Sign-weixin
-csdn.net##.wap-shadowbox
-csdn.net##.recommend_list
-csdn.net##DIV.passport-login-container
+blog.csdn.net##.feed-Sign-weixin
+blog.csdn.net##.wap-shadowbox
+blog.csdn.net##.recommend_list
+blog.csdn.net##DIV.passport-login-container
 163.com##section.js-recommend
 m.autohome.com.cn###float_new_button
 m.autohome.com.cn##.evade-operate
@@ -33,8 +33,8 @@ m.fang.com##DIV.floatAlert
 m.smzdm.com##.footer-banner
 m.smzdm.com##.footer-banner-wrap
 m.smzdm.com##DIR.fake-card
-bing.com##LI.ad_sc
-bing.com###bnp_rich_div
+cn.bing.com##LI.ad_sc
+cn.bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
 www.jianshu.com##DIV.download-app-guidance
 juejin.cn##.open-button
