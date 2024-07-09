@@ -17,7 +17,6 @@ blog.csdn.net##.feed-Sign-weixin
 blog.csdn.net##.wap-shadowbox
 blog.csdn.net##.recommend_list
 blog.csdn.net##DIV.passport-login-container
-163.com##section.js-recommend
 m.autohome.com.cn###float_new_button
 m.autohome.com.cn##.evade-operate
 m.autohome.com.cn###section_homtpop
@@ -37,7 +36,6 @@ cn.bing.com##LI.ad_sc
 cn.bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
 www.jianshu.com##DIV.download-app-guidance
-juejin.cn##.open-button
 www.btnull.net###ly
 m.doc88.com##.zbox-popup
 m.doc88.com##.zbox-popup-backdrop
