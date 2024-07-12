@@ -11,6 +11,7 @@ tieba.baidu.com##nav.tb-backflow-defensive
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com###J-super-layer-promote
 www.zhihu.com##.OpenInAppButton
+zhuanlan.zhihu.com##.OpenInAppButton
 www.zhihu.com##.QuestionInvitation
 m.sohu.com##.top-bill-wrapper
 blog.csdn.net##.feed-Sign-weixin
