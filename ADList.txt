@@ -10,8 +10,7 @@ tieba.baidu.com##.tb-banner-wrapper-defensive
 tieba.baidu.com##nav.tb-backflow-defensive
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com###J-super-layer-promote
-www.zhihu.com##.OpenInAppButton
-zhuanlan.zhihu.com##.OpenInAppButton
+zhihu.com##.OpenInAppButton
 www.zhihu.com##.QuestionInvitation
 m.sohu.com##.top-bill-wrapper
 blog.csdn.net##.feed-Sign-weixin
@@ -146,6 +145,8 @@ m.sogou.com##.qb-download-banner-non-share
 ||mipengine.baidu.com/recfeed
 ||mstatic.cdn.bcebos.com/content-landing-page/_next/static/chunks/framework
 ||tieba.baidu.com/mo/q/getUpConfigData?fr=wise
+||fanyi.baidu.com/wise/*
+||fanyi.baidu.com/mobile/config
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
