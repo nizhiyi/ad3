@@ -147,6 +147,8 @@ m.sogou.com##.qb-download-banner-non-share
 ||tieba.baidu.com/mo/q/getUpConfigData?fr=wise
 ||fanyi.baidu.com/wise/*
 ||fanyi.baidu.com/mobile/config
+||ms.bdstatic.com/se/*/app/vid_recommend/
+||baidu.com/rec?platform=wise
 ||adservice.google.com^
 ||scorecardresearch.com^
 ||googletagmanager.com^
