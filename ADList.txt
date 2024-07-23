@@ -219,12 +219,6 @@ m.sogou.com##.qb-download-banner-non-share
 ||gamersky.com/common/tg/
 ||mediav.com^
 ||img-home.csdnimg.cn/data_json/
-||2345.com^
-||2345.cn^
-||bdsearch.2345.com^
-||bdcode.2345.com^
-||ggcode.2345.com^
-||waptianqi.2345.com/js/browser
 ||50bang.org^
 ||n.baminw.com.cn^
 ||bdwmhz.120askimages.com^
