@@ -320,4 +320,3 @@ m.sogou.com##.qb-download-banner-non-share
 ||aixuango.com^
 ||taisantech.com^
 ||ethicalads.io^
-||docs.gtimg.com/docs_components/docs-component
