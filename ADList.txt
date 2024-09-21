@@ -25,6 +25,7 @@ www.btnull.net###ly
 m.doc88.com##.zbox-popup
 m.doc88.com##.zbox-popup-backdrop
 m.sogou.com##.qb-download-banner-non-share
+www.mxdmp.com###aabbox
 /Detail/GetInfosByIds
 /js/dngdqabkweb
 /js/dihzbipnif
@@ -320,3 +321,4 @@ m.sogou.com##.qb-download-banner-non-share
 ||aixuango.com^
 ||taisantech.com^
 ||ethicalads.io^
+||static-cpc.heytapimage.com/userfiles/ads
