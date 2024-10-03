@@ -130,7 +130,7 @@ www.mxdmp.com###aabbox
 ||baidu.com/*getrelatedbusiness
 ||mipengine.baidu.com/recfeed
 ||mstatic.cdn.bcebos.com/content-landing-page/_next/static/chunks/framework
-||tieba.baidu.com/mo/q/getUpConfigData?fr=wise
+||tieba.baidu.com/mo/q/getUpConfigData?*fr=wise
 ||fanyi.baidu.com/wise/*
 ||fanyi.baidu.com/mobile/config
 ||ms.bdstatic.com/se/*/app/vid_recommend/
