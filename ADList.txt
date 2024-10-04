@@ -73,7 +73,6 @@ www.mxdmp.com###aabbox
 :443/$third-party
 :4443/$third-party
 :7891/$third-party
-:777/$third-party
 :888/$third-party
 :866/$third-party
 :8080/$third-party
