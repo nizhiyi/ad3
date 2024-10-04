@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title:ADList
+@@*.m3u8
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
@@ -73,6 +74,7 @@ www.mxdmp.com###aabbox
 :443/$third-party
 :4443/$third-party
 :7891/$third-party
+:777/$third-party
 :888/$third-party
 :866/$third-party
 :8080/$third-party
