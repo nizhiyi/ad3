@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title:ADList
-@@*.m3u8
+@@.m3u8
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
