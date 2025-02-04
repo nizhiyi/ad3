@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title:ADList
 @@.m3u8
+@@.top/202
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
@@ -9,6 +10,7 @@ tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##.banner-wrapper-defensive
 tieba.baidu.com##.tb-banner-wrapper-defensive
 tieba.baidu.com##nav.tb-backflow-defensive
+tieba.baidu.com##.recom-layout-container
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com###J-super-layer-promote
 zhihu.com##.OpenInAppButton
