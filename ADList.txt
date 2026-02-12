@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! Title:ADList
-@@.m3u8
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
@@ -23,19 +22,12 @@ m.doc88.com##.zbox-popup-backdrop
 m.sogou.com##.qb-download-banner-non-share
 www.mxdmp.com###aabbox
 www.right.com.cn##.yt-cloud-ad-link
-.xyz/$third-party
-.xyz:$third-party
-.top/$third-party
-.top:$third-party
-.vip/$third-party
-.vip:$third-party
-.icu/$third-party
-.ren/$third-party
-.asia/$third-party
-.love/$third-party
-.buzz/$third-party
-.live/$third-party
-.men/$third-party
+.xyz/*.js$third-party
+.xyz:*.js$third-party
+.top/*.js$third-party
+.top:*.js$third-party
+.vip/*.js$third-party
+.vip:*.js$third-party
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
