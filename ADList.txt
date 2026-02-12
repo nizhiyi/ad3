@@ -1,16 +1,9 @@
 [Adblock Plus 2.0]
 ! Title:ADList
 @@.m3u8
-@@.top/202
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
-tieba.baidu.com##.nav-bar-bottom
-tieba.baidu.com##.fengchao-banner-defensive
-tieba.baidu.com##.banner-wrapper-defensive
-tieba.baidu.com##.tb-banner-wrapper-defensive
-tieba.baidu.com##nav.tb-backflow-defensive
-tieba.baidu.com##.recom-layout-container
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com###J-super-layer-promote
 zhihu.com##.OpenInAppButton
@@ -29,27 +22,6 @@ m.doc88.com##.zbox-popup
 m.doc88.com##.zbox-popup-backdrop
 m.sogou.com##.qb-download-banner-non-share
 www.mxdmp.com###aabbox
-/Detail/GetInfosByIds
-/js/dngdqabkweb
-/js/dihzbipnif
-/js/fsjghgwyegh
-/js/fdjdjghrut
-/js/shangu8lx7har
-/js/xiack0uku7m
-/js/shangshan_
-/js/xiashan_
-/js/guanggiao/
-/js/huimi-p88
-/mo/q/recommendpb
-/mo/q/gameresourcepb/
-/plugins/meks-easy-ads-widget/
-/pixel/sbe?
-/insight/ads
-/touch/reconstruct/article
-/api/hot/news/combine
-/touch/jsonp/article
-/touch/api/paid-article
-/mxtheme/js/dp.js
 .xyz/$third-party
 .xyz:$third-party
 .top/$third-party
