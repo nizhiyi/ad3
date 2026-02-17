@@ -65,7 +65,7 @@ www.right.com.cn##.yt-cloud-ad-link
 ||mipengine.baidu.com/recfeed
 ||mstatic.cdn.bcebos.com/content-landing-page/_next/static/chunks/framework
 ||tieba.baidu.com/mo/q/getUpConfigData?*fr=wise
-||fanyi.baidu.com/wise/*
+||fanyi.baidu.com/wise
 ||fanyi.baidu.com/mobile/config
 ||ms.bdstatic.com/se/*/app/vid_recommend/
 ||baidu.com/rec?platform=wise
@@ -90,7 +90,6 @@ www.right.com.cn##.yt-cloud-ad-link
 ||gdt.qq.com^
 ||erebor.douban.com^
 ||at3.doubanio.com/*.js
-||at4.doubanio.com/*?
 ||jwz.3conline.com/adpuba
 ||ivy.pconline.com.cn^
 ||www.pconline.com.cn/_hux_
@@ -130,9 +129,9 @@ www.right.com.cn##.yt-cloud-ad-link
 ||ugapi.alipay.com/monitor
 ||skdisplay.jd.com/feedback/display
 ||www.xiaohongshu.com/api/sns/v1/ext/ads
-||gamersky.com/common/tg/
+||gamersky.com/common/tg
 ||mediav.com^
-||img-home.csdnimg.cn/data_json/
+||img-home.csdnimg.cn/data_json
 ||50bang.org^
 ||n.baminw.com.cn^
 ||bdwmhz.120askimages.com^
@@ -185,7 +184,7 @@ www.right.com.cn##.yt-cloud-ad-link
 ||yinghuacd.com/bar/
 ||wujiuwenxue.com/vue/iview
 ||g.csdnimg.cn/login-box/1.0.4/login-auto.js
-||silkroad.csdn.net/api/
+||silkroad.csdn.net/api
 ||beacon.tingyun.com^
 ||moatads.com^
 ||pbmp.ali213.net/js/
@@ -194,10 +193,9 @@ www.right.com.cn##.yt-cloud-ad-link
 ||beacon.qq.com^
 ||m.zol.com.cn/article/searchApi
 ||cpro.zol.com.cn^
-||m.zol.com.cn/Mbase/
+||m.zol.com.cn/Mbase
 ||js.zol.com.cn/pvn/qaminjs
 ||zzcm5.com^
-||zol-img.com.cn/app/js
 ||m.ithome.com/api/news
 ||m.ithome.com/js/common/jump-app
 ||pc.stgowan.com^
@@ -211,9 +209,9 @@ www.right.com.cn##.yt-cloud-ad-link
 ||cis.sohu.com/*/feed
 ||inews.qq.com/web_feed/getRelatedModules
 ||snowflake.qq.com^
-||ifeng.com/*&adids=
+||ifeng.com/*adids=
 ||ifeng.com/relateshare
-||x.autoimg.cn/bi/mda/
+||x.autoimg.cn/bi/mda
 ||al.autohome.com.cn^
 ||quickapp.cn^
 ||app.autohome.com.cn^
@@ -223,7 +221,7 @@ www.right.com.cn##.yt-cloud-ad-link
 ||www1.pcauto.com.cn/*.js
 ||jzz.pcauto.com.cn/admin/recommend
 ||cmt.pcauto.com.cn^
-||include.manmanbuy.com/js/*.js?
+||include.manmanbuy.com/js/*.js
 ||static.manmanbuy.com/m/js/InsertAppDownload.js
 ||mapi.yiche.com/web_api/*recommend
 ||dongchedi.com/motor/pc/content/rela
@@ -235,7 +233,7 @@ www.right.com.cn##.yt-cloud-ad-link
 ||lubanyuan.cn/d/js/lbygg/
 ||js.3conline.com/min*lib-zepto
 ||book118.com/*ecommend
-||book118.com/*elation/
+||book118.com/*elation
 ||pstatp.com/goofy
 ||zx.docin.com^
 ||img.douding.cn/app/load
