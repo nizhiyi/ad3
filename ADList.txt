@@ -23,6 +23,7 @@ m.doc88.com##.zbox-popup-backdrop
 m.sogou.com##.qb-download-banner-non-share
 www.mxdmp.com###aabbox
 www.right.com.cn##.yt-cloud-ad-link
+www.123pan.com##.banner-container-h5
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
@@ -251,3 +252,4 @@ www.right.com.cn##.yt-cloud-ad-link
 ||taisantech.com^
 ||ethicalads.io^
 ||static-cpc.heytapimage.com/userfiles/ads
+||tuia.cn^
