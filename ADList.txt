@@ -11,11 +11,11 @@ zhihu.com##.QuestionInvitation
 blog.csdn.net##.feed-Sign-weixin
 blog.csdn.net##.wap-shadowbox
 blog.csdn.net##.recommend_list
-blog.csdn.net##DIV.passport-login-container
+blog.csdn.net##div.passport-login-container
 cn.bing.com##LI.ad_sc
 cn.bing.com###bnp_rich_div
 m.antpedia.com##.relatedCon
-www.jianshu.com##DIV.download-app-guidance
+www.jianshu.com##div.download-app-guidance
 www.btnull.net###ly
 m.doc88.com##.zbox-popup
 m.doc88.com##.zbox-popup-backdrop
@@ -76,7 +76,6 @@ www.right.com.cn##.yt-cloud-ad-link
 ||google-analytics.com^
 ||googlesyndication.com^
 ||discovery.googleapis.com^
-||fonts.googleapis.com^
 ||taboola.com.cn^
 ||taboola.com^
 ||duomai.com^
@@ -193,12 +192,12 @@ www.right.com.cn##.yt-cloud-ad-link
 ||jianshu.com/asimov/pdd
 ||jianshu.com/asimov/notes/seo_recommendations
 ||beacon.qq.com^
-||m.zol.comcn/article/searchApi
+||m.zol.com.cn/article/searchApi
 ||cpro.zol.com.cn^
 ||m.zol.com.cn/Mbase/
-||js.zol.comcn/pvn/qaminjs
+||js.zol.com.cn/pvn/qaminjs
 ||zzcm5.com^
-||zol-img.comcn/app/js
+||zol-img.com.cn/app/js
 ||m.ithome.com/api/news
 ||m.ithome.com/js/common/jump-app
 ||pc.stgowan.com^
@@ -212,7 +211,7 @@ www.right.com.cn##.yt-cloud-ad-link
 ||cis.sohu.com/*/feed
 ||inews.qq.com/web_feed/getRelatedModules
 ||snowflake.qq.com^
-||ifeng.com^*&adids=
+||ifeng.com/*&adids=
 ||ifeng.com/relateshare
 ||x.autoimg.cn/bi/mda/
 ||al.autohome.com.cn^
