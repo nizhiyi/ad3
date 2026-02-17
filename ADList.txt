@@ -22,12 +22,6 @@ m.doc88.com##.zbox-popup-backdrop
 m.sogou.com##.qb-download-banner-non-share
 www.mxdmp.com###aabbox
 www.right.com.cn##.yt-cloud-ad-link
-.xyz/$third-party
-.xyz:$third-party
-.top/$third-party
-.top:$third-party
-.vip/$third-party
-.vip:$third-party
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
