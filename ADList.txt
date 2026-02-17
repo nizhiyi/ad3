@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title:ADList
+@@alidns.com
 m.baidu.com##.ec_wise_ad
 m.toutiao.com##.ad-container
 xw.qq.com##.recommend-modules
@@ -56,10 +57,8 @@ www.right.com.cn##.yt-cloud-ad-link
 ||zhanzhang.baidu.com^
 ||bdimg.share.baidu.com^
 ||downpack.baidu.com^
-||baidu.com/?action=getadsdata&
-||baidu.com/newspage/api/getmobads?
-||sofire.bdstatic.com
-||msite.baidu.com
+||baidu.com/?action=getadsdata
+||baidu.com/newspage/api/getmobads
 ||jingyan.baidu.com/article/ajax/
 ||baidu.com/*getrelatedbusiness
 ||mipengine.baidu.com/recfeed
