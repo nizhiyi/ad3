@@ -22,12 +22,12 @@ m.doc88.com##.zbox-popup-backdrop
 m.sogou.com##.qb-download-banner-non-share
 www.mxdmp.com###aabbox
 www.right.com.cn##.yt-cloud-ad-link
-.xyz/*.js$third-party
-.xyz:*.js$third-party
-.top/*.js$third-party
-.top:*.js$third-party
-.vip/*.js$third-party
-.vip:*.js$third-party
+.xyz/$third-party
+.xyz:$third-party
+.top/$third-party
+.top:$third-party
+.vip/$third-party
+.vip:$third-party
 ||ada.baidu.com^
 ||bdstatic.com/static/landing-share
 ||dlswbr.baidu.com^
@@ -173,7 +173,6 @@ www.right.com.cn##.yt-cloud-ad-link
 ||api.zhihu.com/distribute/rhea/qa_ad_card
 ||zhihu-web-analytics.zhihu.com^
 ||www.zhihu.com/api/v4/search/top_search
-||zhihu.com/commercial_api/banners
 ||emcharts.dfcfw.com^
 ||bdstatics.eastmoney.com^
 ||activity.10jqka.com.cn^
