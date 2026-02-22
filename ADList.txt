@@ -91,6 +91,9 @@ www.123865.com##.banner-container-h5
 ||gdt.qq.com^
 ||erebor.douban.com^
 ||at3.doubanio.com/*.js
+||at4.doubanio.com^
+||static.doubanio.com^
+||douban.com/*/ad/
 ||jwz.3conline.com/adpuba
 ||ivy.pconline.com.cn^
 ||www.pconline.com.cn/_hux_
